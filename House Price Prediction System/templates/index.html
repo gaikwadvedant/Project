@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <style>
+        .valuation-card {
+            background: linear-gradient(135deg, #1c2541 0%, #0b132b 100%);
+            border: 1px solid #3a506b;
+            border-radius: 14px;
+            padding: 24px;
+            color: #ffffff;
+            font-family: 'Inter', -apple-system, sans-serif;
+            margin-bottom: 20px;
+        }
+        .card-header {
+            border-bottom: 1px solid #3a506b;
+            padding-bottom: 12px;
+            margin-bottom: 18px;
+        }
+        .card-title {
+            color: #6fffe9;
+            font-size: 24px;
+            font-weight: 800;
+            margin: 0;
+        }
+        .card-subtitle {
+            color: #5bc0be;
+            font-size: 13px;
+            margin-top: 4px;
+        }
+        .metrics-grid {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 12px;
+        }
+        .metric-box {
+            background-color: #162238;
+            border: 1px solid #3a506b;
+            border-radius: 10px;
+            padding: 14px;
+            text-align: center;
+        }
+        .metric-label {
+            color: #5bc0be;
+            font-size: 11px;
+            font-weight: 600;
+            text-transform: uppercase;
+        }
+        .metric-value {
+            color: #ffffff;
+            font-size: 20px;
+            font-weight: 700;
+            margin-top: 6px;
+        }
+    </style>
+</head>
+<body>
+    <div class="valuation-card">
+        <div class="card-header">
+            <div class="card-title">⚡ Property Valuation Summary</div>
+            <div class="card-subtitle">{{ formatted_address }}</div>
+        </div>
+        <div class="metrics-grid">
+            <div class="metric-box">
+                <div class="metric-label">Estimated Valuation</div>
+                <div class="metric-value" style="color: #6fffe9;">₹ {{ avg_price }} L</div>
+            </div>
+            <div class="metric-box">
+                <div class="metric-label">Valuation Range</div>
+                <div class="metric-value">₹ {{ min_price }} - {{ max_price }} L</div>
+            </div>
+            <div class="metric-box">
+                <div class="metric-label">Rate / Sq.Ft.</div>
+                <div class="metric-value" style="color: #5bc0be;">₹ {{ sqft_price }}</div>
+            </div>
+            <div class="metric-box">
+                <div class="metric-label">Transit Score</div>
+                <div class="metric-value" style="color: #ffbf00;">{{ transit_score }} / 100</div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

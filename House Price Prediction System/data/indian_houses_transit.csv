@@ -1,0 +1,2501 @@
+City,BHK,Size_SqFt,Property_Type,Furnishing,Possession_Status,Distance_Metro_KM,Distance_Railway_KM,Distance_Highway_KM,Price_Lakhs
+Kolkata,3,1239,Independent House,Fully Furnished,Under Construction,17.29,15.86,4.77,92.05
+Pune,2,831,Apartment,Fully Furnished,Ready to Move,0.96,0.08,0.57,70.3
+Hyderabad,1,486,Apartment,Unfurnished,Under Construction,0.4,3.16,7.06,36.72
+Kolkata,1,575,Apartment,Semi-Furnished,Ready to Move,3.94,1.67,9.15,32.38
+Bengaluru,2,882,Apartment,Semi-Furnished,Ready to Move,2.29,1.3,1.37,85.22
+Ahmedabad,2,1067,Apartment,Semi-Furnished,Ready to Move,0.26,1.64,1.42,54.46
+Hyderabad,1,528,Apartment,Unfurnished,Ready to Move,7.33,4.07,4.08,40.17
+Hyderabad,2,945,Apartment,Fully Furnished,Ready to Move,0.2,0.85,1.83,101.92
+Kolkata,1,488,Independent House,Unfurnished,Ready to Move,2.45,9.76,0.09,31.91
+Delhi NCR,2,765,Apartment,Semi-Furnished,Ready to Move,1.38,2.51,7.57,103.05
+Bengaluru,2,857,Apartment,Semi-Furnished,Ready to Move,2.03,1.58,1.69,84.76
+Kolkata,3,1477,Apartment,Unfurnished,Under Construction,0.6,5.8,0.68,94.31
+Bengaluru,2,848,Apartment,Fully Furnished,Under Construction,2.91,0.07,2.43,84.09
+Bengaluru,2,1039,Apartment,Fully Furnished,Under Construction,8.03,2.26,0.74,109.08
+Ahmedabad,1,576,Independent House,Semi-Furnished,Ready to Move,1.53,1.76,0.69,43.42
+Hyderabad,1,515,Apartment,Semi-Furnished,Ready to Move,1.85,1.65,2.37,43.69
+Pune,2,913,Builder Floor,Unfurnished,Under Construction,0.69,1.64,1.49,92.07
+Ahmedabad,2,1071,Apartment,Semi-Furnished,Under Construction,5.56,0.13,2.55,54.84
+Ahmedabad,2,993,Apartment,Unfurnished,Ready to Move,8.87,0.66,17.26,48.37
+Bengaluru,2,952,Apartment,Semi-Furnished,Under Construction,3.86,0.61,5.88,92.05
+Chennai,2,842,Builder Floor,Fully Furnished,Under Construction,1.96,17.9,0.02,72.17
+Hyderabad,3,1349,Independent House,Unfurnished,Under Construction,7.85,0.09,0.16,137.57
+Delhi NCR,3,1401,Apartment,Fully Furnished,Ready to Move,0.42,0.73,2.83,194.24
+Ahmedabad,1,424,Apartment,Unfurnished,Ready to Move,1.63,14.63,2.95,20.38
+Pune,2,976,Apartment,Fully Furnished,Ready to Move,1.93,3.96,6.32,87.96
+Chennai,1,615,Apartment,Unfurnished,Ready to Move,1.69,2.4,2.98,40.45
+Chennai,1,520,Apartment,Semi-Furnished,Ready to Move,4.05,0.33,0.78,34.67
+Delhi NCR,4,2689,Independent House,Unfurnished,Ready to Move,2.77,4.43,1.9,328.11
+Ahmedabad,1,532,Builder Floor,Fully Furnished,Under Construction,0.34,0.59,4.97,46.61
+Pune,2,769,Apartment,Semi-Furnished,Ready to Move,1.06,4.45,7.69,62.86
+Hyderabad,2,812,Independent House,Unfurnished,Ready to Move,1.04,15.49,0.81,76.7
+Mumbai,3,1211,Apartment,Semi-Furnished,Ready to Move,2.08,3.04,2.33,280.9
+Pune,2,1063,Apartment,Semi-Furnished,Ready to Move,0.86,0.96,0.52,85.05
+Delhi NCR,1,446,Apartment,Semi-Furnished,Under Construction,0.31,3.93,2.06,46.99
+Chennai,2,790,Apartment,Fully Furnished,Ready to Move,2.65,2.88,0.28,62.36
+Hyderabad,2,717,Independent House,Semi-Furnished,Under Construction,4.76,3.05,8.53,68.29
+Pune,1,548,Apartment,Unfurnished,Ready to Move,6.71,2.6,3.05,34.84
+Mumbai,2,926,Apartment,Unfurnished,Ready to Move,8.99,4.48,5.78,188.17
+Mumbai,1,613,Apartment,Semi-Furnished,Under Construction,3.8,3.39,19.12,154.91
+Bengaluru,1,503,Apartment,Semi-Furnished,Ready to Move,0.38,17.37,0.61,43.33
+Bengaluru,2,850,Apartment,Semi-Furnished,Ready to Move,4.8,6.99,3.55,72.5
+Kolkata,1,591,Apartment,Unfurnished,Ready to Move,1.28,1.23,6.54,36.35
+Delhi NCR,2,739,Apartment,Semi-Furnished,Ready to Move,3.27,5.17,2.57,67.79
+Ahmedabad,2,941,Independent House,Fully Furnished,Ready to Move,1.89,0.96,3.06,73.55
+Pune,3,1237,Independent House,Unfurnished,Under Construction,4.41,6.1,1.57,103.89
+Pune,1,488,Apartment,Semi-Furnished,Ready to Move,1.39,0.64,3.37,43.35
+Ahmedabad,1,579,Independent House,Semi-Furnished,Under Construction,0.16,2.57,1.51,40.48
+Kolkata,1,640,Apartment,Semi-Furnished,Ready to Move,2.03,6.25,1.94,36.81
+Chennai,2,899,Apartment,Semi-Furnished,Ready to Move,0.47,1.31,0.33,77.62
+Chennai,3,1602,Apartment,Semi-Furnished,Ready to Move,8.42,7.26,0.02,108.48
+Kolkata,1,602,Apartment,Fully Furnished,Ready to Move,1.87,4.13,0.17,43.3
+Chennai,4,2372,Apartment,Unfurnished,Ready to Move,2.02,2.03,0.64,144.24
+Bengaluru,1,591,Independent House,Semi-Furnished,Ready to Move,5.95,2.2,1.83,65.67
+Pune,2,704,Apartment,Unfurnished,Ready to Move,2.45,10.41,0.06,55.24
+Kolkata,3,1336,Apartment,Semi-Furnished,Under Construction,0.9,0.98,0.51,88.02
+Pune,3,1792,Apartment,Semi-Furnished,Ready to Move,0.88,4.73,4.56,146.03
+Ahmedabad,3,1410,Independent House,Semi-Furnished,Under Construction,1.74,4.91,4.31,97.36
+Mumbai,3,1648,Apartment,Unfurnished,Ready to Move,5.04,10.23,4.68,333.9
+Bengaluru,2,755,Apartment,Semi-Furnished,Ready to Move,3.96,5.0,7.64,66.01
+Hyderabad,3,1542,Apartment,Semi-Furnished,Ready to Move,8.22,3.51,0.38,131.11
+Bengaluru,1,636,Apartment,Semi-Furnished,Ready to Move,0.19,9.31,0.53,64.21
+Kolkata,3,1296,Apartment,Semi-Furnished,Under Construction,0.78,7.07,1.22,71.1
+Hyderabad,2,772,Independent House,Semi-Furnished,Ready to Move,0.21,5.05,7.4,84.6
+Mumbai,3,1670,Apartment,Fully Furnished,Ready to Move,3.48,0.13,4.48,385.22
+Kolkata,2,939,Apartment,Semi-Furnished,Ready to Move,0.38,1.87,1.18,56.04
+Delhi NCR,2,701,Apartment,Semi-Furnished,Ready to Move,0.26,4.0,0.28,89.75
+Pune,2,1059,Independent House,Fully Furnished,Ready to Move,2.06,2.95,2.87,106.64
+Mumbai,3,1799,Apartment,Unfurnished,Under Construction,1.33,1.54,0.89,414.28
+Pune,1,450,Apartment,Unfurnished,Ready to Move,3.14,0.62,2.27,31.77
+Chennai,1,429,Builder Floor,Semi-Furnished,Under Construction,1.67,3.22,8.53,45.13
+Delhi NCR,1,410,Apartment,Semi-Furnished,Under Construction,1.38,1.35,2.55,46.54
+Delhi NCR,1,619,Apartment,Fully Furnished,Ready to Move,1.39,1.06,7.72,81.84
+Mumbai,3,1207,Apartment,Fully Furnished,Ready to Move,5.14,2.04,1.5,266.63
+Delhi NCR,1,475,Apartment,Semi-Furnished,Ready to Move,1.26,6.16,3.01,43.5
+Hyderabad,4,2516,Apartment,Semi-Furnished,Ready to Move,1.01,2.68,6.73,197.72
+Delhi NCR,2,1078,Apartment,Semi-Furnished,Ready to Move,1.03,0.98,2.66,108.81
+Pune,1,599,Apartment,Semi-Furnished,Under Construction,0.55,0.5,2.86,53.46
+Pune,3,1544,Apartment,Semi-Furnished,Ready to Move,4.93,2.76,3.78,116.87
+Kolkata,2,1080,Apartment,Semi-Furnished,Ready to Move,0.4,6.33,6.41,71.06
+Pune,2,919,Apartment,Semi-Furnished,Ready to Move,5.98,4.23,0.28,64.46
+Kolkata,2,1077,Apartment,Unfurnished,Ready to Move,0.83,1.06,1.23,54.69
+Pune,3,1705,Independent House,Semi-Furnished,Under Construction,5.74,2.3,1.52,179.32
+Hyderabad,1,600,Apartment,Unfurnished,Ready to Move,3.91,7.73,7.21,46.99
+Ahmedabad,4,2414,Independent House,Fully Furnished,Ready to Move,2.18,0.78,9.37,196.85
+Kolkata,4,2497,Apartment,Unfurnished,Ready to Move,2.77,3.04,0.38,155.15
+Bengaluru,2,883,Apartment,Fully Furnished,Under Construction,0.99,1.76,0.38,100.36
+Chennai,1,638,Apartment,Semi-Furnished,Ready to Move,2.13,0.53,8.19,50.59
+Mumbai,2,861,Apartment,Semi-Furnished,Under Construction,0.86,0.2,1.05,196.06
+Pune,1,646,Apartment,Semi-Furnished,Ready to Move,1.29,3.25,0.83,49.03
+Delhi NCR,1,430,Apartment,Semi-Furnished,Ready to Move,3.62,0.08,0.11,42.38
+Ahmedabad,2,751,Independent House,Semi-Furnished,Ready to Move,0.7,0.44,0.97,53.27
+Pune,2,1044,Apartment,Semi-Furnished,Ready to Move,4.56,1.71,3.55,98.46
+Delhi NCR,3,1687,Apartment,Semi-Furnished,Ready to Move,1.18,0.18,1.67,177.43
+Chennai,3,1538,Apartment,Semi-Furnished,Ready to Move,1.9,2.05,2.18,108.99
+Chennai,3,1377,Builder Floor,Semi-Furnished,Ready to Move,7.12,0.56,7.48,125.11
+Chennai,2,739,Apartment,Unfurnished,Ready to Move,2.86,1.72,0.37,61.21
+Delhi NCR,2,800,Apartment,Semi-Furnished,Ready to Move,2.59,6.26,0.22,78.24
+Pune,2,810,Independent House,Fully Furnished,Ready to Move,3.11,3.94,5.73,82.43
+Chennai,4,2184,Apartment,Unfurnished,Under Construction,6.26,2.36,4.47,149.76
+Hyderabad,1,464,Independent House,Semi-Furnished,Ready to Move,0.71,0.39,0.92,57.18
+Kolkata,3,1290,Apartment,Semi-Furnished,Ready to Move,2.37,3.86,1.18,75.07
+Delhi NCR,2,881,Apartment,Semi-Furnished,Ready to Move,1.28,0.72,1.11,97.57
+Delhi NCR,2,1034,Independent House,Unfurnished,Under Construction,0.03,0.32,3.13,152.34
+Pune,3,1308,Apartment,Semi-Furnished,Under Construction,0.33,4.36,0.19,107.03
+Delhi NCR,2,721,Apartment,Unfurnished,Ready to Move,0.98,9.72,2.02,74.39
+Delhi NCR,3,1777,Independent House,Unfurnished,Ready to Move,2.08,2.47,0.43,230.84
+Chennai,3,1710,Apartment,Semi-Furnished,Under Construction,5.33,0.17,5.14,127.3
+Pune,2,907,Apartment,Semi-Furnished,Under Construction,3.91,8.49,1.44,68.15
+Chennai,2,707,Apartment,Fully Furnished,Ready to Move,2.01,0.28,2.25,50.94
+Kolkata,2,889,Apartment,Unfurnished,Under Construction,0.19,8.09,0.09,48.98
+Ahmedabad,3,1786,Builder Floor,Semi-Furnished,Ready to Move,0.84,1.99,0.18,135.34
+Kolkata,1,416,Apartment,Unfurnished,Under Construction,1.14,1.82,3.37,26.77
+Ahmedabad,2,716,Apartment,Semi-Furnished,Ready to Move,2.43,3.13,4.37,38.96
+Chennai,2,789,Apartment,Fully Furnished,Ready to Move,0.17,12.59,3.71,54.52
+Kolkata,3,1752,Independent House,Fully Furnished,Ready to Move,1.89,9.16,4.01,155.38
+Pune,1,544,Apartment,Unfurnished,Under Construction,5.79,2.54,0.33,40.87
+Mumbai,3,1265,Apartment,Semi-Furnished,Under Construction,3.06,4.76,3.55,274.48
+Chennai,3,1595,Builder Floor,Semi-Furnished,Ready to Move,3.99,3.47,0.6,136.62
+Ahmedabad,1,477,Apartment,Unfurnished,Ready to Move,2.86,4.73,0.31,25.04
+Hyderabad,1,572,Apartment,Unfurnished,Ready to Move,0.58,7.07,4.25,44.24
+Ahmedabad,4,2573,Apartment,Fully Furnished,Ready to Move,0.29,0.14,6.61,184.1
+Hyderabad,1,562,Apartment,Fully Furnished,Ready to Move,4.42,1.58,3.78,59.13
+Delhi NCR,3,1465,Apartment,Fully Furnished,Ready to Move,2.97,12.81,4.91,158.62
+Kolkata,2,713,Apartment,Semi-Furnished,Under Construction,2.14,11.93,14.16,44.42
+Hyderabad,1,638,Independent House,Semi-Furnished,Ready to Move,0.52,0.05,0.43,71.62
+Ahmedabad,3,1171,Apartment,Semi-Furnished,Ready to Move,2.31,0.9,10.07,73.12
+Delhi NCR,2,842,Apartment,Unfurnished,Ready to Move,0.08,20.31,2.76,85.25
+Mumbai,2,1009,Apartment,Unfurnished,Ready to Move,0.32,2.72,5.03,247.16
+Pune,2,982,Independent House,Semi-Furnished,Under Construction,0.93,3.4,3.15,100.36
+Pune,2,968,Apartment,Semi-Furnished,Ready to Move,1.47,0.73,2.53,76.63
+Pune,1,640,Apartment,Fully Furnished,Ready to Move,0.32,8.99,3.65,54.48
+Hyderabad,2,944,Apartment,Fully Furnished,Ready to Move,0.32,1.05,1.16,95.32
+Mumbai,4,2815,Apartment,Fully Furnished,Ready to Move,3.24,0.84,7.74,706.81
+Hyderabad,2,862,Independent House,Fully Furnished,Ready to Move,2.11,1.04,0.37,103.22
+Kolkata,2,759,Independent House,Unfurnished,Ready to Move,1.91,10.08,1.15,52.85
+Hyderabad,2,705,Apartment,Semi-Furnished,Ready to Move,1.51,4.85,0.09,62.69
+Mumbai,3,1669,Apartment,Semi-Furnished,Ready to Move,9.38,5.85,0.95,323.46
+Mumbai,1,448,Apartment,Unfurnished,Ready to Move,0.13,1.89,0.74,102.43
+Kolkata,4,2206,Apartment,Fully Furnished,Ready to Move,0.5,9.6,0.15,140.8
+Mumbai,2,916,Apartment,Fully Furnished,Ready to Move,2.61,6.23,2.03,247.86
+Ahmedabad,1,561,Apartment,Unfurnished,Ready to Move,0.37,5.55,1.9,30.39
+Mumbai,1,425,Apartment,Unfurnished,Under Construction,2.23,14.15,0.24,86.92
+Pune,1,446,Apartment,Semi-Furnished,Ready to Move,2.1,1.82,0.91,36.36
+Ahmedabad,2,704,Apartment,Semi-Furnished,Ready to Move,8.85,3.78,9.19,34.28
+Ahmedabad,2,719,Apartment,Fully Furnished,Ready to Move,5.37,9.63,0.35,40.73
+Kolkata,3,1489,Apartment,Unfurnished,Ready to Move,7.28,6.26,1.09,78.41
+Bengaluru,2,897,Apartment,Unfurnished,Ready to Move,0.3,3.31,0.11,68.75
+Bengaluru,1,458,Apartment,Unfurnished,Under Construction,5.07,0.32,0.48,47.16
+Mumbai,2,941,Apartment,Unfurnished,Ready to Move,0.35,4.23,3.61,214.54
+Ahmedabad,3,1245,Builder Floor,Unfurnished,Ready to Move,2.51,2.99,1.37,78.07
+Bengaluru,1,531,Independent House,Fully Furnished,Ready to Move,3.18,0.81,1.8,76.37
+Bengaluru,1,416,Apartment,Semi-Furnished,Under Construction,0.44,8.56,0.51,42.24
+Mumbai,1,648,Apartment,Semi-Furnished,Ready to Move,2.5,1.68,3.44,153.2
+Bengaluru,3,1625,Independent House,Unfurnished,Ready to Move,0.13,1.96,4.18,186.97
+Hyderabad,2,712,Apartment,Unfurnished,Under Construction,0.87,4.46,0.6,59.0
+Delhi NCR,2,1090,Apartment,Fully Furnished,Under Construction,6.35,2.68,0.14,128.02
+Kolkata,3,1483,Independent House,Semi-Furnished,Under Construction,0.47,0.37,0.25,137.5
+Delhi NCR,3,1655,Independent House,Semi-Furnished,Ready to Move,0.17,1.96,3.21,250.48
+Mumbai,2,1074,Builder Floor,Semi-Furnished,Ready to Move,1.47,0.4,0.44,329.35
+Pune,3,1498,Builder Floor,Semi-Furnished,Ready to Move,4.75,0.85,2.04,135.86
+Kolkata,1,418,Independent House,Semi-Furnished,Ready to Move,0.2,0.03,0.5,35.84
+Mumbai,1,462,Apartment,Semi-Furnished,Ready to Move,1.1,0.8,0.56,117.65
+Ahmedabad,2,938,Apartment,Fully Furnished,Under Construction,5.75,1.6,0.01,51.6
+Pune,1,635,Apartment,Unfurnished,Under Construction,0.31,3.09,1.16,48.57
+Delhi NCR,2,1036,Apartment,Semi-Furnished,Ready to Move,0.93,10.07,0.28,104.28
+Mumbai,4,2218,Apartment,Unfurnished,Ready to Move,3.77,3.11,1.5,395.19
+Ahmedabad,1,546,Apartment,Semi-Furnished,Ready to Move,1.96,4.89,2.73,28.11
+Kolkata,1,547,Apartment,Fully Furnished,Under Construction,4.46,1.77,1.37,37.42
+Kolkata,2,799,Apartment,Semi-Furnished,Ready to Move,0.3,5.57,3.66,49.8
+Chennai,4,1921,Apartment,Semi-Furnished,Under Construction,6.33,3.88,4.06,123.11
+Ahmedabad,2,743,Apartment,Fully Furnished,Ready to Move,6.83,2.46,3.58,50.18
+Hyderabad,2,1059,Apartment,Semi-Furnished,Ready to Move,0.42,0.86,8.28,94.04
+Bengaluru,1,551,Apartment,Unfurnished,Under Construction,0.09,1.45,0.81,57.65
+Pune,1,460,Apartment,Unfurnished,Ready to Move,11.47,3.88,0.63,32.59
+Ahmedabad,4,2180,Apartment,Semi-Furnished,Ready to Move,1.65,2.22,2.82,128.28
+Chennai,4,1944,Apartment,Semi-Furnished,Under Construction,2.12,8.81,2.71,116.81
+Bengaluru,1,470,Apartment,Semi-Furnished,Ready to Move,2.39,1.07,2.14,52.89
+Bengaluru,4,2162,Apartment,Semi-Furnished,Ready to Move,3.9,0.3,0.01,220.02
+Mumbai,2,749,Apartment,Fully Furnished,Ready to Move,4.18,3.56,2.43,186.36
+Bengaluru,3,1164,Apartment,Unfurnished,Ready to Move,0.54,8.69,8.1,115.2
+Hyderabad,2,1054,Builder Floor,Semi-Furnished,Under Construction,0.68,1.81,1.22,138.45
+Kolkata,2,987,Apartment,Unfurnished,Under Construction,5.24,4.17,10.29,48.02
+Chennai,2,863,Apartment,Fully Furnished,Under Construction,4.28,1.05,1.32,64.83
+Bengaluru,2,840,Apartment,Unfurnished,Ready to Move,2.4,3.27,0.45,73.61
+Mumbai,1,597,Apartment,Semi-Furnished,Ready to Move,13.1,6.18,1.52,110.96
+Hyderabad,1,457,Apartment,Unfurnished,Ready to Move,3.32,8.07,2.05,37.16
+Delhi NCR,2,827,Apartment,Semi-Furnished,Under Construction,0.61,0.44,2.98,92.05
+Kolkata,3,1497,Apartment,Fully Furnished,Ready to Move,4.69,1.76,2.11,94.46
+Kolkata,1,564,Apartment,Semi-Furnished,Ready to Move,1.34,4.08,2.31,30.95
+Chennai,2,1067,Apartment,Semi-Furnished,Under Construction,0.09,0.14,0.07,92.6
+Kolkata,4,2262,Apartment,Semi-Furnished,Ready to Move,0.97,4.69,0.88,141.52
+Bengaluru,1,638,Apartment,Semi-Furnished,Ready to Move,3.61,3.0,1.12,65.91
+Mumbai,2,1023,Independent House,Fully Furnished,Ready to Move,8.06,1.36,13.05,315.41
+Kolkata,2,995,Apartment,Unfurnished,Under Construction,0.81,6.74,1.05,49.47
+Kolkata,3,1286,Apartment,Semi-Furnished,Ready to Move,0.71,1.37,6.81,86.55
+Delhi NCR,1,607,Apartment,Unfurnished,Under Construction,2.07,19.03,1.09,54.25
+Delhi NCR,2,919,Apartment,Unfurnished,Ready to Move,4.17,6.78,0.3,87.26
+Pune,3,1289,Independent House,Semi-Furnished,Under Construction,3.43,4.92,0.85,117.86
+Hyderabad,4,2228,Apartment,Semi-Furnished,Ready to Move,2.05,0.25,0.96,232.69
+Bengaluru,2,1045,Independent House,Semi-Furnished,Ready to Move,2.5,9.39,11.48,147.18
+Kolkata,2,983,Apartment,Semi-Furnished,Under Construction,0.69,6.24,3.37,60.15
+Ahmedabad,2,1051,Independent House,Unfurnished,Under Construction,1.42,1.04,8.05,72.21
+Kolkata,3,1336,Apartment,Unfurnished,Ready to Move,0.74,1.99,5.41,66.49
+Mumbai,2,893,Independent House,Semi-Furnished,Under Construction,5.39,1.25,2.59,207.54
+Pune,1,430,Apartment,Fully Furnished,Under Construction,0.3,16.65,3.38,38.79
+Hyderabad,4,2570,Apartment,Unfurnished,Ready to Move,2.85,7.7,2.94,191.82
+Ahmedabad,2,945,Apartment,Semi-Furnished,Ready to Move,0.75,10.65,3.29,53.53
+Pune,2,835,Apartment,Semi-Furnished,Under Construction,1.61,6.22,0.92,61.92
+Chennai,1,423,Builder Floor,Semi-Furnished,Ready to Move,0.89,2.44,1.57,42.35
+Hyderabad,2,970,Apartment,Fully Furnished,Ready to Move,0.98,0.92,2.69,78.4
+Kolkata,2,870,Apartment,Fully Furnished,Under Construction,0.75,0.93,0.11,60.23
+Kolkata,2,858,Apartment,Semi-Furnished,Ready to Move,3.49,0.66,1.98,55.53
+Hyderabad,1,600,Apartment,Unfurnished,Ready to Move,1.14,3.16,5.89,56.69
+Kolkata,2,744,Apartment,Fully Furnished,Under Construction,3.24,10.1,2.03,45.78
+Bengaluru,4,2761,Apartment,Semi-Furnished,Ready to Move,1.52,19.21,2.41,275.89
+Hyderabad,1,407,Apartment,Unfurnished,Under Construction,1.98,1.35,0.68,32.1
+Pune,4,2382,Builder Floor,Semi-Furnished,Under Construction,1.96,4.78,4.74,246.63
+Hyderabad,2,1063,Apartment,Fully Furnished,Ready to Move,9.31,3.64,1.33,89.85
+Ahmedabad,3,1470,Apartment,Fully Furnished,Ready to Move,1.14,2.69,9.41,107.91
+Kolkata,3,1202,Apartment,Unfurnished,Ready to Move,0.58,4.38,15.21,69.46
+Bengaluru,2,824,Apartment,Semi-Furnished,Ready to Move,6.07,1.86,7.43,76.69
+Bengaluru,3,1412,Apartment,Fully Furnished,Ready to Move,0.48,11.56,0.27,160.74
+Chennai,3,1557,Apartment,Unfurnished,Ready to Move,4.5,4.89,1.22,103.17
+Pune,2,929,Apartment,Semi-Furnished,Ready to Move,0.41,5.61,8.71,74.3
+Delhi NCR,2,845,Apartment,Semi-Furnished,Ready to Move,2.69,1.11,4.9,99.47
+Delhi NCR,2,1069,Independent House,Semi-Furnished,Ready to Move,0.41,0.74,7.26,148.25
+Hyderabad,3,1296,Apartment,Unfurnished,Ready to Move,6.41,2.01,2.55,100.66
+Chennai,3,1522,Apartment,Semi-Furnished,Ready to Move,2.08,5.82,1.96,115.35
+Mumbai,3,1671,Independent House,Fully Furnished,Ready to Move,1.0,11.17,0.34,480.09
+Hyderabad,2,797,Builder Floor,Semi-Furnished,Ready to Move,0.38,2.23,5.49,89.54
+Chennai,3,1270,Apartment,Semi-Furnished,Ready to Move,1.16,5.95,4.1,89.56
+Pune,1,525,Apartment,Semi-Furnished,Ready to Move,3.05,2.54,0.18,37.2
+Pune,2,872,Apartment,Unfurnished,Under Construction,1.22,1.4,0.7,71.0
+Pune,1,550,Builder Floor,Semi-Furnished,Ready to Move,0.71,5.38,2.44,54.23
+Pune,2,1049,Independent House,Semi-Furnished,Ready to Move,2.15,6.4,3.46,106.68
+Pune,2,1089,Apartment,Fully Furnished,Ready to Move,1.35,0.91,0.44,100.07
+Chennai,2,821,Apartment,Unfurnished,Ready to Move,0.45,1.46,0.84,63.81
+Chennai,2,807,Apartment,Semi-Furnished,Ready to Move,0.42,2.73,0.64,54.89
+Bengaluru,2,703,Independent House,Semi-Furnished,Under Construction,3.07,0.83,0.75,80.37
+Ahmedabad,2,792,Apartment,Fully Furnished,Ready to Move,9.19,10.57,7.6,39.22
+Delhi NCR,1,550,Apartment,Unfurnished,Under Construction,0.66,3.58,3.77,64.9
+Kolkata,2,705,Builder Floor,Unfurnished,Ready to Move,3.71,0.52,4.01,52.35
+Pune,1,431,Apartment,Unfurnished,Ready to Move,0.23,0.81,4.74,34.31
+Mumbai,1,505,Apartment,Fully Furnished,Ready to Move,1.2,12.35,1.32,114.92
+Kolkata,2,845,Apartment,Unfurnished,Ready to Move,1.77,5.36,4.37,50.31
+Chennai,2,970,Apartment,Unfurnished,Ready to Move,0.78,5.3,11.51,64.72
+Mumbai,2,1077,Apartment,Unfurnished,Ready to Move,1.89,0.3,3.6,248.13
+Mumbai,2,795,Apartment,Semi-Furnished,Ready to Move,5.36,9.03,1.62,151.9
+Mumbai,2,928,Apartment,Unfurnished,Ready to Move,7.23,2.35,3.78,199.94
+Bengaluru,3,1301,Independent House,Semi-Furnished,Ready to Move,0.26,4.31,6.93,155.55
+Chennai,2,911,Apartment,Unfurnished,Ready to Move,0.79,12.84,0.41,60.93
+Mumbai,2,705,Apartment,Semi-Furnished,Ready to Move,9.67,0.42,0.92,141.41
+Pune,1,511,Apartment,Semi-Furnished,Ready to Move,0.79,2.63,7.55,48.93
+Hyderabad,2,1075,Independent House,Semi-Furnished,Under Construction,2.95,0.2,8.77,119.92
+Mumbai,2,1078,Independent House,Fully Furnished,Ready to Move,0.73,2.77,1.99,317.5
+Bengaluru,2,1022,Apartment,Fully Furnished,Ready to Move,1.1,1.16,1.41,109.17
+Kolkata,2,805,Apartment,Semi-Furnished,Ready to Move,0.53,9.68,1.0,51.33
+Chennai,2,838,Apartment,Semi-Furnished,Under Construction,4.85,2.03,2.07,50.77
+Ahmedabad,2,998,Apartment,Semi-Furnished,Ready to Move,5.36,4.02,8.18,50.67
+Bengaluru,3,1500,Apartment,Fully Furnished,Ready to Move,0.88,7.87,0.49,148.51
+Mumbai,3,1195,Independent House,Semi-Furnished,Ready to Move,4.34,16.46,1.63,292.35
+Chennai,3,1487,Independent House,Semi-Furnished,Ready to Move,1.11,2.8,7.28,145.06
+Hyderabad,4,2758,Apartment,Semi-Furnished,Ready to Move,0.26,2.43,1.29,253.56
+Mumbai,1,595,Independent House,Fully Furnished,Ready to Move,3.55,0.32,4.38,179.15
+Bengaluru,1,480,Builder Floor,Unfurnished,Under Construction,2.27,0.05,1.48,58.42
+Delhi NCR,1,440,Apartment,Unfurnished,Ready to Move,0.8,3.75,4.9,53.71
+Pune,2,1088,Apartment,Semi-Furnished,Ready to Move,0.73,0.27,11.89,104.7
+Ahmedabad,3,1515,Builder Floor,Unfurnished,Ready to Move,9.29,1.91,1.47,90.49
+Kolkata,1,613,Apartment,Semi-Furnished,Ready to Move,4.96,0.01,5.59,39.26
+Bengaluru,4,2253,Builder Floor,Unfurnished,Ready to Move,4.15,3.82,13.37,258.43
+Chennai,1,434,Builder Floor,Semi-Furnished,Ready to Move,0.34,2.22,12.37,41.81
+Ahmedabad,4,1949,Apartment,Fully Furnished,Ready to Move,3.52,0.54,1.71,119.36
+Ahmedabad,2,1067,Independent House,Semi-Furnished,Ready to Move,0.6,1.41,2.0,83.21
+Ahmedabad,1,646,Apartment,Semi-Furnished,Ready to Move,9.47,3.37,1.08,31.61
+Mumbai,2,966,Apartment,Unfurnished,Ready to Move,0.13,4.28,1.13,204.96
+Pune,2,950,Apartment,Unfurnished,Ready to Move,1.09,2.48,2.03,72.93
+Mumbai,2,702,Apartment,Fully Furnished,Ready to Move,1.4,6.52,0.67,164.88
+Chennai,2,1092,Apartment,Semi-Furnished,Under Construction,4.35,0.48,3.73,78.14
+Mumbai,3,1415,Apartment,Semi-Furnished,Ready to Move,3.63,0.35,2.31,329.19
+Delhi NCR,2,775,Apartment,Fully Furnished,Ready to Move,1.17,0.18,6.85,101.63
+Pune,2,786,Apartment,Fully Furnished,Under Construction,2.08,3.07,4.99,73.61
+Pune,2,969,Apartment,Fully Furnished,Ready to Move,4.51,4.9,1.17,94.77
+Chennai,3,1324,Apartment,Semi-Furnished,Under Construction,0.05,0.56,2.11,103.48
+Kolkata,2,717,Builder Floor,Unfurnished,Ready to Move,4.05,4.07,4.17,49.58
+Delhi NCR,2,812,Builder Floor,Semi-Furnished,Ready to Move,7.34,2.59,0.64,111.0
+Bengaluru,1,632,Apartment,Semi-Furnished,Ready to Move,0.08,17.48,0.1,68.14
+Mumbai,1,472,Independent House,Unfurnished,Under Construction,0.12,5.06,5.74,130.83
+Hyderabad,2,978,Apartment,Semi-Furnished,Ready to Move,1.06,4.29,0.44,79.2
+Mumbai,1,601,Apartment,Unfurnished,Under Construction,0.23,3.38,6.61,124.21
+Ahmedabad,2,782,Apartment,Semi-Furnished,Ready to Move,1.63,23.76,7.35,42.34
+Mumbai,3,1224,Apartment,Semi-Furnished,Under Construction,3.26,15.74,1.85,236.53
+Bengaluru,1,574,Builder Floor,Semi-Furnished,Ready to Move,2.09,3.09,4.93,63.47
+Mumbai,2,768,Apartment,Semi-Furnished,Ready to Move,0.55,2.43,1.35,169.98
+Delhi NCR,2,746,Apartment,Fully Furnished,Under Construction,2.66,2.48,5.86,85.49
+Delhi NCR,4,2683,Apartment,Semi-Furnished,Under Construction,2.89,2.24,5.22,275.62
+Pune,2,955,Apartment,Semi-Furnished,Ready to Move,6.74,3.03,0.25,86.6
+Chennai,3,1129,Apartment,Fully Furnished,Ready to Move,0.4,1.28,2.62,101.52
+Kolkata,2,980,Apartment,Semi-Furnished,Ready to Move,2.95,10.46,3.06,56.69
+Hyderabad,1,555,Apartment,Fully Furnished,Ready to Move,6.06,2.7,0.0,53.13
+Ahmedabad,2,936,Apartment,Unfurnished,Ready to Move,1.74,7.38,11.72,53.34
+Mumbai,4,2167,Apartment,Semi-Furnished,Ready to Move,1.12,2.58,1.57,520.16
+Mumbai,2,724,Apartment,Unfurnished,Ready to Move,0.47,5.07,2.19,166.27
+Bengaluru,3,1685,Apartment,Unfurnished,Under Construction,5.04,1.64,0.65,141.73
+Chennai,3,1589,Apartment,Fully Furnished,Ready to Move,1.25,3.92,2.83,122.47
+Delhi NCR,1,648,Apartment,Unfurnished,Ready to Move,6.47,2.76,4.99,67.48
+Hyderabad,1,637,Apartment,Semi-Furnished,Ready to Move,4.71,1.83,2.64,56.81
+Pune,2,1013,Independent House,Semi-Furnished,Ready to Move,1.18,8.53,4.65,105.39
+Delhi NCR,2,793,Apartment,Semi-Furnished,Ready to Move,2.13,0.48,3.94,93.34
+Ahmedabad,3,1474,Independent House,Semi-Furnished,Ready to Move,0.07,2.67,0.81,103.09
+Chennai,3,1738,Apartment,Semi-Furnished,Ready to Move,0.76,0.86,1.72,133.67
+Ahmedabad,2,724,Apartment,Unfurnished,Under Construction,3.1,7.89,0.48,37.68
+Kolkata,1,477,Builder Floor,Semi-Furnished,Ready to Move,2.83,1.17,0.13,35.82
+Pune,3,1454,Apartment,Semi-Furnished,Under Construction,1.09,4.01,0.2,121.94
+Kolkata,2,815,Apartment,Semi-Furnished,Under Construction,4.13,0.72,8.57,46.88
+Bengaluru,3,1147,Apartment,Semi-Furnished,Under Construction,0.67,2.08,12.51,118.93
+Ahmedabad,2,925,Apartment,Fully Furnished,Ready to Move,1.55,9.18,0.3,49.52
+Bengaluru,2,965,Apartment,Semi-Furnished,Ready to Move,1.6,0.73,1.22,100.37
+Mumbai,1,498,Builder Floor,Semi-Furnished,Ready to Move,1.04,4.35,0.36,136.59
+Kolkata,2,710,Apartment,Unfurnished,Ready to Move,7.73,0.92,5.39,33.91
+Chennai,2,784,Apartment,Semi-Furnished,Ready to Move,2.98,2.15,2.06,61.4
+Ahmedabad,2,913,Builder Floor,Semi-Furnished,Ready to Move,1.94,3.11,2.91,67.77
+Hyderabad,1,572,Builder Floor,Unfurnished,Ready to Move,1.79,3.44,2.33,58.55
+Pune,3,1602,Apartment,Semi-Furnished,Ready to Move,0.43,3.69,3.72,122.99
+Delhi NCR,3,1547,Apartment,Semi-Furnished,Ready to Move,1.16,4.09,1.15,160.83
+Chennai,1,525,Independent House,Semi-Furnished,Under Construction,2.79,1.27,0.44,58.89
+Chennai,1,463,Apartment,Unfurnished,Ready to Move,6.46,2.05,0.05,23.91
+Bengaluru,1,401,Apartment,Semi-Furnished,Ready to Move,4.24,0.15,1.77,36.07
+Kolkata,2,1031,Independent House,Unfurnished,Ready to Move,0.89,5.86,7.15,87.25
+Ahmedabad,2,820,Apartment,Fully Furnished,Under Construction,1.42,7.26,1.09,58.3
+Ahmedabad,2,997,Apartment,Unfurnished,Ready to Move,0.22,0.89,0.65,63.71
+Mumbai,1,609,Apartment,Semi-Furnished,Ready to Move,0.27,0.9,7.81,154.09
+Mumbai,2,753,Apartment,Semi-Furnished,Ready to Move,1.59,0.17,0.33,169.46
+Pune,2,1030,Independent House,Fully Furnished,Ready to Move,1.89,14.08,0.16,93.43
+Bengaluru,2,971,Apartment,Unfurnished,Ready to Move,0.77,6.58,6.35,92.09
+Chennai,4,2040,Apartment,Semi-Furnished,Under Construction,2.57,1.79,3.62,144.73
+Ahmedabad,1,642,Apartment,Semi-Furnished,Under Construction,3.04,2.63,1.64,39.68
+Hyderabad,2,717,Apartment,Semi-Furnished,Under Construction,0.89,1.38,4.19,56.44
+Bengaluru,2,886,Apartment,Semi-Furnished,Under Construction,3.55,3.64,4.06,86.25
+Pune,2,1045,Apartment,Semi-Furnished,Ready to Move,0.58,5.05,0.12,92.75
+Pune,3,1755,Apartment,Fully Furnished,Under Construction,1.96,2.37,3.38,171.07
+Bengaluru,2,961,Independent House,Unfurnished,Ready to Move,4.08,8.27,3.07,105.34
+Pune,4,2752,Apartment,Unfurnished,Ready to Move,1.93,2.91,9.95,214.71
+Bengaluru,1,507,Apartment,Fully Furnished,Ready to Move,5.96,0.62,10.2,53.7
+Delhi NCR,1,634,Independent House,Unfurnished,Ready to Move,0.15,3.89,1.42,92.35
+Bengaluru,3,1530,Apartment,Fully Furnished,Ready to Move,2.22,2.48,2.67,173.03
+Kolkata,2,938,Apartment,Semi-Furnished,Ready to Move,2.06,10.98,0.46,56.76
+Bengaluru,2,1003,Builder Floor,Semi-Furnished,Ready to Move,2.7,1.99,0.21,125.91
+Pune,1,441,Apartment,Unfurnished,Under Construction,4.48,2.06,1.7,30.69
+Ahmedabad,1,475,Apartment,Unfurnished,Ready to Move,3.24,4.21,3.51,21.16
+Kolkata,3,1799,Apartment,Semi-Furnished,Ready to Move,3.9,2.99,2.52,97.51
+Pune,1,476,Apartment,Fully Furnished,Under Construction,0.85,1.88,1.68,43.04
+Mumbai,2,1087,Builder Floor,Fully Furnished,Ready to Move,1.23,18.33,5.11,318.14
+Mumbai,1,630,Apartment,Unfurnished,Under Construction,2.46,1.44,4.75,122.89
+Ahmedabad,2,945,Independent House,Unfurnished,Ready to Move,2.02,1.3,3.95,57.98
+Ahmedabad,1,529,Independent House,Unfurnished,Under Construction,8.12,7.99,0.24,28.89
+Kolkata,2,1014,Apartment,Fully Furnished,Ready to Move,0.52,0.01,4.78,80.45
+Delhi NCR,1,554,Apartment,Unfurnished,Ready to Move,1.08,0.9,7.56,50.68
+Ahmedabad,3,1382,Apartment,Unfurnished,Ready to Move,2.13,3.57,0.18,66.3
+Mumbai,1,478,Apartment,Unfurnished,Ready to Move,5.06,0.71,1.54,96.68
+Bengaluru,2,771,Apartment,Semi-Furnished,Under Construction,6.62,17.02,13.36,73.47
+Pune,3,1362,Builder Floor,Fully Furnished,Ready to Move,1.02,2.5,2.74,184.08
+Mumbai,2,890,Builder Floor,Semi-Furnished,Ready to Move,0.17,3.64,2.16,254.59
+Mumbai,2,1066,Apartment,Unfurnished,Ready to Move,1.37,0.7,0.59,227.11
+Delhi NCR,2,1074,Apartment,Semi-Furnished,Under Construction,1.25,1.37,2.5,125.13
+Kolkata,2,762,Independent House,Semi-Furnished,Ready to Move,10.76,3.81,1.73,55.66
+Kolkata,2,1079,Apartment,Unfurnished,Under Construction,1.41,3.19,0.41,63.42
+Chennai,4,1811,Independent House,Unfurnished,Ready to Move,0.91,6.14,1.87,157.74
+Delhi NCR,2,840,Apartment,Semi-Furnished,Ready to Move,1.14,1.25,0.54,88.75
+Bengaluru,2,953,Apartment,Unfurnished,Ready to Move,1.26,4.24,3.94,77.25
+Kolkata,3,1654,Independent House,Unfurnished,Under Construction,4.31,1.38,10.91,122.41
+Pune,2,716,Apartment,Semi-Furnished,Under Construction,0.21,3.53,1.9,59.92
+Ahmedabad,1,462,Builder Floor,Semi-Furnished,Ready to Move,0.95,3.72,3.0,35.5
+Delhi NCR,2,952,Builder Floor,Semi-Furnished,Ready to Move,8.48,0.52,1.69,130.95
+Ahmedabad,4,2264,Apartment,Semi-Furnished,Under Construction,0.42,3.18,0.45,117.84
+Mumbai,1,519,Apartment,Semi-Furnished,Ready to Move,3.39,0.05,10.58,132.44
+Pune,2,991,Builder Floor,Semi-Furnished,Ready to Move,1.1,2.78,0.42,104.2
+Pune,1,612,Builder Floor,Unfurnished,Ready to Move,2.18,4.78,0.36,52.97
+Mumbai,2,707,Apartment,Fully Furnished,Ready to Move,0.26,0.3,1.84,180.79
+Delhi NCR,1,468,Independent House,Unfurnished,Ready to Move,0.91,11.17,3.23,53.38
+Mumbai,2,789,Apartment,Semi-Furnished,Ready to Move,1.74,2.46,1.32,185.95
+Ahmedabad,3,1729,Apartment,Semi-Furnished,Ready to Move,0.66,11.15,0.64,94.13
+Chennai,2,1048,Independent House,Semi-Furnished,Under Construction,1.95,0.45,5.13,118.78
+Pune,2,874,Apartment,Fully Furnished,Ready to Move,0.62,11.98,1.35,79.0
+Hyderabad,3,1175,Builder Floor,Semi-Furnished,Under Construction,2.63,0.46,0.65,152.09
+Hyderabad,4,2725,Apartment,Fully Furnished,Ready to Move,5.87,2.48,1.36,224.98
+Ahmedabad,1,550,Apartment,Fully Furnished,Ready to Move,0.22,11.12,0.72,32.51
+Bengaluru,2,1099,Apartment,Fully Furnished,Ready to Move,0.61,1.06,2.2,137.34
+Kolkata,1,413,Apartment,Fully Furnished,Under Construction,4.65,0.14,3.31,28.79
+Mumbai,4,2769,Apartment,Fully Furnished,Ready to Move,2.5,6.3,4.82,646.43
+Mumbai,4,2894,Apartment,Semi-Furnished,Under Construction,0.2,3.62,0.77,621.96
+Bengaluru,2,879,Apartment,Semi-Furnished,Ready to Move,1.67,2.89,0.55,73.78
+Bengaluru,3,1223,Apartment,Unfurnished,Ready to Move,0.59,0.14,0.06,120.17
+Ahmedabad,2,1080,Apartment,Semi-Furnished,Under Construction,0.56,4.24,0.78,61.55
+Ahmedabad,2,992,Independent House,Fully Furnished,Ready to Move,7.06,0.75,0.07,73.75
+Bengaluru,1,428,Apartment,Semi-Furnished,Ready to Move,3.58,10.71,1.27,34.1
+Pune,3,1294,Apartment,Fully Furnished,Under Construction,2.98,4.63,0.47,102.52
+Ahmedabad,1,542,Apartment,Fully Furnished,Ready to Move,0.68,4.91,2.6,34.91
+Chennai,3,1327,Apartment,Unfurnished,Ready to Move,0.32,1.06,1.45,103.72
+Ahmedabad,3,1530,Apartment,Unfurnished,Under Construction,5.12,8.51,0.29,69.96
+Mumbai,3,1535,Apartment,Semi-Furnished,Ready to Move,0.01,3.09,1.53,354.93
+Ahmedabad,1,418,Apartment,Unfurnished,Under Construction,1.23,7.78,0.7,19.01
+Pune,2,805,Apartment,Semi-Furnished,Ready to Move,0.81,1.26,3.42,74.62
+Bengaluru,2,720,Independent House,Fully Furnished,Under Construction,2.11,5.63,1.36,100.89
+Mumbai,2,763,Apartment,Semi-Furnished,Ready to Move,0.72,3.42,0.48,169.41
+Ahmedabad,1,564,Apartment,Semi-Furnished,Under Construction,0.93,0.2,1.29,36.23
+Pune,4,1826,Apartment,Unfurnished,Ready to Move,4.74,2.08,0.76,129.44
+Chennai,2,1010,Apartment,Semi-Furnished,Ready to Move,2.31,0.81,4.77,73.54
+Ahmedabad,2,984,Apartment,Semi-Furnished,Ready to Move,0.39,1.78,12.29,63.26
+Pune,2,847,Apartment,Semi-Furnished,Ready to Move,3.24,1.93,0.08,68.56
+Chennai,2,980,Apartment,Unfurnished,Under Construction,0.58,2.58,3.51,68.93
+Bengaluru,2,1025,Apartment,Semi-Furnished,Under Construction,1.42,3.67,0.92,93.17
+Ahmedabad,2,1018,Apartment,Unfurnished,Ready to Move,2.6,3.38,0.21,47.31
+Chennai,3,1263,Apartment,Fully Furnished,Under Construction,0.79,0.16,0.04,118.77
+Mumbai,2,1085,Apartment,Unfurnished,Ready to Move,1.21,5.56,6.39,232.79
+Bengaluru,4,2717,Apartment,Unfurnished,Ready to Move,3.31,11.92,1.31,207.01
+Mumbai,3,1323,Apartment,Unfurnished,Ready to Move,6.95,1.72,15.63,235.8
+Hyderabad,1,415,Apartment,Semi-Furnished,Ready to Move,1.88,0.79,1.75,44.05
+Delhi NCR,4,2969,Apartment,Semi-Furnished,Ready to Move,0.03,3.11,0.62,365.9
+Ahmedabad,1,596,Apartment,Semi-Furnished,Under Construction,1.03,4.88,4.5,37.04
+Chennai,3,1129,Apartment,Semi-Furnished,Ready to Move,1.27,4.54,7.83,95.31
+Delhi NCR,2,744,Apartment,Semi-Furnished,Ready to Move,1.04,3.79,5.07,79.13
+Delhi NCR,3,1570,Apartment,Semi-Furnished,Ready to Move,1.43,0.63,4.1,211.73
+Chennai,3,1133,Apartment,Semi-Furnished,Under Construction,2.5,7.25,1.22,72.87
+Bengaluru,3,1752,Apartment,Unfurnished,Ready to Move,0.32,2.22,0.2,182.02
+Ahmedabad,3,1526,Apartment,Semi-Furnished,Ready to Move,0.8,1.0,0.67,90.45
+Hyderabad,2,1017,Apartment,Semi-Furnished,Ready to Move,1.77,0.36,1.78,98.54
+Mumbai,1,517,Independent House,Fully Furnished,Under Construction,0.95,2.16,9.38,163.17
+Pune,2,920,Apartment,Semi-Furnished,Ready to Move,11.8,3.85,3.85,71.62
+Mumbai,1,499,Apartment,Unfurnished,Under Construction,1.41,4.38,5.29,115.74
+Pune,2,721,Independent House,Unfurnished,Ready to Move,5.1,13.16,0.97,63.83
+Mumbai,2,879,Independent House,Fully Furnished,Under Construction,5.67,0.66,3.45,257.79
+Chennai,4,2731,Apartment,Unfurnished,Ready to Move,4.52,17.01,5.95,153.54
+Hyderabad,2,1028,Apartment,Unfurnished,Ready to Move,0.12,4.25,1.96,84.48
+Ahmedabad,3,1649,Apartment,Unfurnished,Ready to Move,7.38,2.42,1.69,83.27
+Pune,1,469,Apartment,Semi-Furnished,Ready to Move,0.34,8.76,3.81,39.48
+Ahmedabad,3,1215,Apartment,Unfurnished,Ready to Move,0.09,4.74,2.46,71.0
+Ahmedabad,4,2038,Apartment,Semi-Furnished,Under Construction,1.34,1.72,14.96,112.28
+Ahmedabad,2,1034,Apartment,Semi-Furnished,Under Construction,0.54,8.62,1.66,52.73
+Kolkata,2,847,Builder Floor,Fully Furnished,Under Construction,0.51,4.39,0.58,68.2
+Bengaluru,3,1108,Builder Floor,Unfurnished,Ready to Move,0.85,4.8,1.92,127.86
+Mumbai,1,431,Apartment,Semi-Furnished,Ready to Move,0.71,9.07,0.8,96.19
+Ahmedabad,2,1087,Apartment,Semi-Furnished,Ready to Move,2.89,2.38,2.47,62.42
+Mumbai,2,749,Apartment,Semi-Furnished,Ready to Move,0.52,4.28,0.4,153.69
+Ahmedabad,1,481,Independent House,Semi-Furnished,Under Construction,1.96,5.46,8.99,30.48
+Pune,2,704,Apartment,Fully Furnished,Ready to Move,10.75,2.42,5.89,55.23
+Bengaluru,1,547,Apartment,Unfurnished,Under Construction,1.42,0.35,0.51,61.0
+Bengaluru,1,486,Apartment,Fully Furnished,Ready to Move,2.57,5.9,0.57,49.12
+Chennai,1,525,Apartment,Semi-Furnished,Under Construction,8.71,0.2,2.16,33.51
+Kolkata,4,2077,Apartment,Unfurnished,Ready to Move,0.37,5.06,4.45,126.6
+Chennai,2,1023,Independent House,Fully Furnished,Under Construction,1.36,9.67,0.74,99.55
+Chennai,4,2788,Apartment,Semi-Furnished,Ready to Move,4.75,1.7,0.19,180.38
+Chennai,2,999,Apartment,Unfurnished,Ready to Move,6.73,0.43,2.37,64.22
+Chennai,2,989,Apartment,Unfurnished,Under Construction,2.3,1.06,3.53,68.4
+Chennai,2,776,Apartment,Unfurnished,Ready to Move,0.39,3.3,0.84,55.73
+Hyderabad,2,997,Independent House,Semi-Furnished,Ready to Move,5.79,11.44,4.04,101.23
+Bengaluru,1,536,Builder Floor,Unfurnished,Ready to Move,0.48,2.87,9.03,67.91
+Chennai,2,805,Builder Floor,Unfurnished,Ready to Move,1.09,0.48,0.44,75.01
+Ahmedabad,1,494,Independent House,Unfurnished,Ready to Move,1.18,3.95,2.15,35.24
+Bengaluru,2,834,Apartment,Semi-Furnished,Ready to Move,1.48,5.28,0.18,79.9
+Bengaluru,2,767,Apartment,Fully Furnished,Ready to Move,3.9,2.0,0.69,76.59
+Delhi NCR,1,546,Apartment,Semi-Furnished,Ready to Move,4.05,5.11,0.28,58.29
+Hyderabad,1,633,Builder Floor,Unfurnished,Ready to Move,3.18,1.57,1.55,64.93
+Chennai,3,1577,Apartment,Fully Furnished,Ready to Move,0.06,6.23,5.16,115.68
+Mumbai,2,858,Apartment,Semi-Furnished,Under Construction,2.08,1.67,2.58,220.81
+Pune,1,527,Independent House,Fully Furnished,Under Construction,3.44,1.18,0.76,53.33
+Kolkata,4,1962,Apartment,Semi-Furnished,Ready to Move,1.47,8.45,0.12,122.13
+Ahmedabad,1,584,Apartment,Semi-Furnished,Ready to Move,7.25,3.18,2.42,31.78
+Mumbai,2,1040,Apartment,Semi-Furnished,Ready to Move,4.34,1.34,0.43,170.48
+Hyderabad,4,2214,Apartment,Unfurnished,Under Construction,2.54,10.94,1.26,169.44
+Pune,1,482,Apartment,Semi-Furnished,Ready to Move,0.16,4.7,2.14,45.72
+Hyderabad,1,494,Independent House,Fully Furnished,Ready to Move,2.64,1.0,7.02,56.57
+Ahmedabad,1,580,Apartment,Fully Furnished,Ready to Move,6.06,3.81,0.26,27.76
+Bengaluru,2,987,Builder Floor,Fully Furnished,Ready to Move,1.19,8.17,3.31,128.56
+Pune,1,465,Apartment,Semi-Furnished,Ready to Move,4.55,4.76,0.04,35.96
+Bengaluru,2,886,Apartment,Unfurnished,Ready to Move,0.94,1.12,2.98,86.22
+Ahmedabad,1,515,Apartment,Unfurnished,Ready to Move,2.11,4.19,2.41,24.49
+Mumbai,2,837,Apartment,Semi-Furnished,Ready to Move,2.61,3.86,5.01,169.28
+Ahmedabad,4,1929,Apartment,Semi-Furnished,Ready to Move,2.83,6.88,2.28,88.26
+Mumbai,3,1293,Independent House,Unfurnished,Under Construction,5.35,0.78,1.3,274.07
+Pune,2,1015,Apartment,Unfurnished,Ready to Move,0.67,4.81,0.83,75.57
+Pune,2,972,Apartment,Semi-Furnished,Ready to Move,0.76,0.11,0.27,87.87
+Chennai,2,1051,Apartment,Semi-Furnished,Ready to Move,3.04,4.77,2.29,76.37
+Hyderabad,2,843,Apartment,Fully Furnished,Ready to Move,0.49,12.92,6.58,80.64
+Chennai,2,715,Apartment,Semi-Furnished,Ready to Move,1.56,0.77,2.17,58.98
+Hyderabad,1,445,Apartment,Semi-Furnished,Ready to Move,0.05,1.49,4.03,46.31
+Chennai,3,1522,Apartment,Semi-Furnished,Under Construction,0.38,3.5,1.06,119.22
+Bengaluru,2,944,Builder Floor,Fully Furnished,Ready to Move,2.84,5.27,1.78,126.57
+Pune,1,558,Apartment,Semi-Furnished,Ready to Move,3.44,1.69,1.18,45.97
+Mumbai,2,806,Apartment,Fully Furnished,Ready to Move,0.31,4.37,0.35,207.01
+Hyderabad,2,787,Apartment,Fully Furnished,Ready to Move,0.65,9.18,1.62,73.6
+Ahmedabad,3,1228,Apartment,Fully Furnished,Under Construction,0.26,5.19,4.34,77.85
+Hyderabad,3,1440,Apartment,Semi-Furnished,Ready to Move,1.42,4.97,1.51,141.18
+Mumbai,3,1103,Apartment,Unfurnished,Ready to Move,0.34,1.92,3.15,272.41
+Chennai,1,470,Independent House,Unfurnished,Under Construction,1.44,9.7,4.26,33.69
+Hyderabad,2,1066,Apartment,Unfurnished,Under Construction,3.29,1.3,1.17,87.45
+Kolkata,2,1005,Apartment,Unfurnished,Ready to Move,2.88,0.92,4.79,58.82
+Bengaluru,1,539,Apartment,Unfurnished,Ready to Move,0.82,1.81,1.24,57.83
+Pune,2,794,Apartment,Semi-Furnished,Ready to Move,2.8,4.2,0.89,62.42
+Mumbai,3,1324,Apartment,Semi-Furnished,Ready to Move,6.57,7.91,0.75,262.92
+Pune,1,602,Builder Floor,Semi-Furnished,Under Construction,1.07,0.57,0.67,61.56
+Kolkata,2,1047,Apartment,Unfurnished,Ready to Move,1.0,6.72,4.01,63.52
+Hyderabad,1,623,Independent House,Semi-Furnished,Ready to Move,2.12,6.7,6.55,58.63
+Hyderabad,1,464,Apartment,Semi-Furnished,Ready to Move,0.7,3.54,0.79,40.93
+Ahmedabad,1,446,Apartment,Semi-Furnished,Ready to Move,2.64,5.72,0.27,21.93
+Kolkata,4,2417,Apartment,Fully Furnished,Ready to Move,4.46,0.8,1.13,156.46
+Mumbai,3,1485,Apartment,Unfurnished,Under Construction,1.54,0.74,3.22,309.92
+Ahmedabad,4,2931,Apartment,Unfurnished,Ready to Move,2.84,7.95,1.38,149.95
+Bengaluru,2,718,Apartment,Semi-Furnished,Ready to Move,2.64,2.76,2.39,70.05
+Ahmedabad,1,553,Independent House,Unfurnished,Under Construction,0.1,1.13,4.09,43.53
+Delhi NCR,2,995,Apartment,Semi-Furnished,Ready to Move,0.51,4.67,1.58,112.36
+Mumbai,2,1005,Apartment,Semi-Furnished,Under Construction,5.6,8.9,24.28,178.45
+Delhi NCR,3,1270,Independent House,Unfurnished,Ready to Move,6.99,4.0,1.06,148.51
+Kolkata,1,474,Independent House,Unfurnished,Ready to Move,3.79,1.71,11.48,34.77
+Chennai,2,894,Apartment,Semi-Furnished,Ready to Move,6.35,2.64,0.68,71.03
+Delhi NCR,1,411,Apartment,Semi-Furnished,Under Construction,0.91,5.58,0.35,43.91
+Bengaluru,2,894,Builder Floor,Semi-Furnished,Ready to Move,0.71,0.28,4.17,136.1
+Ahmedabad,3,1589,Apartment,Unfurnished,Ready to Move,1.21,0.98,3.64,85.84
+Chennai,2,982,Apartment,Unfurnished,Under Construction,0.14,2.48,5.0,69.81
+Ahmedabad,2,1068,Apartment,Unfurnished,Ready to Move,4.15,3.71,1.26,55.63
+Delhi NCR,2,881,Apartment,Unfurnished,Ready to Move,10.37,1.66,8.01,96.72
+Ahmedabad,2,1004,Apartment,Fully Furnished,Ready to Move,4.34,1.42,0.38,62.29
+Kolkata,3,1755,Apartment,Unfurnished,Ready to Move,2.02,0.17,0.09,93.91
+Chennai,3,1415,Apartment,Semi-Furnished,Ready to Move,0.87,0.13,1.07,116.91
+Kolkata,4,2493,Apartment,Fully Furnished,Ready to Move,0.55,1.31,4.79,213.06
+Delhi NCR,3,1129,Apartment,Unfurnished,Under Construction,1.13,3.02,3.35,98.95
+Kolkata,2,783,Independent House,Semi-Furnished,Under Construction,2.75,3.25,1.72,61.98
+Bengaluru,2,865,Builder Floor,Fully Furnished,Ready to Move,1.48,2.73,0.89,118.16
+Delhi NCR,2,983,Apartment,Fully Furnished,Under Construction,6.8,2.11,0.18,105.11
+Delhi NCR,2,980,Apartment,Semi-Furnished,Ready to Move,4.81,1.16,1.24,114.3
+Delhi NCR,3,1195,Apartment,Semi-Furnished,Ready to Move,0.27,2.05,1.85,123.12
+Mumbai,1,524,Apartment,Fully Furnished,Ready to Move,0.35,0.6,3.48,135.28
+Ahmedabad,3,1543,Apartment,Semi-Furnished,Ready to Move,2.82,0.49,3.12,95.42
+Mumbai,2,997,Apartment,Fully Furnished,Under Construction,0.66,1.43,8.83,278.66
+Mumbai,2,995,Builder Floor,Semi-Furnished,Ready to Move,3.91,21.48,0.32,261.61
+Bengaluru,2,924,Apartment,Semi-Furnished,Ready to Move,2.24,1.58,1.23,95.43
+Chennai,3,1460,Apartment,Fully Furnished,Ready to Move,0.65,11.02,1.97,115.7
+Ahmedabad,2,1073,Apartment,Fully Furnished,Ready to Move,1.63,1.99,3.33,65.32
+Kolkata,2,741,Apartment,Semi-Furnished,Ready to Move,1.3,2.31,2.05,44.15
+Hyderabad,1,446,Independent House,Unfurnished,Ready to Move,5.16,6.38,7.32,42.57
+Delhi NCR,2,945,Apartment,Semi-Furnished,Ready to Move,0.08,0.39,2.81,117.85
+Kolkata,1,607,Apartment,Semi-Furnished,Under Construction,5.65,0.81,0.12,38.76
+Delhi NCR,3,1336,Independent House,Semi-Furnished,Ready to Move,2.64,14.57,0.36,162.95
+Bengaluru,2,721,Apartment,Fully Furnished,Ready to Move,3.34,2.82,4.2,71.81
+Delhi NCR,2,884,Builder Floor,Fully Furnished,Ready to Move,0.01,0.18,3.77,154.59
+Mumbai,1,611,Apartment,Semi-Furnished,Under Construction,2.47,0.19,0.5,115.89
+Ahmedabad,1,641,Apartment,Unfurnished,Ready to Move,2.22,9.51,0.18,24.93
+Hyderabad,3,1462,Apartment,Semi-Furnished,Under Construction,1.93,8.27,2.59,130.49
+Pune,1,426,Apartment,Semi-Furnished,Under Construction,3.85,2.45,3.03,31.54
+Delhi NCR,1,440,Apartment,Semi-Furnished,Under Construction,2.03,0.71,0.44,52.05
+Kolkata,1,479,Apartment,Semi-Furnished,Under Construction,4.86,7.09,1.93,27.13
+Mumbai,4,1961,Apartment,Semi-Furnished,Under Construction,0.66,1.57,1.1,506.35
+Pune,3,1259,Apartment,Unfurnished,Ready to Move,4.1,2.17,8.03,87.99
+Hyderabad,2,788,Apartment,Unfurnished,Under Construction,0.49,4.59,0.74,63.43
+Pune,2,1021,Apartment,Semi-Furnished,Ready to Move,4.19,1.74,3.96,76.2
+Mumbai,2,711,Apartment,Unfurnished,Under Construction,7.05,3.96,2.19,142.48
+Ahmedabad,3,1523,Apartment,Semi-Furnished,Ready to Move,1.02,8.66,0.03,87.27
+Ahmedabad,2,772,Apartment,Semi-Furnished,Ready to Move,1.89,6.39,2.18,46.21
+Chennai,1,475,Builder Floor,Semi-Furnished,Ready to Move,2.68,1.92,0.31,40.21
+Ahmedabad,1,489,Apartment,Unfurnished,Ready to Move,0.21,1.36,3.23,32.25
+Chennai,1,600,Apartment,Fully Furnished,Ready to Move,1.7,1.34,2.5,49.66
+Pune,2,709,Apartment,Semi-Furnished,Ready to Move,1.12,1.71,0.03,60.03
+Bengaluru,3,1604,Apartment,Semi-Furnished,Under Construction,5.15,2.72,0.69,151.52
+Kolkata,2,925,Apartment,Semi-Furnished,Ready to Move,5.23,2.16,4.49,50.37
+Kolkata,1,575,Independent House,Unfurnished,Ready to Move,3.02,0.57,0.97,40.69
+Pune,1,419,Builder Floor,Semi-Furnished,Under Construction,2.67,0.71,2.08,48.42
+Delhi NCR,4,2862,Apartment,Fully Furnished,Ready to Move,3.31,1.68,1.12,389.29
+Delhi NCR,2,759,Apartment,Semi-Furnished,Ready to Move,1.14,3.3,7.63,88.96
+Ahmedabad,3,1677,Apartment,Fully Furnished,Ready to Move,1.3,3.59,2.31,113.58
+Kolkata,2,1020,Apartment,Semi-Furnished,Under Construction,2.02,2.66,3.57,66.53
+Kolkata,2,823,Apartment,Unfurnished,Ready to Move,6.95,5.37,0.26,42.58
+Chennai,1,563,Apartment,Unfurnished,Ready to Move,3.22,5.35,0.12,34.7
+Bengaluru,1,551,Apartment,Semi-Furnished,Ready to Move,2.0,2.23,0.9,52.15
+Mumbai,2,1085,Independent House,Semi-Furnished,Ready to Move,3.68,0.53,1.11,285.23
+Delhi NCR,3,1770,Apartment,Unfurnished,Ready to Move,1.16,3.02,3.49,214.04
+Kolkata,2,756,Apartment,Fully Furnished,Under Construction,3.28,1.92,2.53,54.53
+Chennai,2,777,Builder Floor,Semi-Furnished,Under Construction,1.32,0.59,1.41,85.74
+Hyderabad,1,593,Apartment,Semi-Furnished,Ready to Move,0.82,16.03,3.18,52.07
+Chennai,4,2326,Independent House,Fully Furnished,Ready to Move,2.35,1.85,0.54,224.22
+Delhi NCR,3,1623,Apartment,Fully Furnished,Under Construction,2.9,3.93,0.2,203.1
+Delhi NCR,2,800,Apartment,Semi-Furnished,Ready to Move,1.54,2.69,5.78,101.37
+Chennai,4,2979,Builder Floor,Fully Furnished,Ready to Move,2.08,0.62,2.49,332.09
+Mumbai,2,1039,Apartment,Fully Furnished,Ready to Move,2.96,0.23,3.14,232.53
+Pune,2,824,Apartment,Semi-Furnished,Ready to Move,3.65,3.93,1.1,56.2
+Delhi NCR,3,1379,Apartment,Unfurnished,Under Construction,5.65,1.13,1.4,143.87
+Chennai,3,1721,Apartment,Unfurnished,Ready to Move,1.09,1.12,0.26,122.88
+Kolkata,2,1033,Apartment,Semi-Furnished,Ready to Move,7.56,12.58,5.83,57.18
+Chennai,1,500,Independent House,Semi-Furnished,Ready to Move,2.54,2.48,2.69,44.13
+Bengaluru,2,845,Builder Floor,Fully Furnished,Under Construction,3.87,0.12,0.26,116.04
+Pune,4,2473,Builder Floor,Semi-Furnished,Ready to Move,3.01,1.66,4.9,228.54
+Hyderabad,1,527,Apartment,Semi-Furnished,Ready to Move,0.58,3.51,1.76,48.75
+Mumbai,2,1013,Apartment,Fully Furnished,Ready to Move,0.19,1.59,4.35,282.45
+Ahmedabad,2,1031,Apartment,Fully Furnished,Ready to Move,3.24,0.11,0.04,68.14
+Hyderabad,2,849,Independent House,Semi-Furnished,Ready to Move,1.79,2.35,0.09,84.85
+Pune,2,735,Apartment,Unfurnished,Ready to Move,3.03,0.45,0.56,58.11
+Pune,4,2845,Apartment,Semi-Furnished,Ready to Move,1.62,3.86,0.71,221.45
+Pune,1,605,Apartment,Semi-Furnished,Ready to Move,0.94,3.87,4.33,56.42
+Hyderabad,1,526,Apartment,Semi-Furnished,Under Construction,0.84,0.15,3.68,53.19
+Kolkata,1,479,Apartment,Semi-Furnished,Ready to Move,3.28,1.37,2.87,29.83
+Pune,3,1455,Builder Floor,Fully Furnished,Ready to Move,0.81,2.14,6.48,198.85
+Chennai,2,916,Builder Floor,Semi-Furnished,Ready to Move,3.14,3.2,0.85,78.81
+Hyderabad,2,795,Apartment,Semi-Furnished,Ready to Move,1.21,1.4,7.04,72.55
+Ahmedabad,3,1263,Apartment,Unfurnished,Ready to Move,3.68,1.36,7.21,67.55
+Pune,3,1247,Builder Floor,Semi-Furnished,Under Construction,0.39,16.3,1.71,144.83
+Chennai,3,1629,Apartment,Unfurnished,Under Construction,0.57,0.17,0.3,136.52
+Kolkata,3,1393,Apartment,Fully Furnished,Ready to Move,2.9,18.06,3.89,92.97
+Bengaluru,2,894,Apartment,Unfurnished,Ready to Move,2.05,0.2,1.23,80.17
+Kolkata,3,1762,Apartment,Semi-Furnished,Ready to Move,0.57,1.36,4.75,109.02
+Ahmedabad,2,1064,Apartment,Unfurnished,Ready to Move,5.83,2.72,0.54,54.55
+Pune,3,1222,Apartment,Unfurnished,Ready to Move,0.81,0.62,2.33,88.37
+Ahmedabad,3,1499,Apartment,Semi-Furnished,Ready to Move,1.37,0.58,2.13,91.17
+Hyderabad,3,1798,Apartment,Semi-Furnished,Under Construction,0.57,1.18,0.32,178.7
+Delhi NCR,2,848,Builder Floor,Unfurnished,Ready to Move,1.23,14.52,1.35,93.64
+Pune,1,503,Independent House,Semi-Furnished,Ready to Move,1.69,1.91,0.27,55.28
+Delhi NCR,2,942,Independent House,Semi-Furnished,Under Construction,0.87,3.34,1.88,146.43
+Chennai,4,2509,Apartment,Semi-Furnished,Ready to Move,3.66,4.87,5.55,171.62
+Bengaluru,4,2195,Apartment,Unfurnished,Ready to Move,1.25,5.42,0.94,199.62
+Mumbai,1,543,Apartment,Semi-Furnished,Ready to Move,3.27,4.66,4.34,99.69
+Ahmedabad,1,480,Builder Floor,Unfurnished,Ready to Move,0.58,1.64,0.61,32.87
+Kolkata,1,636,Apartment,Semi-Furnished,Under Construction,1.18,0.47,3.36,37.01
+Bengaluru,3,1698,Apartment,Unfurnished,Under Construction,0.02,1.32,7.41,160.38
+Pune,3,1241,Apartment,Semi-Furnished,Under Construction,3.55,0.94,1.17,96.91
+Delhi NCR,1,460,Apartment,Unfurnished,Under Construction,2.46,0.59,6.92,44.61
+Kolkata,2,898,Apartment,Fully Furnished,Ready to Move,4.26,0.1,2.11,54.41
+Delhi NCR,3,1657,Builder Floor,Semi-Furnished,Under Construction,1.52,10.98,1.14,201.04
+Hyderabad,3,1626,Independent House,Unfurnished,Under Construction,4.02,10.15,6.8,160.76
+Delhi NCR,2,743,Apartment,Unfurnished,Ready to Move,2.61,0.21,0.1,79.03
+Hyderabad,2,868,Builder Floor,Fully Furnished,Ready to Move,0.01,0.76,0.09,124.19
+Chennai,2,1009,Apartment,Semi-Furnished,Ready to Move,0.73,0.6,2.75,78.39
+Kolkata,2,743,Apartment,Semi-Furnished,Ready to Move,1.7,1.32,4.78,46.64
+Kolkata,2,797,Apartment,Fully Furnished,Ready to Move,2.41,0.91,4.18,53.79
+Mumbai,2,960,Apartment,Fully Furnished,Under Construction,0.17,11.66,0.25,177.76
+Pune,3,1208,Apartment,Semi-Furnished,Under Construction,3.05,0.35,9.0,103.53
+Hyderabad,2,982,Independent House,Unfurnished,Ready to Move,1.96,0.95,3.64,101.97
+Mumbai,3,1471,Apartment,Fully Furnished,Ready to Move,1.87,0.34,8.93,379.23
+Delhi NCR,1,486,Apartment,Unfurnished,Under Construction,0.86,15.73,1.2,40.95
+Delhi NCR,2,803,Apartment,Semi-Furnished,Ready to Move,2.26,10.02,3.55,84.27
+Mumbai,1,522,Independent House,Semi-Furnished,Ready to Move,0.07,5.04,5.9,145.93
+Kolkata,1,605,Apartment,Semi-Furnished,Under Construction,0.17,2.22,1.44,40.64
+Delhi NCR,3,1142,Apartment,Semi-Furnished,Under Construction,3.31,0.84,10.05,127.77
+Ahmedabad,4,2664,Apartment,Semi-Furnished,Under Construction,0.97,1.0,0.92,152.55
+Chennai,1,644,Apartment,Fully Furnished,Ready to Move,1.07,2.34,1.14,57.31
+Chennai,2,986,Apartment,Unfurnished,Ready to Move,0.58,5.85,7.59,74.56
+Ahmedabad,3,1454,Apartment,Semi-Furnished,Under Construction,1.47,1.23,10.49,82.54
+Mumbai,1,416,Apartment,Semi-Furnished,Ready to Move,0.13,1.49,1.01,88.93
+Ahmedabad,2,782,Apartment,Fully Furnished,Under Construction,0.89,3.66,0.44,43.89
+Hyderabad,3,1209,Independent House,Unfurnished,Ready to Move,1.87,1.09,4.27,130.97
+Hyderabad,2,889,Apartment,Unfurnished,Ready to Move,1.57,3.51,7.96,80.37
+Mumbai,1,614,Apartment,Unfurnished,Ready to Move,20.04,1.96,2.75,103.05
+Ahmedabad,2,987,Builder Floor,Unfurnished,Ready to Move,1.23,0.14,3.02,62.78
+Hyderabad,3,1350,Apartment,Fully Furnished,Under Construction,1.22,2.06,4.32,130.52
+Kolkata,2,911,Builder Floor,Semi-Furnished,Ready to Move,1.75,10.08,0.5,56.47
+Ahmedabad,1,434,Apartment,Semi-Furnished,Under Construction,0.53,1.39,10.89,25.81
+Kolkata,3,1744,Apartment,Semi-Furnished,Under Construction,5.22,1.56,1.36,106.27
+Hyderabad,1,600,Apartment,Semi-Furnished,Ready to Move,2.12,0.27,2.97,56.63
+Chennai,3,1425,Builder Floor,Unfurnished,Under Construction,0.53,3.82,1.9,123.82
+Hyderabad,1,552,Apartment,Semi-Furnished,Ready to Move,3.94,7.57,1.89,42.09
+Kolkata,4,2636,Apartment,Semi-Furnished,Under Construction,0.09,1.74,3.64,162.24
+Bengaluru,2,918,Builder Floor,Unfurnished,Ready to Move,10.12,1.1,15.7,86.95
+Pune,2,788,Apartment,Semi-Furnished,Ready to Move,5.01,12.55,3.23,54.49
+Delhi NCR,1,471,Apartment,Semi-Furnished,Ready to Move,2.17,5.47,4.74,53.08
+Ahmedabad,2,946,Apartment,Unfurnished,Ready to Move,0.29,3.35,0.08,51.62
+Bengaluru,3,1740,Apartment,Unfurnished,Under Construction,0.61,1.46,4.99,186.38
+Hyderabad,4,2739,Apartment,Semi-Furnished,Ready to Move,0.82,1.0,1.07,261.82
+Chennai,2,1042,Apartment,Unfurnished,Ready to Move,0.69,5.03,0.41,77.26
+Mumbai,2,795,Apartment,Fully Furnished,Ready to Move,1.72,2.95,0.36,200.92
+Hyderabad,3,1686,Apartment,Unfurnished,Under Construction,7.23,2.94,3.42,145.86
+Chennai,3,1665,Builder Floor,Semi-Furnished,Ready to Move,1.47,0.31,18.12,158.25
+Pune,2,1043,Builder Floor,Fully Furnished,Ready to Move,2.71,2.87,3.29,120.78
+Hyderabad,2,753,Apartment,Fully Furnished,Ready to Move,2.92,6.92,0.91,68.42
+Kolkata,2,917,Independent House,Fully Furnished,Ready to Move,5.13,11.73,0.68,71.62
+Mumbai,2,715,Apartment,Unfurnished,Under Construction,0.09,0.45,2.24,166.56
+Chennai,1,498,Apartment,Semi-Furnished,Under Construction,1.3,3.99,0.2,37.67
+Chennai,2,719,Independent House,Semi-Furnished,Under Construction,3.84,3.36,1.53,66.27
+Chennai,2,745,Apartment,Unfurnished,Ready to Move,4.22,8.84,3.29,47.59
+Pune,3,1292,Apartment,Unfurnished,Under Construction,6.55,5.57,10.29,91.45
+Hyderabad,1,526,Independent House,Fully Furnished,Ready to Move,3.03,13.44,1.66,64.25
+Pune,2,757,Apartment,Semi-Furnished,Under Construction,0.7,12.88,0.67,60.93
+Ahmedabad,2,810,Independent House,Semi-Furnished,Ready to Move,1.76,1.02,5.1,53.95
+Delhi NCR,2,828,Apartment,Fully Furnished,Ready to Move,0.08,5.17,4.09,106.02
+Delhi NCR,1,480,Apartment,Semi-Furnished,Ready to Move,2.6,3.02,5.89,51.6
+Ahmedabad,2,893,Apartment,Semi-Furnished,Ready to Move,2.02,0.97,0.73,49.9
+Hyderabad,2,1039,Apartment,Semi-Furnished,Ready to Move,2.75,0.87,1.56,89.88
+Kolkata,2,1025,Independent House,Unfurnished,Under Construction,6.65,0.34,11.98,66.27
+Pune,2,707,Apartment,Semi-Furnished,Ready to Move,2.91,6.35,0.52,43.61
+Mumbai,2,728,Apartment,Fully Furnished,Under Construction,0.97,1.57,3.34,210.45
+Chennai,3,1211,Apartment,Fully Furnished,Ready to Move,0.55,7.78,0.81,93.66
+Chennai,2,860,Apartment,Fully Furnished,Ready to Move,4.82,3.75,2.08,56.17
+Hyderabad,3,1230,Apartment,Semi-Furnished,Under Construction,0.54,4.48,4.84,111.92
+Kolkata,2,887,Builder Floor,Fully Furnished,Ready to Move,0.44,1.38,2.01,84.84
+Delhi NCR,1,562,Apartment,Unfurnished,Ready to Move,0.58,2.44,4.91,60.63
+Delhi NCR,1,596,Apartment,Unfurnished,Under Construction,1.78,2.13,1.67,56.99
+Chennai,2,1063,Independent House,Semi-Furnished,Ready to Move,0.33,1.08,22.03,94.97
+Hyderabad,3,1303,Apartment,Semi-Furnished,Ready to Move,6.96,7.15,1.72,117.97
+Pune,3,1311,Apartment,Unfurnished,Under Construction,8.47,3.89,0.49,80.26
+Delhi NCR,3,1720,Independent House,Semi-Furnished,Ready to Move,9.11,0.15,1.54,203.15
+Pune,2,975,Apartment,Unfurnished,Under Construction,0.1,6.86,4.07,71.95
+Kolkata,2,772,Apartment,Semi-Furnished,Ready to Move,7.31,0.45,5.65,49.46
+Delhi NCR,1,566,Apartment,Semi-Furnished,Ready to Move,14.9,2.07,1.85,67.86
+Delhi NCR,2,959,Builder Floor,Semi-Furnished,Ready to Move,7.14,3.39,2.71,122.45
+Bengaluru,2,942,Builder Floor,Unfurnished,Under Construction,2.78,0.03,5.59,109.71
+Delhi NCR,1,645,Independent House,Semi-Furnished,Ready to Move,3.02,4.23,5.04,78.47
+Ahmedabad,1,418,Apartment,Semi-Furnished,Under Construction,0.33,4.31,3.22,26.4
+Mumbai,2,801,Apartment,Semi-Furnished,Ready to Move,5.18,4.23,5.06,163.6
+Ahmedabad,3,1784,Apartment,Semi-Furnished,Ready to Move,0.15,0.71,2.57,108.48
+Hyderabad,4,1970,Apartment,Semi-Furnished,Under Construction,0.96,1.18,0.01,188.54
+Hyderabad,4,2452,Apartment,Fully Furnished,Ready to Move,11.82,1.14,0.13,228.77
+Pune,2,1096,Builder Floor,Unfurnished,Ready to Move,1.37,12.88,11.71,97.64
+Ahmedabad,2,887,Builder Floor,Semi-Furnished,Ready to Move,0.35,0.28,0.47,74.79
+Ahmedabad,2,785,Apartment,Semi-Furnished,Ready to Move,8.71,2.24,1.56,36.13
+Ahmedabad,3,1575,Apartment,Semi-Furnished,Ready to Move,10.36,8.2,8.15,77.84
+Kolkata,1,451,Apartment,Unfurnished,Ready to Move,0.52,5.87,0.65,27.16
+Delhi NCR,2,810,Apartment,Unfurnished,Ready to Move,5.0,6.91,5.57,71.65
+Mumbai,3,1142,Independent House,Unfurnished,Ready to Move,1.24,14.34,5.12,300.04
+Pune,2,910,Independent House,Fully Furnished,Ready to Move,1.2,1.96,12.88,110.67
+Ahmedabad,2,899,Apartment,Semi-Furnished,Ready to Move,0.76,1.48,0.99,58.27
+Ahmedabad,2,997,Apartment,Semi-Furnished,Under Construction,0.11,0.12,1.14,60.74
+Bengaluru,1,489,Apartment,Fully Furnished,Under Construction,0.78,0.65,7.0,56.1
+Pune,2,939,Apartment,Unfurnished,Ready to Move,0.14,3.3,0.8,77.44
+Ahmedabad,2,814,Apartment,Fully Furnished,Ready to Move,6.45,0.69,2.38,47.21
+Pune,1,425,Apartment,Semi-Furnished,Under Construction,2.71,5.33,3.69,29.05
+Delhi NCR,1,550,Apartment,Semi-Furnished,Ready to Move,5.44,0.15,0.95,63.88
+Bengaluru,3,1398,Independent House,Fully Furnished,Ready to Move,3.16,1.2,8.36,162.88
+Pune,2,776,Apartment,Fully Furnished,Ready to Move,0.35,4.76,3.29,72.99
+Mumbai,2,836,Apartment,Fully Furnished,Under Construction,7.06,1.18,0.14,235.48
+Mumbai,2,719,Apartment,Unfurnished,Ready to Move,5.75,5.22,0.44,140.57
+Hyderabad,4,2239,Apartment,Fully Furnished,Under Construction,1.07,21.95,0.64,195.27
+Bengaluru,2,910,Apartment,Fully Furnished,Under Construction,0.3,6.38,0.84,96.49
+Bengaluru,2,939,Apartment,Semi-Furnished,Ready to Move,3.04,1.67,3.94,96.38
+Hyderabad,3,1650,Apartment,Unfurnished,Under Construction,3.26,9.23,0.28,121.32
+Pune,3,1534,Apartment,Unfurnished,Ready to Move,5.68,0.21,1.3,118.1
+Bengaluru,1,411,Independent House,Fully Furnished,Ready to Move,0.14,5.16,7.27,64.32
+Mumbai,3,1306,Apartment,Semi-Furnished,Ready to Move,0.38,0.09,2.44,352.76
+Mumbai,2,966,Independent House,Semi-Furnished,Ready to Move,2.28,0.77,0.93,253.52
+Ahmedabad,2,853,Apartment,Unfurnished,Ready to Move,2.41,17.56,9.44,41.42
+Delhi NCR,1,441,Apartment,Unfurnished,Ready to Move,0.09,1.79,0.84,51.17
+Bengaluru,1,554,Apartment,Semi-Furnished,Ready to Move,1.26,6.87,7.06,60.61
+Pune,3,1622,Apartment,Semi-Furnished,Ready to Move,2.19,1.89,3.88,137.75
+Hyderabad,2,993,Builder Floor,Fully Furnished,Ready to Move,3.35,7.33,4.05,102.69
+Hyderabad,2,797,Apartment,Semi-Furnished,Under Construction,0.95,13.46,4.34,69.93
+Pune,3,1526,Builder Floor,Semi-Furnished,Ready to Move,1.65,2.29,2.12,181.95
+Kolkata,3,1374,Builder Floor,Unfurnished,Ready to Move,4.21,3.28,5.06,92.09
+Chennai,1,591,Apartment,Unfurnished,Ready to Move,7.69,3.96,5.43,35.5
+Delhi NCR,2,1089,Apartment,Semi-Furnished,Ready to Move,0.65,10.92,1.34,119.35
+Hyderabad,1,573,Apartment,Semi-Furnished,Ready to Move,0.73,1.19,1.53,50.52
+Bengaluru,3,1468,Builder Floor,Unfurnished,Ready to Move,7.03,3.78,6.59,166.42
+Delhi NCR,2,919,Independent House,Fully Furnished,Ready to Move,1.26,1.57,2.23,139.86
+Bengaluru,4,2127,Apartment,Semi-Furnished,Ready to Move,3.17,0.98,6.05,235.26
+Kolkata,1,586,Independent House,Unfurnished,Under Construction,2.37,0.35,2.96,45.45
+Mumbai,1,451,Apartment,Unfurnished,Under Construction,0.84,3.88,2.7,101.7
+Delhi NCR,2,1073,Apartment,Unfurnished,Ready to Move,2.65,8.55,0.09,109.08
+Ahmedabad,2,1075,Apartment,Fully Furnished,Under Construction,2.66,1.73,0.98,70.99
+Hyderabad,1,406,Apartment,Unfurnished,Ready to Move,2.24,3.22,2.09,32.0
+Delhi NCR,3,1366,Independent House,Semi-Furnished,Ready to Move,0.26,4.11,2.66,183.66
+Delhi NCR,1,502,Apartment,Semi-Furnished,Under Construction,13.33,2.14,2.99,51.06
+Delhi NCR,2,1016,Apartment,Unfurnished,Ready to Move,1.28,9.35,3.78,109.18
+Chennai,3,1423,Apartment,Unfurnished,Ready to Move,2.54,1.8,3.2,85.54
+Delhi NCR,2,1095,Apartment,Unfurnished,Ready to Move,5.42,0.53,5.66,92.06
+Bengaluru,3,1765,Apartment,Semi-Furnished,Ready to Move,1.38,0.62,1.05,189.28
+Mumbai,1,501,Apartment,Unfurnished,Ready to Move,3.72,8.86,3.08,99.97
+Kolkata,2,1065,Apartment,Unfurnished,Ready to Move,8.92,17.69,0.16,57.42
+Pune,1,539,Apartment,Fully Furnished,Ready to Move,1.11,1.36,1.96,46.46
+Delhi NCR,1,570,Apartment,Unfurnished,Ready to Move,1.3,0.62,0.94,56.76
+Hyderabad,3,1662,Apartment,Semi-Furnished,Under Construction,5.9,2.63,1.44,128.32
+Delhi NCR,1,516,Apartment,Semi-Furnished,Ready to Move,0.43,4.94,1.31,57.47
+Hyderabad,2,745,Apartment,Semi-Furnished,Under Construction,0.07,3.79,0.19,66.38
+Bengaluru,2,1008,Apartment,Semi-Furnished,Ready to Move,5.99,12.07,1.89,87.94
+Hyderabad,2,787,Apartment,Unfurnished,Under Construction,4.31,6.81,15.68,63.65
+Ahmedabad,3,1368,Apartment,Semi-Furnished,Under Construction,8.99,8.13,1.07,66.16
+Pune,1,488,Apartment,Semi-Furnished,Ready to Move,0.15,3.12,4.0,44.88
+Mumbai,2,1080,Builder Floor,Semi-Furnished,Ready to Move,0.42,1.59,2.38,340.69
+Hyderabad,4,1917,Builder Floor,Unfurnished,Ready to Move,0.28,4.84,1.18,188.11
+Hyderabad,2,753,Apartment,Fully Furnished,Under Construction,2.88,2.31,0.28,75.14
+Mumbai,4,1915,Apartment,Unfurnished,Ready to Move,2.33,1.36,0.73,425.33
+Pune,1,517,Independent House,Semi-Furnished,Ready to Move,1.11,0.66,4.57,55.65
+Delhi NCR,2,959,Apartment,Semi-Furnished,Ready to Move,0.15,3.0,0.98,115.35
+Hyderabad,2,774,Apartment,Unfurnished,Under Construction,2.55,3.61,0.47,61.44
+Mumbai,3,1579,Independent House,Semi-Furnished,Ready to Move,2.11,3.36,1.21,404.91
+Ahmedabad,4,2104,Apartment,Semi-Furnished,Ready to Move,0.3,0.5,2.63,152.43
+Ahmedabad,2,706,Apartment,Fully Furnished,Ready to Move,5.99,3.38,3.65,43.47
+Bengaluru,2,1065,Apartment,Fully Furnished,Under Construction,0.55,0.74,1.47,130.17
+Mumbai,1,521,Apartment,Semi-Furnished,Ready to Move,3.4,4.36,2.07,108.05
+Bengaluru,2,710,Apartment,Semi-Furnished,Ready to Move,5.41,2.24,1.82,66.15
+Ahmedabad,2,1047,Apartment,Unfurnished,Ready to Move,2.17,7.56,0.03,46.61
+Pune,4,2228,Apartment,Semi-Furnished,Ready to Move,0.71,6.03,1.51,187.97
+Delhi NCR,2,978,Apartment,Unfurnished,Under Construction,0.92,5.15,2.66,105.31
+Mumbai,2,727,Apartment,Semi-Furnished,Ready to Move,5.42,4.83,2.53,145.6
+Kolkata,1,634,Apartment,Semi-Furnished,Ready to Move,0.89,3.29,4.16,40.97
+Ahmedabad,1,510,Apartment,Semi-Furnished,Under Construction,3.43,0.25,3.33,28.15
+Ahmedabad,1,456,Apartment,Semi-Furnished,Under Construction,11.55,4.26,0.97,22.48
+Kolkata,2,725,Apartment,Fully Furnished,Ready to Move,21.51,2.52,0.89,43.42
+Chennai,3,1153,Builder Floor,Semi-Furnished,Ready to Move,1.91,2.54,1.87,100.74
+Ahmedabad,2,728,Apartment,Fully Furnished,Under Construction,4.38,1.91,3.96,40.5
+Hyderabad,2,1052,Apartment,Semi-Furnished,Ready to Move,11.58,10.58,0.3,75.55
+Pune,1,563,Apartment,Semi-Furnished,Under Construction,1.17,1.15,8.89,52.32
+Mumbai,3,1433,Apartment,Semi-Furnished,Under Construction,0.73,1.52,2.35,324.44
+Kolkata,3,1646,Apartment,Unfurnished,Ready to Move,0.3,13.19,1.1,78.62
+Hyderabad,1,429,Apartment,Fully Furnished,Under Construction,0.38,6.65,3.55,42.02
+Kolkata,3,1447,Apartment,Semi-Furnished,Ready to Move,4.8,0.06,0.14,92.3
+Mumbai,2,972,Apartment,Fully Furnished,Ready to Move,2.22,9.46,1.99,241.01
+Bengaluru,1,594,Independent House,Semi-Furnished,Ready to Move,5.17,1.03,2.0,71.8
+Mumbai,2,907,Independent House,Fully Furnished,Under Construction,3.9,4.9,0.53,236.24
+Chennai,2,937,Apartment,Semi-Furnished,Ready to Move,2.8,3.22,5.45,64.66
+Mumbai,1,557,Apartment,Semi-Furnished,Ready to Move,2.35,3.08,4.78,130.88
+Mumbai,4,2299,Apartment,Unfurnished,Under Construction,0.12,5.06,0.5,550.16
+Chennai,3,1192,Apartment,Semi-Furnished,Ready to Move,5.14,0.93,1.36,77.62
+Pune,2,872,Apartment,Semi-Furnished,Ready to Move,1.35,0.69,0.32,75.89
+Ahmedabad,2,778,Apartment,Unfurnished,Under Construction,2.05,4.22,5.66,38.31
+Mumbai,2,809,Independent House,Fully Furnished,Under Construction,0.06,1.37,1.17,250.32
+Chennai,2,916,Apartment,Semi-Furnished,Under Construction,6.88,14.59,1.74,59.52
+Hyderabad,2,1057,Apartment,Fully Furnished,Under Construction,5.83,2.4,1.17,93.63
+Bengaluru,1,505,Apartment,Fully Furnished,Ready to Move,1.96,0.47,1.11,48.11
+Bengaluru,2,746,Apartment,Semi-Furnished,Ready to Move,2.15,4.63,4.13,74.4
+Mumbai,3,1280,Apartment,Fully Furnished,Ready to Move,3.05,1.46,4.13,322.7
+Pune,2,763,Apartment,Semi-Furnished,Ready to Move,0.77,0.64,2.19,70.24
+Pune,1,645,Independent House,Fully Furnished,Ready to Move,0.63,2.2,3.22,71.88
+Hyderabad,3,1343,Apartment,Semi-Furnished,Under Construction,2.8,13.32,2.15,94.48
+Mumbai,1,649,Apartment,Semi-Furnished,Ready to Move,0.28,2.12,0.09,149.93
+Bengaluru,2,1019,Builder Floor,Semi-Furnished,Ready to Move,1.51,1.71,0.2,139.41
+Pune,1,486,Apartment,Semi-Furnished,Ready to Move,1.7,2.35,1.45,40.14
+Mumbai,2,916,Apartment,Semi-Furnished,Ready to Move,1.2,0.05,4.16,234.53
+Kolkata,3,1589,Independent House,Semi-Furnished,Ready to Move,0.51,0.57,7.33,119.75
+Pune,2,706,Apartment,Semi-Furnished,Ready to Move,1.1,7.58,0.09,59.29
+Chennai,1,421,Apartment,Fully Furnished,Ready to Move,1.03,15.27,1.38,34.02
+Kolkata,3,1268,Apartment,Semi-Furnished,Ready to Move,1.73,0.69,0.76,80.35
+Ahmedabad,3,1429,Builder Floor,Semi-Furnished,Under Construction,2.81,3.07,5.07,107.41
+Pune,3,1749,Apartment,Semi-Furnished,Under Construction,8.62,13.57,5.61,125.14
+Bengaluru,1,584,Apartment,Semi-Furnished,Ready to Move,0.39,0.68,0.69,58.02
+Delhi NCR,2,1090,Apartment,Fully Furnished,Under Construction,5.16,0.82,3.72,138.3
+Kolkata,4,2180,Apartment,Semi-Furnished,Ready to Move,0.84,10.46,3.95,129.85
+Ahmedabad,3,1405,Apartment,Unfurnished,Ready to Move,2.24,4.89,0.58,71.62
+Hyderabad,1,629,Apartment,Semi-Furnished,Ready to Move,1.98,0.66,1.71,53.15
+Hyderabad,1,618,Apartment,Semi-Furnished,Ready to Move,2.04,2.0,2.91,54.85
+Bengaluru,2,1007,Apartment,Fully Furnished,Under Construction,3.21,0.23,0.08,102.83
+Pune,3,1772,Builder Floor,Semi-Furnished,Ready to Move,1.2,2.27,1.56,184.01
+Mumbai,2,700,Apartment,Fully Furnished,Under Construction,0.96,6.02,0.51,171.54
+Pune,2,935,Apartment,Semi-Furnished,Ready to Move,4.79,3.23,2.34,74.18
+Bengaluru,1,580,Builder Floor,Fully Furnished,Ready to Move,0.62,4.17,5.55,72.21
+Hyderabad,2,887,Apartment,Unfurnished,Under Construction,0.5,1.58,2.23,82.59
+Pune,3,1615,Apartment,Fully Furnished,Ready to Move,0.04,0.7,0.11,168.76
+Hyderabad,2,831,Independent House,Fully Furnished,Ready to Move,0.59,0.05,0.09,105.76
+Kolkata,3,1526,Apartment,Fully Furnished,Ready to Move,1.83,6.89,2.79,101.13
+Ahmedabad,4,2301,Apartment,Unfurnished,Ready to Move,1.93,4.05,1.19,122.14
+Mumbai,1,617,Apartment,Unfurnished,Ready to Move,0.73,1.04,2.55,137.79
+Kolkata,2,959,Apartment,Semi-Furnished,Ready to Move,0.19,2.17,0.54,66.87
+Hyderabad,2,700,Apartment,Unfurnished,Ready to Move,3.41,6.47,4.5,50.84
+Hyderabad,3,1170,Apartment,Unfurnished,Ready to Move,3.55,3.09,5.91,85.93
+Delhi NCR,2,877,Apartment,Unfurnished,Ready to Move,15.34,1.43,6.6,89.68
+Delhi NCR,2,888,Apartment,Semi-Furnished,Ready to Move,5.76,1.24,1.09,83.46
+Kolkata,3,1390,Apartment,Semi-Furnished,Ready to Move,6.51,0.98,3.24,87.07
+Chennai,2,707,Apartment,Unfurnished,Ready to Move,4.0,6.94,0.98,46.93
+Kolkata,3,1391,Independent House,Unfurnished,Ready to Move,2.39,3.49,4.32,93.39
+Delhi NCR,2,943,Apartment,Semi-Furnished,Ready to Move,0.34,4.94,0.39,121.05
+Hyderabad,1,522,Independent House,Semi-Furnished,Ready to Move,2.43,7.87,4.32,51.73
+Bengaluru,2,998,Apartment,Unfurnished,Ready to Move,0.14,17.33,1.74,88.28
+Kolkata,3,1382,Apartment,Semi-Furnished,Ready to Move,5.41,1.15,5.8,77.99
+Hyderabad,2,731,Apartment,Fully Furnished,Ready to Move,1.64,0.8,4.03,75.6
+Bengaluru,3,1476,Apartment,Fully Furnished,Ready to Move,2.99,2.48,1.42,154.29
+Bengaluru,3,1757,Apartment,Fully Furnished,Ready to Move,0.13,0.14,7.02,185.54
+Delhi NCR,2,855,Apartment,Fully Furnished,Ready to Move,1.91,6.28,1.0,104.34
+Kolkata,4,2307,Apartment,Semi-Furnished,Ready to Move,0.9,8.61,10.23,136.64
+Pune,1,556,Apartment,Semi-Furnished,Ready to Move,0.84,4.63,4.37,49.86
+Mumbai,1,415,Apartment,Semi-Furnished,Ready to Move,1.23,1.25,14.03,100.39
+Delhi NCR,1,498,Apartment,Semi-Furnished,Ready to Move,0.0,0.53,0.17,62.39
+Delhi NCR,3,1658,Apartment,Semi-Furnished,Under Construction,1.57,1.93,0.96,208.03
+Pune,2,950,Apartment,Semi-Furnished,Ready to Move,1.67,7.17,4.06,75.13
+Mumbai,1,586,Apartment,Semi-Furnished,Under Construction,4.97,1.71,7.66,132.58
+Hyderabad,2,730,Apartment,Unfurnished,Under Construction,1.49,0.14,0.09,59.26
+Chennai,2,959,Apartment,Semi-Furnished,Ready to Move,1.13,1.28,0.0,85.58
+Kolkata,1,564,Builder Floor,Unfurnished,Ready to Move,13.12,18.4,0.89,36.03
+Chennai,3,1628,Apartment,Unfurnished,Ready to Move,2.12,4.52,5.75,100.53
+Hyderabad,3,1650,Apartment,Unfurnished,Ready to Move,1.6,9.24,4.37,128.68
+Ahmedabad,2,1003,Apartment,Semi-Furnished,Ready to Move,1.71,5.96,1.25,55.87
+Delhi NCR,4,2741,Builder Floor,Unfurnished,Under Construction,4.14,3.1,0.01,342.37
+Mumbai,2,738,Apartment,Fully Furnished,Under Construction,1.04,0.64,2.43,157.23
+Delhi NCR,4,2341,Builder Floor,Semi-Furnished,Ready to Move,1.23,1.71,0.82,328.38
+Bengaluru,2,857,Apartment,Semi-Furnished,Ready to Move,3.53,3.51,4.11,73.19
+Delhi NCR,2,977,Apartment,Semi-Furnished,Ready to Move,0.19,8.18,1.77,96.77
+Delhi NCR,1,602,Independent House,Semi-Furnished,Under Construction,5.01,1.25,3.41,81.62
+Hyderabad,3,1165,Apartment,Semi-Furnished,Under Construction,1.41,0.52,5.74,102.62
+Hyderabad,2,807,Apartment,Semi-Furnished,Under Construction,2.18,3.27,2.3,68.45
+Hyderabad,1,411,Independent House,Semi-Furnished,Ready to Move,3.54,0.78,1.23,41.54
+Chennai,1,621,Builder Floor,Fully Furnished,Ready to Move,0.77,3.77,4.4,72.64
+Bengaluru,2,991,Apartment,Fully Furnished,Ready to Move,5.53,1.22,0.92,103.39
+Ahmedabad,2,717,Apartment,Semi-Furnished,Ready to Move,9.69,1.05,6.66,33.79
+Ahmedabad,3,1189,Independent House,Unfurnished,Under Construction,1.7,2.04,0.22,83.58
+Hyderabad,3,1792,Apartment,Semi-Furnished,Under Construction,6.91,3.6,5.41,140.46
+Mumbai,1,598,Independent House,Semi-Furnished,Ready to Move,0.0,3.15,0.29,194.65
+Chennai,3,1352,Apartment,Semi-Furnished,Ready to Move,5.62,1.12,0.17,96.59
+Pune,1,400,Apartment,Fully Furnished,Ready to Move,0.93,8.87,1.35,32.51
+Mumbai,3,1482,Builder Floor,Semi-Furnished,Under Construction,0.93,0.47,9.41,425.49
+Kolkata,3,1541,Apartment,Fully Furnished,Ready to Move,0.65,0.16,12.31,109.82
+Kolkata,2,1045,Apartment,Unfurnished,Ready to Move,0.95,3.69,0.68,64.4
+Mumbai,3,1698,Apartment,Unfurnished,Ready to Move,0.6,0.53,0.48,356.35
+Hyderabad,2,789,Apartment,Unfurnished,Ready to Move,5.91,2.81,1.31,65.45
+Pune,2,936,Apartment,Fully Furnished,Under Construction,5.73,12.13,1.23,73.91
+Pune,3,1489,Independent House,Fully Furnished,Ready to Move,0.27,4.8,4.28,172.92
+Chennai,2,769,Apartment,Semi-Furnished,Ready to Move,0.39,3.84,1.76,60.18
+Pune,2,743,Apartment,Semi-Furnished,Ready to Move,4.95,3.42,4.54,55.73
+Kolkata,2,899,Independent House,Semi-Furnished,Ready to Move,1.27,0.79,4.14,66.52
+Bengaluru,3,1763,Apartment,Fully Furnished,Ready to Move,0.46,2.27,2.59,208.16
+Hyderabad,2,785,Apartment,Fully Furnished,Ready to Move,1.79,1.68,5.38,89.13
+Pune,1,418,Apartment,Semi-Furnished,Ready to Move,1.35,12.24,0.65,34.36
+Chennai,3,1200,Builder Floor,Semi-Furnished,Under Construction,0.62,1.11,0.53,124.23
+Kolkata,3,1706,Apartment,Unfurnished,Ready to Move,3.19,2.55,4.17,85.01
+Bengaluru,1,500,Apartment,Semi-Furnished,Ready to Move,2.49,11.13,0.84,50.49
+Delhi NCR,1,429,Apartment,Semi-Furnished,Ready to Move,0.26,6.23,0.01,51.86
+Delhi NCR,1,648,Apartment,Unfurnished,Ready to Move,6.49,13.35,7.29,63.77
+Bengaluru,2,732,Apartment,Fully Furnished,Ready to Move,2.04,3.75,2.93,73.88
+Kolkata,2,928,Apartment,Semi-Furnished,Under Construction,0.72,1.62,1.77,59.38
+Chennai,3,1623,Apartment,Fully Furnished,Ready to Move,0.58,7.01,3.88,116.18
+Bengaluru,2,817,Builder Floor,Unfurnished,Ready to Move,0.37,1.38,1.22,88.45
+Hyderabad,2,1049,Apartment,Semi-Furnished,Ready to Move,1.38,0.72,9.22,92.12
+Hyderabad,2,854,Apartment,Semi-Furnished,Ready to Move,0.36,4.9,0.21,79.42
+Delhi NCR,3,1522,Apartment,Unfurnished,Ready to Move,1.34,4.08,3.07,154.74
+Pune,2,1092,Apartment,Semi-Furnished,Ready to Move,0.4,8.45,4.51,82.57
+Chennai,4,2204,Apartment,Unfurnished,Ready to Move,2.67,13.07,1.9,145.33
+Delhi NCR,2,1031,Apartment,Unfurnished,Ready to Move,3.85,7.79,4.22,71.31
+Pune,1,646,Apartment,Unfurnished,Ready to Move,1.99,0.25,7.85,48.46
+Pune,2,728,Apartment,Unfurnished,Ready to Move,2.85,4.37,4.09,54.38
+Ahmedabad,2,860,Apartment,Semi-Furnished,Ready to Move,6.97,6.14,1.11,41.58
+Hyderabad,2,934,Apartment,Unfurnished,Ready to Move,2.54,16.05,2.48,77.5
+Kolkata,1,589,Apartment,Semi-Furnished,Ready to Move,1.13,1.88,7.28,36.39
+Mumbai,1,516,Apartment,Semi-Furnished,Under Construction,1.49,0.74,1.79,116.03
+Kolkata,3,1370,Apartment,Semi-Furnished,Ready to Move,4.92,7.67,3.43,68.65
+Mumbai,1,401,Apartment,Fully Furnished,Ready to Move,0.35,1.53,1.88,98.94
+Bengaluru,3,1791,Apartment,Semi-Furnished,Ready to Move,0.99,3.65,0.39,187.52
+Hyderabad,2,1072,Independent House,Semi-Furnished,Under Construction,2.15,1.98,0.18,126.81
+Pune,2,871,Apartment,Unfurnished,Under Construction,2.82,2.06,9.13,76.63
+Chennai,2,973,Apartment,Semi-Furnished,Ready to Move,3.6,5.27,2.84,71.43
+Mumbai,2,958,Apartment,Fully Furnished,Ready to Move,0.96,1.79,0.33,223.81
+Kolkata,2,834,Apartment,Semi-Furnished,Under Construction,0.39,4.72,5.84,58.79
+Pune,1,570,Apartment,Unfurnished,Ready to Move,7.74,0.06,2.22,43.08
+Mumbai,1,609,Builder Floor,Semi-Furnished,Ready to Move,0.2,1.57,4.43,183.99
+Mumbai,2,935,Apartment,Semi-Furnished,Under Construction,0.25,1.54,0.41,244.51
+Ahmedabad,2,885,Builder Floor,Semi-Furnished,Ready to Move,1.71,5.53,7.12,72.63
+Mumbai,4,2163,Independent House,Semi-Furnished,Ready to Move,4.28,1.51,2.68,579.24
+Chennai,3,1706,Apartment,Unfurnished,Under Construction,3.72,4.01,4.02,104.93
+Hyderabad,3,1477,Apartment,Fully Furnished,Ready to Move,6.94,4.67,0.1,141.7
+Chennai,3,1622,Apartment,Unfurnished,Ready to Move,0.38,4.3,1.14,140.9
+Delhi NCR,2,767,Apartment,Unfurnished,Ready to Move,1.18,3.7,0.93,82.34
+Pune,2,1078,Builder Floor,Semi-Furnished,Ready to Move,0.83,2.14,8.96,115.03
+Hyderabad,3,1295,Apartment,Unfurnished,Ready to Move,4.93,1.87,0.61,100.54
+Ahmedabad,2,1068,Independent House,Unfurnished,Ready to Move,1.68,3.33,3.68,72.79
+Hyderabad,2,797,Apartment,Unfurnished,Ready to Move,0.07,0.26,0.13,62.57
+Hyderabad,1,492,Independent House,Semi-Furnished,Under Construction,3.08,8.34,0.66,50.38
+Kolkata,2,721,Builder Floor,Fully Furnished,Ready to Move,1.23,6.98,1.24,61.31
+Hyderabad,2,871,Apartment,Fully Furnished,Under Construction,1.89,1.7,4.75,86.93
+Ahmedabad,3,1482,Apartment,Semi-Furnished,Under Construction,5.61,3.35,4.68,78.08
+Chennai,2,833,Apartment,Unfurnished,Ready to Move,0.74,10.77,9.15,56.8
+Hyderabad,2,724,Independent House,Semi-Furnished,Ready to Move,0.69,1.27,7.46,70.02
+Bengaluru,4,2302,Builder Floor,Semi-Furnished,Under Construction,0.76,5.43,0.26,273.11
+Pune,1,584,Independent House,Semi-Furnished,Ready to Move,1.03,0.35,5.31,67.56
+Hyderabad,2,784,Apartment,Unfurnished,Ready to Move,0.28,2.96,1.8,72.63
+Pune,1,454,Apartment,Unfurnished,Ready to Move,2.99,8.62,6.03,30.23
+Bengaluru,3,1243,Independent House,Semi-Furnished,Under Construction,0.58,3.21,0.28,149.32
+Bengaluru,3,1778,Apartment,Semi-Furnished,Ready to Move,6.51,3.83,5.19,172.59
+Pune,2,923,Independent House,Fully Furnished,Ready to Move,0.61,9.53,0.52,102.33
+Mumbai,3,1319,Apartment,Semi-Furnished,Ready to Move,0.74,5.03,1.22,297.67
+Delhi NCR,2,878,Apartment,Unfurnished,Under Construction,0.88,4.76,0.09,99.01
+Kolkata,3,1730,Apartment,Semi-Furnished,Ready to Move,3.66,3.53,0.4,93.69
+Mumbai,3,1532,Apartment,Semi-Furnished,Ready to Move,1.39,4.01,1.77,380.21
+Mumbai,3,1364,Apartment,Unfurnished,Ready to Move,4.28,6.51,5.12,225.51
+Chennai,1,585,Apartment,Unfurnished,Ready to Move,3.84,15.5,4.46,33.92
+Kolkata,4,2228,Apartment,Unfurnished,Ready to Move,6.63,6.35,0.8,104.65
+Kolkata,3,1761,Apartment,Unfurnished,Ready to Move,3.53,4.92,0.49,91.53
+Mumbai,2,914,Apartment,Semi-Furnished,Ready to Move,0.13,0.58,1.48,228.89
+Hyderabad,3,1296,Apartment,Fully Furnished,Under Construction,4.54,6.79,6.44,116.47
+Chennai,2,741,Builder Floor,Semi-Furnished,Ready to Move,6.95,5.33,0.29,62.02
+Chennai,3,1152,Apartment,Semi-Furnished,Ready to Move,12.66,5.89,2.35,69.14
+Bengaluru,1,623,Builder Floor,Semi-Furnished,Under Construction,0.33,1.05,0.28,70.33
+Ahmedabad,3,1542,Apartment,Semi-Furnished,Ready to Move,2.38,9.35,1.91,86.3
+Kolkata,2,1029,Apartment,Unfurnished,Ready to Move,0.56,0.41,0.41,67.87
+Mumbai,1,438,Apartment,Semi-Furnished,Under Construction,0.76,1.17,0.25,113.67
+Bengaluru,1,521,Apartment,Semi-Furnished,Ready to Move,3.42,4.35,0.64,49.09
+Pune,1,414,Apartment,Unfurnished,Ready to Move,9.5,4.48,0.88,29.85
+Delhi NCR,2,822,Apartment,Semi-Furnished,Ready to Move,2.26,1.5,0.97,89.43
+Ahmedabad,2,1066,Apartment,Semi-Furnished,Ready to Move,4.75,4.84,3.11,56.75
+Ahmedabad,2,1086,Apartment,Semi-Furnished,Ready to Move,0.02,1.96,0.17,62.94
+Ahmedabad,2,1038,Apartment,Unfurnished,Under Construction,0.09,0.0,0.25,55.34
+Chennai,2,965,Apartment,Semi-Furnished,Ready to Move,2.27,0.71,0.63,75.87
+Pune,3,1447,Apartment,Semi-Furnished,Ready to Move,1.23,8.57,6.17,114.69
+Ahmedabad,1,428,Apartment,Unfurnished,Ready to Move,5.51,1.01,2.97,22.83
+Pune,3,1134,Apartment,Unfurnished,Under Construction,0.9,0.48,3.93,81.73
+Hyderabad,3,1617,Apartment,Semi-Furnished,Under Construction,1.41,4.59,1.39,152.17
+Ahmedabad,2,1095,Apartment,Unfurnished,Ready to Move,1.88,2.32,0.72,58.69
+Delhi NCR,2,810,Independent House,Semi-Furnished,Under Construction,0.8,6.37,0.12,122.89
+Pune,3,1393,Independent House,Semi-Furnished,Under Construction,5.98,7.91,2.01,132.76
+Pune,1,476,Apartment,Unfurnished,Ready to Move,1.56,7.48,2.56,27.68
+Delhi NCR,1,492,Apartment,Unfurnished,Ready to Move,1.38,1.5,6.82,57.89
+Ahmedabad,1,546,Apartment,Semi-Furnished,Ready to Move,4.74,2.82,6.41,31.32
+Delhi NCR,3,1166,Apartment,Unfurnished,Under Construction,0.93,4.2,1.66,111.28
+Pune,1,535,Apartment,Unfurnished,Under Construction,4.25,1.55,1.65,34.06
+Delhi NCR,2,707,Apartment,Semi-Furnished,Ready to Move,0.33,0.17,0.53,91.78
+Pune,4,1921,Apartment,Semi-Furnished,Ready to Move,0.5,2.74,0.89,165.19
+Pune,3,1439,Apartment,Semi-Furnished,Ready to Move,7.53,0.05,7.8,107.25
+Hyderabad,2,874,Apartment,Unfurnished,Under Construction,4.62,12.03,0.46,69.0
+Mumbai,1,531,Apartment,Semi-Furnished,Under Construction,1.23,6.37,10.39,120.27
+Pune,3,1790,Apartment,Semi-Furnished,Ready to Move,2.54,0.85,2.11,123.64
+Ahmedabad,2,784,Apartment,Fully Furnished,Ready to Move,7.16,1.36,1.83,42.05
+Bengaluru,1,594,Apartment,Semi-Furnished,Ready to Move,0.6,16.26,0.58,62.94
+Chennai,1,444,Apartment,Unfurnished,Under Construction,0.15,1.87,3.25,33.06
+Kolkata,3,1235,Apartment,Semi-Furnished,Ready to Move,1.93,6.12,1.85,70.41
+Mumbai,2,1042,Apartment,Semi-Furnished,Ready to Move,0.38,2.37,1.39,256.72
+Mumbai,3,1115,Apartment,Semi-Furnished,Under Construction,0.52,7.98,0.92,234.0
+Mumbai,3,1432,Independent House,Fully Furnished,Ready to Move,5.55,4.87,0.21,358.33
+Hyderabad,2,894,Apartment,Semi-Furnished,Under Construction,0.02,0.09,2.2,92.67
+Pune,2,708,Builder Floor,Unfurnished,Ready to Move,4.24,1.39,1.13,70.57
+Hyderabad,2,1015,Apartment,Semi-Furnished,Ready to Move,1.82,3.27,3.69,92.94
+Pune,2,1033,Apartment,Unfurnished,Under Construction,2.05,10.42,3.86,64.11
+Ahmedabad,2,1032,Apartment,Semi-Furnished,Ready to Move,2.79,0.43,1.21,67.93
+Hyderabad,3,1426,Apartment,Semi-Furnished,Ready to Move,1.41,3.68,3.32,144.77
+Hyderabad,2,714,Apartment,Semi-Furnished,Ready to Move,0.31,1.44,0.9,73.7
+Chennai,3,1713,Apartment,Unfurnished,Ready to Move,0.27,8.8,3.9,120.22
+Bengaluru,2,925,Independent House,Semi-Furnished,Ready to Move,3.51,5.8,0.05,108.45
+Hyderabad,2,977,Builder Floor,Semi-Furnished,Under Construction,0.62,1.85,0.49,116.93
+Chennai,2,812,Apartment,Semi-Furnished,Under Construction,0.07,0.73,0.84,60.1
+Delhi NCR,2,700,Apartment,Unfurnished,Under Construction,9.73,0.05,4.45,67.44
+Bengaluru,3,1365,Apartment,Semi-Furnished,Ready to Move,9.83,3.88,0.21,119.35
+Ahmedabad,1,634,Apartment,Unfurnished,Under Construction,1.19,2.08,0.62,35.99
+Hyderabad,2,907,Independent House,Unfurnished,Under Construction,0.06,1.51,1.33,100.8
+Kolkata,1,509,Independent House,Unfurnished,Ready to Move,3.25,16.94,0.03,30.92
+Mumbai,2,899,Independent House,Unfurnished,Ready to Move,4.44,2.51,4.31,194.0
+Delhi NCR,2,1068,Apartment,Semi-Furnished,Ready to Move,0.33,5.54,2.46,125.66
+Delhi NCR,2,1005,Apartment,Fully Furnished,Under Construction,0.36,0.78,6.93,121.82
+Ahmedabad,4,1811,Apartment,Semi-Furnished,Ready to Move,4.32,0.05,0.09,90.23
+Chennai,2,1044,Builder Floor,Unfurnished,Under Construction,6.37,2.16,0.95,99.44
+Delhi NCR,3,1564,Apartment,Semi-Furnished,Ready to Move,3.91,4.38,3.94,195.78
+Bengaluru,2,887,Apartment,Semi-Furnished,Under Construction,0.56,2.83,3.37,89.45
+Hyderabad,2,853,Apartment,Unfurnished,Ready to Move,1.33,8.85,0.84,56.61
+Hyderabad,1,637,Independent House,Fully Furnished,Ready to Move,2.3,2.28,2.72,84.17
+Kolkata,2,1067,Apartment,Semi-Furnished,Ready to Move,0.44,1.49,4.74,73.04
+Ahmedabad,2,1033,Apartment,Fully Furnished,Ready to Move,0.59,9.91,0.1,65.94
+Mumbai,2,1076,Builder Floor,Semi-Furnished,Under Construction,0.83,2.09,3.79,301.24
+Chennai,1,422,Builder Floor,Semi-Furnished,Under Construction,1.78,1.26,0.87,37.54
+Mumbai,1,570,Apartment,Unfurnished,Ready to Move,1.79,0.41,8.86,121.78
+Delhi NCR,2,833,Apartment,Semi-Furnished,Ready to Move,4.21,6.31,2.32,86.12
+Ahmedabad,4,2764,Independent House,Unfurnished,Ready to Move,3.5,6.97,0.1,155.23
+Kolkata,2,724,Builder Floor,Fully Furnished,Ready to Move,6.13,0.14,1.55,65.88
+Mumbai,2,717,Apartment,Semi-Furnished,Ready to Move,4.47,1.78,10.17,133.12
+Bengaluru,1,589,Apartment,Fully Furnished,Under Construction,0.73,5.54,3.93,66.9
+Hyderabad,2,840,Apartment,Semi-Furnished,Under Construction,1.01,11.7,1.07,71.82
+Delhi NCR,2,742,Independent House,Fully Furnished,Ready to Move,1.73,1.9,2.57,128.6
+Kolkata,1,477,Apartment,Unfurnished,Ready to Move,0.04,8.22,2.74,25.3
+Mumbai,2,983,Apartment,Semi-Furnished,Ready to Move,5.86,2.0,0.07,220.06
+Chennai,1,545,Apartment,Semi-Furnished,Ready to Move,0.11,0.79,0.59,46.01
+Bengaluru,1,458,Builder Floor,Semi-Furnished,Ready to Move,0.97,0.01,2.41,62.57
+Bengaluru,1,587,Apartment,Semi-Furnished,Ready to Move,2.11,1.6,1.55,55.73
+Mumbai,1,462,Apartment,Unfurnished,Ready to Move,1.82,1.9,0.63,92.6
+Hyderabad,1,584,Apartment,Unfurnished,Ready to Move,2.66,11.61,4.44,42.71
+Mumbai,2,791,Apartment,Fully Furnished,Ready to Move,1.87,0.92,2.01,193.52
+Delhi NCR,3,1278,Apartment,Semi-Furnished,Ready to Move,0.65,1.93,1.11,167.04
+Mumbai,2,755,Apartment,Unfurnished,Ready to Move,0.56,0.1,0.53,171.95
+Bengaluru,2,854,Apartment,Semi-Furnished,Under Construction,5.94,5.77,2.83,81.1
+Kolkata,2,859,Builder Floor,Fully Furnished,Under Construction,0.77,9.87,3.29,63.1
+Mumbai,4,1910,Apartment,Unfurnished,Under Construction,0.82,1.09,3.32,360.28
+Hyderabad,2,836,Apartment,Fully Furnished,Ready to Move,1.33,2.24,0.75,81.45
+Ahmedabad,1,631,Apartment,Fully Furnished,Ready to Move,0.38,0.52,2.71,37.62
+Kolkata,2,919,Apartment,Fully Furnished,Ready to Move,1.77,2.44,7.07,64.2
+Chennai,1,624,Apartment,Fully Furnished,Ready to Move,2.73,0.57,1.31,48.6
+Pune,2,767,Independent House,Semi-Furnished,Under Construction,3.85,2.96,0.71,76.54
+Mumbai,2,1001,Apartment,Semi-Furnished,Ready to Move,3.11,5.31,4.44,200.11
+Hyderabad,3,1348,Apartment,Unfurnished,Ready to Move,0.4,3.22,0.58,119.27
+Kolkata,2,1022,Builder Floor,Unfurnished,Ready to Move,1.52,1.13,0.88,71.69
+Hyderabad,3,1617,Apartment,Semi-Furnished,Ready to Move,0.1,1.75,0.32,129.05
+Chennai,4,2405,Independent House,Semi-Furnished,Under Construction,0.04,4.07,0.94,251.33
+Bengaluru,1,572,Apartment,Unfurnished,Ready to Move,1.45,3.56,1.58,50.38
+Hyderabad,2,968,Apartment,Semi-Furnished,Ready to Move,0.73,0.59,0.2,100.65
+Kolkata,2,896,Apartment,Unfurnished,Ready to Move,2.87,7.46,6.16,45.56
+Hyderabad,2,724,Apartment,Fully Furnished,Under Construction,3.22,2.58,2.16,63.39
+Hyderabad,2,847,Apartment,Unfurnished,Ready to Move,5.64,0.71,2.66,64.28
+Hyderabad,3,1217,Apartment,Semi-Furnished,Ready to Move,3.57,0.52,1.39,101.51
+Delhi NCR,3,1466,Apartment,Semi-Furnished,Ready to Move,0.12,13.47,3.32,165.01
+Delhi NCR,2,1037,Independent House,Unfurnished,Under Construction,1.16,1.32,1.7,146.36
+Bengaluru,2,765,Apartment,Fully Furnished,Ready to Move,0.8,9.57,4.3,84.92
+Mumbai,3,1469,Builder Floor,Semi-Furnished,Ready to Move,1.22,2.11,5.17,426.04
+Hyderabad,4,1974,Apartment,Semi-Furnished,Under Construction,0.44,1.95,3.34,161.2
+Chennai,3,1687,Apartment,Unfurnished,Under Construction,0.26,4.83,2.03,137.03
+Mumbai,1,638,Independent House,Semi-Furnished,Ready to Move,1.84,0.04,4.57,182.68
+Chennai,2,813,Apartment,Unfurnished,Under Construction,3.19,1.65,2.05,54.18
+Mumbai,1,510,Builder Floor,Semi-Furnished,Ready to Move,3.03,1.44,0.35,142.43
+Bengaluru,2,948,Apartment,Semi-Furnished,Under Construction,1.5,8.1,0.37,88.62
+Hyderabad,1,582,Apartment,Fully Furnished,Ready to Move,1.85,3.01,8.9,48.35
+Hyderabad,2,902,Apartment,Semi-Furnished,Ready to Move,1.82,1.81,0.72,84.76
+Pune,2,846,Apartment,Unfurnished,Under Construction,2.94,1.24,5.08,59.77
+Chennai,1,434,Apartment,Unfurnished,Under Construction,0.12,3.57,0.85,30.76
+Mumbai,2,1008,Apartment,Semi-Furnished,Ready to Move,3.09,0.66,1.69,260.96
+Mumbai,2,725,Apartment,Unfurnished,Under Construction,2.18,1.13,3.19,166.7
+Ahmedabad,2,937,Apartment,Unfurnished,Ready to Move,0.55,1.39,0.52,58.68
+Ahmedabad,1,413,Apartment,Fully Furnished,Under Construction,0.13,3.75,4.01,25.1
+Delhi NCR,2,1073,Apartment,Unfurnished,Ready to Move,0.29,1.87,3.51,126.05
+Pune,3,1656,Apartment,Fully Furnished,Ready to Move,1.86,2.82,2.35,153.65
+Kolkata,1,571,Independent House,Unfurnished,Ready to Move,3.55,4.2,2.5,39.1
+Ahmedabad,1,615,Independent House,Fully Furnished,Ready to Move,1.02,12.52,0.34,42.95
+Kolkata,2,932,Apartment,Semi-Furnished,Ready to Move,1.19,5.79,1.72,62.76
+Delhi NCR,4,2504,Independent House,Semi-Furnished,Ready to Move,6.8,2.08,0.27,317.63
+Delhi NCR,2,750,Apartment,Unfurnished,Ready to Move,0.6,5.52,1.1,79.78
+Delhi NCR,2,1074,Independent House,Fully Furnished,Under Construction,0.27,11.96,6.92,174.7
+Chennai,2,913,Apartment,Fully Furnished,Ready to Move,1.05,2.77,2.56,71.33
+Chennai,2,850,Apartment,Semi-Furnished,Ready to Move,3.43,2.11,4.07,57.09
+Bengaluru,1,583,Apartment,Semi-Furnished,Ready to Move,2.46,0.32,2.56,72.09
+Bengaluru,2,974,Apartment,Semi-Furnished,Ready to Move,1.34,8.92,0.65,86.97
+Delhi NCR,3,1175,Apartment,Unfurnished,Ready to Move,8.36,1.13,2.71,131.73
+Pune,2,919,Apartment,Semi-Furnished,Ready to Move,3.32,0.26,4.22,74.94
+Mumbai,3,1798,Independent House,Fully Furnished,Ready to Move,0.16,3.08,0.45,562.09
+Chennai,3,1388,Apartment,Semi-Furnished,Ready to Move,3.41,7.48,5.09,92.45
+Pune,1,546,Apartment,Unfurnished,Ready to Move,0.06,2.09,2.43,43.68
+Hyderabad,3,1639,Apartment,Semi-Furnished,Ready to Move,2.63,6.11,0.01,150.81
+Chennai,1,522,Apartment,Semi-Furnished,Under Construction,0.59,7.24,2.2,41.03
+Chennai,2,879,Apartment,Unfurnished,Ready to Move,2.98,2.42,1.51,59.33
+Bengaluru,1,525,Apartment,Unfurnished,Under Construction,0.93,3.58,1.05,42.46
+Mumbai,1,576,Apartment,Unfurnished,Ready to Move,5.16,3.05,4.43,111.56
+Mumbai,2,736,Apartment,Semi-Furnished,Under Construction,1.03,11.2,6.89,161.82
+Ahmedabad,2,798,Apartment,Unfurnished,Ready to Move,2.42,5.17,4.31,44.26
+Kolkata,2,797,Builder Floor,Semi-Furnished,Ready to Move,0.84,10.38,5.63,53.39
+Kolkata,2,826,Independent House,Semi-Furnished,Under Construction,6.23,0.99,7.18,59.18
+Kolkata,1,626,Apartment,Semi-Furnished,Ready to Move,3.8,1.49,7.31,36.71
+Kolkata,1,567,Apartment,Fully Furnished,Ready to Move,0.7,0.29,0.37,41.45
+Hyderabad,2,779,Apartment,Unfurnished,Ready to Move,7.43,2.77,1.83,59.24
+Hyderabad,2,993,Apartment,Semi-Furnished,Under Construction,1.1,8.28,0.0,86.8
+Chennai,3,1737,Apartment,Fully Furnished,Ready to Move,2.64,1.58,2.12,121.77
+Delhi NCR,2,1042,Apartment,Unfurnished,Ready to Move,3.4,0.55,7.74,110.27
+Bengaluru,3,1409,Builder Floor,Unfurnished,Under Construction,0.06,0.28,0.67,181.6
+Bengaluru,2,849,Apartment,Fully Furnished,Ready to Move,7.98,2.37,3.06,87.44
+Kolkata,2,715,Apartment,Fully Furnished,Under Construction,1.06,0.72,3.1,51.04
+Chennai,2,727,Apartment,Semi-Furnished,Ready to Move,0.53,1.7,0.52,42.04
+Ahmedabad,2,872,Apartment,Unfurnished,Under Construction,4.75,6.86,0.82,42.03
+Pune,2,745,Apartment,Semi-Furnished,Ready to Move,3.03,1.94,1.86,55.46
+Delhi NCR,3,1335,Apartment,Unfurnished,Ready to Move,0.23,3.77,0.63,152.08
+Chennai,2,913,Apartment,Semi-Furnished,Ready to Move,0.31,2.79,2.64,79.32
+Delhi NCR,3,1184,Apartment,Semi-Furnished,Ready to Move,3.14,5.07,1.99,109.59
+Delhi NCR,3,1184,Apartment,Fully Furnished,Ready to Move,0.19,0.68,2.2,165.05
+Delhi NCR,3,1588,Apartment,Unfurnished,Ready to Move,6.23,10.13,0.43,128.79
+Chennai,3,1164,Apartment,Semi-Furnished,Ready to Move,3.38,4.13,2.18,83.19
+Kolkata,2,833,Apartment,Unfurnished,Ready to Move,1.02,1.26,0.15,50.32
+Bengaluru,2,850,Apartment,Semi-Furnished,Ready to Move,1.13,0.53,6.4,95.65
+Bengaluru,2,814,Builder Floor,Semi-Furnished,Ready to Move,1.77,0.65,1.26,111.28
+Kolkata,2,763,Apartment,Unfurnished,Ready to Move,1.12,6.11,5.82,44.59
+Delhi NCR,2,1042,Independent House,Semi-Furnished,Ready to Move,3.83,3.55,3.63,121.16
+Pune,3,1451,Builder Floor,Semi-Furnished,Ready to Move,9.2,1.92,4.36,110.99
+Mumbai,2,857,Apartment,Fully Furnished,Ready to Move,2.2,1.62,1.13,230.41
+Chennai,2,776,Apartment,Semi-Furnished,Under Construction,1.48,7.75,0.78,59.11
+Mumbai,1,634,Independent House,Fully Furnished,Ready to Move,0.63,8.31,1.57,175.2
+Ahmedabad,2,845,Apartment,Semi-Furnished,Ready to Move,2.65,3.48,0.07,48.05
+Kolkata,1,486,Apartment,Unfurnished,Ready to Move,2.89,2.97,7.53,27.21
+Pune,3,1562,Builder Floor,Semi-Furnished,Under Construction,2.89,6.78,1.47,161.14
+Chennai,2,924,Apartment,Semi-Furnished,Ready to Move,0.07,5.53,13.41,71.42
+Kolkata,1,548,Apartment,Semi-Furnished,Under Construction,5.73,2.05,4.3,34.55
+Delhi NCR,1,456,Apartment,Semi-Furnished,Ready to Move,1.03,0.35,0.25,52.0
+Bengaluru,2,802,Independent House,Semi-Furnished,Under Construction,3.41,5.85,3.24,95.67
+Mumbai,2,1046,Apartment,Unfurnished,Ready to Move,3.57,0.74,0.95,209.7
+Hyderabad,2,1000,Apartment,Unfurnished,Ready to Move,2.63,0.07,0.84,79.18
+Hyderabad,1,571,Independent House,Semi-Furnished,Ready to Move,1.26,7.41,0.89,49.22
+Pune,2,787,Apartment,Semi-Furnished,Under Construction,2.34,3.45,7.43,68.11
+Delhi NCR,2,1070,Apartment,Semi-Furnished,Under Construction,0.1,8.89,2.08,135.99
+Ahmedabad,2,1002,Apartment,Semi-Furnished,Ready to Move,3.59,2.65,3.32,48.6
+Mumbai,2,867,Apartment,Unfurnished,Ready to Move,0.26,10.44,0.99,188.14
+Delhi NCR,2,869,Apartment,Semi-Furnished,Ready to Move,1.26,1.75,2.22,107.18
+Mumbai,1,534,Apartment,Semi-Furnished,Ready to Move,0.27,5.16,1.29,117.9
+Pune,4,2873,Apartment,Semi-Furnished,Ready to Move,4.54,1.43,1.16,211.11
+Pune,2,1039,Builder Floor,Semi-Furnished,Ready to Move,2.0,0.0,0.85,120.74
+Ahmedabad,2,1046,Apartment,Semi-Furnished,Under Construction,2.94,1.91,1.58,63.66
+Hyderabad,1,533,Apartment,Semi-Furnished,Ready to Move,2.87,5.35,3.24,46.08
+Delhi NCR,2,1046,Apartment,Fully Furnished,Ready to Move,4.61,0.65,0.75,119.45
+Chennai,1,536,Independent House,Semi-Furnished,Ready to Move,0.36,2.81,10.1,57.44
+Hyderabad,2,944,Apartment,Semi-Furnished,Under Construction,2.7,0.95,0.4,78.23
+Delhi NCR,4,1908,Apartment,Semi-Furnished,Under Construction,2.14,0.31,1.96,248.08
+Hyderabad,2,1012,Apartment,Semi-Furnished,Ready to Move,0.08,3.84,0.27,104.66
+Chennai,1,430,Apartment,Semi-Furnished,Under Construction,0.56,12.14,0.07,34.56
+Bengaluru,1,420,Apartment,Semi-Furnished,Under Construction,0.78,1.49,7.68,45.64
+Bengaluru,2,789,Apartment,Semi-Furnished,Ready to Move,0.19,3.48,4.99,65.79
+Ahmedabad,1,439,Apartment,Unfurnished,Ready to Move,1.1,12.28,3.55,21.74
+Bengaluru,1,511,Independent House,Fully Furnished,Under Construction,0.07,4.2,6.01,82.91
+Bengaluru,3,1688,Apartment,Semi-Furnished,Ready to Move,2.01,4.47,4.87,179.14
+Kolkata,2,876,Apartment,Semi-Furnished,Ready to Move,0.59,0.79,3.13,60.72
+Mumbai,2,1042,Apartment,Semi-Furnished,Ready to Move,0.85,2.71,5.64,230.58
+Kolkata,3,1759,Builder Floor,Unfurnished,Ready to Move,6.03,1.83,1.49,129.96
+Kolkata,1,500,Apartment,Unfurnished,Under Construction,1.75,2.55,2.41,25.77
+Ahmedabad,4,2428,Builder Floor,Unfurnished,Ready to Move,0.78,6.45,4.49,154.89
+Kolkata,2,791,Independent House,Semi-Furnished,Ready to Move,2.28,2.47,0.27,70.83
+Bengaluru,3,1500,Apartment,Fully Furnished,Under Construction,0.56,0.26,5.87,165.52
+Chennai,2,727,Apartment,Semi-Furnished,Ready to Move,0.19,9.44,0.51,56.53
+Ahmedabad,3,1636,Apartment,Semi-Furnished,Ready to Move,0.05,3.15,6.0,83.45
+Ahmedabad,4,1857,Apartment,Semi-Furnished,Under Construction,7.57,10.33,1.12,85.54
+Pune,2,996,Apartment,Unfurnished,Ready to Move,3.22,3.4,1.19,73.71
+Ahmedabad,4,1933,Apartment,Unfurnished,Ready to Move,4.02,0.29,0.23,102.42
+Pune,2,1030,Builder Floor,Semi-Furnished,Ready to Move,9.9,3.22,6.51,112.88
+Ahmedabad,2,948,Apartment,Fully Furnished,Ready to Move,6.71,3.43,0.58,51.62
+Mumbai,2,737,Independent House,Semi-Furnished,Under Construction,3.34,0.96,2.98,216.76
+Bengaluru,2,1089,Apartment,Semi-Furnished,Ready to Move,2.96,2.55,3.1,112.41
+Ahmedabad,1,572,Apartment,Fully Furnished,Ready to Move,1.03,2.46,0.99,34.79
+Bengaluru,2,774,Independent House,Unfurnished,Ready to Move,0.27,3.9,12.73,100.27
+Bengaluru,2,841,Apartment,Semi-Furnished,Ready to Move,2.13,1.2,0.2,90.94
+Hyderabad,3,1267,Apartment,Semi-Furnished,Under Construction,2.15,3.49,2.81,108.04
+Ahmedabad,3,1602,Apartment,Semi-Furnished,Under Construction,7.6,1.1,1.96,87.25
+Delhi NCR,2,1072,Apartment,Unfurnished,Under Construction,1.46,2.37,0.85,106.06
+Hyderabad,2,1054,Apartment,Semi-Furnished,Ready to Move,2.93,0.52,0.54,86.94
+Delhi NCR,2,924,Apartment,Semi-Furnished,Under Construction,2.14,0.15,4.01,107.91
+Bengaluru,1,551,Apartment,Unfurnished,Ready to Move,0.49,1.55,7.44,57.56
+Bengaluru,1,418,Builder Floor,Semi-Furnished,Under Construction,2.24,1.28,0.34,52.01
+Hyderabad,2,845,Apartment,Unfurnished,Under Construction,1.94,2.09,0.65,66.38
+Hyderabad,2,940,Builder Floor,Fully Furnished,Ready to Move,1.7,13.08,12.86,104.69
+Delhi NCR,4,2692,Apartment,Semi-Furnished,Ready to Move,1.8,2.95,0.05,326.93
+Pune,2,1043,Apartment,Fully Furnished,Ready to Move,0.45,3.22,2.13,86.2
+Delhi NCR,2,936,Apartment,Semi-Furnished,Ready to Move,1.56,11.36,2.18,107.28
+Hyderabad,2,734,Apartment,Unfurnished,Under Construction,2.33,10.16,0.92,57.77
+Chennai,1,589,Independent House,Unfurnished,Ready to Move,1.68,8.62,3.26,43.3
+Hyderabad,2,700,Apartment,Unfurnished,Ready to Move,1.68,0.41,8.7,58.34
+Chennai,2,852,Apartment,Unfurnished,Ready to Move,0.2,4.02,1.79,64.66
+Mumbai,2,825,Apartment,Semi-Furnished,Under Construction,0.53,6.6,4.15,156.94
+Hyderabad,2,1044,Apartment,Unfurnished,Ready to Move,0.97,7.22,3.12,75.91
+Mumbai,4,2020,Builder Floor,Semi-Furnished,Ready to Move,1.36,3.45,1.92,507.55
+Pune,3,1124,Independent House,Semi-Furnished,Ready to Move,2.25,0.07,0.15,113.02
+Delhi NCR,2,715,Apartment,Semi-Furnished,Ready to Move,4.98,14.55,4.06,75.31
+Chennai,2,881,Apartment,Semi-Furnished,Ready to Move,0.43,2.56,1.35,74.02
+Delhi NCR,2,1028,Apartment,Semi-Furnished,Under Construction,0.04,2.0,0.76,118.78
+Mumbai,1,528,Apartment,Fully Furnished,Ready to Move,1.49,2.01,8.89,145.07
+Chennai,2,741,Builder Floor,Unfurnished,Ready to Move,1.41,2.21,4.46,69.91
+Delhi NCR,1,546,Apartment,Semi-Furnished,Ready to Move,2.01,1.11,9.83,69.78
+Hyderabad,2,1035,Apartment,Semi-Furnished,Ready to Move,4.48,1.59,0.89,86.37
+Bengaluru,2,935,Apartment,Semi-Furnished,Ready to Move,4.05,16.9,5.42,86.67
+Mumbai,1,503,Builder Floor,Semi-Furnished,Ready to Move,0.26,1.84,2.81,191.61
+Delhi NCR,4,2144,Apartment,Semi-Furnished,Ready to Move,6.8,2.99,11.97,218.51
+Mumbai,3,1144,Apartment,Semi-Furnished,Ready to Move,0.29,7.54,8.77,254.02
+Kolkata,3,1745,Apartment,Semi-Furnished,Ready to Move,2.52,3.0,10.83,106.93
+Mumbai,2,720,Apartment,Fully Furnished,Under Construction,2.79,1.57,9.1,176.53
+Chennai,3,1733,Independent House,Fully Furnished,Ready to Move,2.85,2.97,0.02,182.64
+Kolkata,1,469,Apartment,Semi-Furnished,Under Construction,0.77,0.48,4.05,31.54
+Ahmedabad,3,1147,Apartment,Unfurnished,Under Construction,1.0,0.56,0.95,56.63
+Chennai,1,634,Apartment,Fully Furnished,Ready to Move,1.99,4.74,3.66,51.21
+Bengaluru,3,1650,Apartment,Fully Furnished,Under Construction,0.56,9.98,11.83,169.08
+Kolkata,2,986,Apartment,Unfurnished,Ready to Move,0.05,5.17,0.12,50.59
+Ahmedabad,3,1109,Apartment,Semi-Furnished,Ready to Move,2.06,0.31,2.51,70.81
+Hyderabad,4,2341,Apartment,Fully Furnished,Ready to Move,1.57,2.06,3.98,220.69
+Mumbai,1,648,Apartment,Semi-Furnished,Ready to Move,2.67,0.01,0.88,154.47
+Delhi NCR,2,943,Apartment,Unfurnished,Ready to Move,0.4,2.86,0.77,77.1
+Pune,4,2073,Independent House,Semi-Furnished,Ready to Move,4.6,0.86,0.19,211.7
+Mumbai,2,787,Apartment,Fully Furnished,Ready to Move,0.4,8.1,0.3,185.46
+Ahmedabad,3,1480,Apartment,Fully Furnished,Ready to Move,5.55,0.44,3.21,76.62
+Mumbai,2,1028,Apartment,Semi-Furnished,Ready to Move,1.49,0.01,2.11,234.03
+Bengaluru,2,714,Apartment,Semi-Furnished,Ready to Move,2.0,2.4,0.09,68.45
+Hyderabad,2,703,Apartment,Unfurnished,Ready to Move,5.67,0.68,10.49,57.89
+Pune,1,590,Independent House,Fully Furnished,Ready to Move,0.89,5.36,3.2,66.26
+Kolkata,3,1267,Apartment,Unfurnished,Ready to Move,0.5,10.1,2.17,63.14
+Kolkata,2,708,Apartment,Fully Furnished,Ready to Move,1.48,0.17,0.96,52.88
+Kolkata,2,808,Apartment,Semi-Furnished,Under Construction,0.7,2.01,3.22,44.37
+Ahmedabad,2,836,Apartment,Fully Furnished,Under Construction,1.88,23.0,1.36,44.18
+Chennai,2,853,Apartment,Unfurnished,Ready to Move,0.8,5.28,3.64,59.79
+Chennai,3,1487,Apartment,Semi-Furnished,Under Construction,5.0,12.25,3.44,91.55
+Delhi NCR,4,2071,Apartment,Unfurnished,Ready to Move,2.34,0.72,0.29,242.75
+Pune,2,842,Apartment,Semi-Furnished,Ready to Move,0.0,1.0,7.2,75.19
+Kolkata,3,1710,Builder Floor,Fully Furnished,Under Construction,4.09,0.67,2.0,150.6
+Chennai,3,1168,Independent House,Semi-Furnished,Ready to Move,1.0,1.44,1.5,121.42
+Ahmedabad,2,946,Apartment,Semi-Furnished,Under Construction,0.96,5.15,9.33,51.62
+Delhi NCR,4,2587,Apartment,Unfurnished,Ready to Move,1.21,0.72,1.73,260.46
+Hyderabad,1,478,Builder Floor,Fully Furnished,Ready to Move,2.49,2.97,3.83,56.57
+Delhi NCR,1,545,Apartment,Semi-Furnished,Ready to Move,1.46,1.25,3.19,68.4
+Chennai,3,1722,Apartment,Semi-Furnished,Ready to Move,2.48,7.07,0.54,119.31
+Bengaluru,2,957,Builder Floor,Semi-Furnished,Ready to Move,0.4,0.03,14.18,136.12
+Ahmedabad,3,1704,Independent House,Semi-Furnished,Ready to Move,8.78,1.01,1.87,114.12
+Bengaluru,3,1624,Apartment,Semi-Furnished,Under Construction,3.27,3.72,1.51,137.15
+Kolkata,1,403,Apartment,Semi-Furnished,Ready to Move,0.72,0.41,7.56,23.86
+Bengaluru,3,1720,Apartment,Semi-Furnished,Ready to Move,3.22,2.51,2.26,189.88
+Kolkata,2,1029,Apartment,Fully Furnished,Ready to Move,2.14,2.29,3.66,64.48
+Kolkata,2,888,Apartment,Fully Furnished,Under Construction,0.29,7.66,5.62,57.0
+Chennai,2,794,Apartment,Unfurnished,Ready to Move,0.49,3.93,0.81,61.18
+Bengaluru,4,2416,Apartment,Semi-Furnished,Ready to Move,0.11,4.08,0.56,227.63
+Kolkata,1,407,Apartment,Unfurnished,Under Construction,4.14,12.13,0.21,19.73
+Pune,2,766,Apartment,Unfurnished,Ready to Move,2.01,16.15,6.82,53.34
+Hyderabad,2,890,Apartment,Semi-Furnished,Ready to Move,0.95,4.24,0.67,77.08
+Delhi NCR,3,1465,Apartment,Fully Furnished,Under Construction,0.34,2.95,1.1,174.44
+Delhi NCR,2,955,Apartment,Unfurnished,Under Construction,1.65,3.75,1.01,98.52
+Chennai,1,408,Builder Floor,Semi-Furnished,Ready to Move,1.86,1.93,1.09,41.3
+Bengaluru,2,816,Apartment,Fully Furnished,Ready to Move,3.03,17.51,3.31,80.78
+Bengaluru,2,966,Independent House,Fully Furnished,Under Construction,8.76,4.88,9.24,113.04
+Kolkata,3,1710,Builder Floor,Semi-Furnished,Ready to Move,1.43,1.38,1.2,149.79
+Ahmedabad,2,997,Apartment,Semi-Furnished,Under Construction,1.3,0.24,1.57,67.59
+Mumbai,1,540,Apartment,Semi-Furnished,Ready to Move,1.15,0.18,4.42,139.3
+Kolkata,4,2987,Builder Floor,Unfurnished,Ready to Move,4.39,0.92,1.7,191.07
+Hyderabad,1,519,Apartment,Unfurnished,Ready to Move,0.42,1.06,7.81,41.15
+Pune,4,2452,Apartment,Unfurnished,Under Construction,1.05,2.14,2.1,199.0
+Delhi NCR,2,967,Apartment,Semi-Furnished,Under Construction,3.23,0.97,1.28,110.38
+Kolkata,3,1648,Apartment,Fully Furnished,Ready to Move,0.04,3.99,10.68,106.03
+Mumbai,2,773,Independent House,Semi-Furnished,Under Construction,0.85,0.95,1.66,236.38
+Mumbai,1,647,Independent House,Semi-Furnished,Ready to Move,2.56,0.83,0.79,187.11
+Kolkata,3,1172,Independent House,Semi-Furnished,Ready to Move,0.51,2.55,0.59,107.61
+Chennai,3,1407,Apartment,Unfurnished,Under Construction,0.9,8.78,16.01,91.5
+Delhi NCR,3,1298,Apartment,Semi-Furnished,Under Construction,1.66,2.53,4.19,165.71
+Chennai,1,529,Apartment,Fully Furnished,Under Construction,1.37,2.14,1.58,49.95
+Pune,3,1671,Apartment,Unfurnished,Under Construction,0.28,3.45,5.25,124.33
+Mumbai,3,1714,Apartment,Unfurnished,Ready to Move,6.96,1.19,2.37,349.67
+Mumbai,2,995,Apartment,Semi-Furnished,Ready to Move,0.11,1.74,1.15,235.91
+Hyderabad,3,1586,Apartment,Semi-Furnished,Under Construction,3.46,0.96,4.08,135.31
+Pune,3,1250,Apartment,Semi-Furnished,Ready to Move,0.19,3.39,4.11,108.58
+Mumbai,2,856,Apartment,Semi-Furnished,Ready to Move,1.57,4.78,2.08,179.46
+Pune,1,605,Apartment,Semi-Furnished,Ready to Move,0.48,4.48,0.14,44.03
+Delhi NCR,2,878,Apartment,Unfurnished,Ready to Move,0.38,1.18,0.24,93.88
+Bengaluru,1,596,Apartment,Semi-Furnished,Under Construction,0.34,6.05,4.66,65.89
+Mumbai,2,922,Apartment,Semi-Furnished,Ready to Move,1.51,1.18,5.2,212.82
+Hyderabad,2,788,Independent House,Fully Furnished,Under Construction,1.81,0.65,3.4,97.93
+Delhi NCR,1,430,Independent House,Fully Furnished,Ready to Move,0.36,1.72,5.48,74.87
+Kolkata,2,975,Builder Floor,Fully Furnished,Ready to Move,9.71,3.64,3.81,66.82
+Pune,1,635,Apartment,Semi-Furnished,Ready to Move,0.75,0.61,6.82,57.14
+Kolkata,3,1282,Apartment,Semi-Furnished,Ready to Move,1.54,4.18,0.49,91.12
+Chennai,4,2008,Apartment,Semi-Furnished,Ready to Move,0.61,7.95,1.47,148.43
+Delhi NCR,1,636,Apartment,Fully Furnished,Ready to Move,1.7,1.39,1.87,68.48
+Kolkata,4,2953,Apartment,Unfurnished,Ready to Move,3.53,2.39,1.06,165.57
+Ahmedabad,2,852,Independent House,Semi-Furnished,Ready to Move,1.84,1.04,3.88,65.1
+Ahmedabad,2,712,Apartment,Semi-Furnished,Ready to Move,0.84,1.79,7.31,42.52
+Mumbai,1,521,Builder Floor,Semi-Furnished,Ready to Move,0.71,0.09,1.6,161.36
+Pune,2,1058,Builder Floor,Unfurnished,Ready to Move,3.56,12.3,8.52,92.49
+Bengaluru,3,1205,Apartment,Semi-Furnished,Ready to Move,0.31,2.15,2.18,118.36
+Delhi NCR,3,1474,Apartment,Semi-Furnished,Under Construction,1.15,6.22,2.22,153.08
+Mumbai,1,469,Apartment,Semi-Furnished,Ready to Move,0.41,0.62,2.75,110.46
+Hyderabad,1,594,Apartment,Semi-Furnished,Under Construction,0.75,6.69,0.94,53.13
+Chennai,2,885,Apartment,Semi-Furnished,Under Construction,0.41,7.87,1.45,59.14
+Pune,2,798,Apartment,Fully Furnished,Ready to Move,5.45,5.03,2.42,74.45
+Delhi NCR,1,481,Apartment,Semi-Furnished,Under Construction,3.29,9.34,8.54,39.62
+Ahmedabad,2,774,Apartment,Semi-Furnished,Ready to Move,2.06,0.73,3.09,38.89
+Delhi NCR,3,1291,Apartment,Unfurnished,Under Construction,0.64,2.59,1.22,147.05
+Bengaluru,4,2124,Apartment,Unfurnished,Under Construction,1.78,3.87,0.03,204.22
+Ahmedabad,2,913,Apartment,Semi-Furnished,Ready to Move,1.84,3.63,12.0,51.19
+Bengaluru,3,1566,Apartment,Semi-Furnished,Ready to Move,2.23,7.89,2.04,154.71
+Hyderabad,2,1081,Apartment,Semi-Furnished,Ready to Move,0.15,0.97,8.37,106.88
+Chennai,2,1066,Apartment,Unfurnished,Ready to Move,9.02,0.77,2.39,70.9
+Hyderabad,1,461,Independent House,Fully Furnished,Ready to Move,1.57,1.17,2.79,58.6
+Mumbai,2,843,Apartment,Semi-Furnished,Ready to Move,6.53,8.89,3.73,122.7
+Mumbai,4,2183,Apartment,Unfurnished,Ready to Move,0.02,11.32,1.16,446.83
+Hyderabad,2,915,Apartment,Semi-Furnished,Ready to Move,0.71,3.37,3.6,82.56
+Chennai,2,1060,Apartment,Fully Furnished,Under Construction,0.27,2.78,2.24,105.59
+Hyderabad,2,1023,Apartment,Semi-Furnished,Under Construction,3.67,3.72,3.35,79.75
+Chennai,1,414,Apartment,Semi-Furnished,Ready to Move,0.96,3.83,5.42,31.67
+Chennai,3,1316,Apartment,Semi-Furnished,Ready to Move,4.59,0.75,0.61,106.49
+Kolkata,2,734,Apartment,Unfurnished,Ready to Move,4.47,4.64,2.85,40.89
+Ahmedabad,2,882,Apartment,Semi-Furnished,Ready to Move,2.76,2.41,0.16,49.44
+Pune,2,969,Apartment,Unfurnished,Under Construction,2.74,2.91,0.32,77.61
+Chennai,2,1057,Apartment,Semi-Furnished,Ready to Move,3.01,0.12,3.37,75.56
+Bengaluru,1,499,Apartment,Unfurnished,Ready to Move,2.8,5.79,0.22,49.93
+Chennai,2,706,Independent House,Fully Furnished,Under Construction,1.22,7.22,2.71,73.91
+Chennai,1,429,Apartment,Semi-Furnished,Under Construction,2.87,3.86,0.75,27.23
+Chennai,3,1566,Independent House,Unfurnished,Ready to Move,5.69,5.52,1.09,115.92
+Kolkata,3,1404,Apartment,Semi-Furnished,Ready to Move,1.01,2.96,0.42,74.98
+Ahmedabad,3,1243,Apartment,Unfurnished,Ready to Move,7.25,3.85,0.86,63.2
+Kolkata,2,810,Builder Floor,Semi-Furnished,Ready to Move,0.03,2.01,5.17,70.79
+Mumbai,2,931,Apartment,Semi-Furnished,Under Construction,1.07,6.28,3.06,199.37
+Kolkata,1,578,Independent House,Unfurnished,Ready to Move,0.35,2.53,8.97,48.37
+Bengaluru,3,1683,Apartment,Unfurnished,Ready to Move,0.34,4.56,0.15,159.34
+Bengaluru,2,909,Apartment,Semi-Furnished,Under Construction,4.22,3.89,4.72,103.1
+Kolkata,2,919,Independent House,Unfurnished,Under Construction,6.26,4.85,3.6,54.38
+Ahmedabad,2,779,Apartment,Semi-Furnished,Under Construction,3.76,6.15,0.91,42.39
+Hyderabad,1,643,Independent House,Semi-Furnished,Ready to Move,9.39,2.88,3.92,63.35
+Pune,2,782,Apartment,Semi-Furnished,Ready to Move,0.61,6.71,3.78,59.77
+Ahmedabad,1,441,Apartment,Semi-Furnished,Ready to Move,0.38,2.75,1.84,25.73
+Kolkata,3,1372,Apartment,Semi-Furnished,Ready to Move,1.84,12.55,3.5,83.49
+Chennai,2,890,Independent House,Fully Furnished,Ready to Move,4.42,5.59,1.76,83.37
+Delhi NCR,1,572,Apartment,Unfurnished,Ready to Move,0.1,0.75,1.23,68.15
+Pune,2,706,Apartment,Unfurnished,Ready to Move,13.55,7.08,1.88,48.78
+Pune,1,554,Independent House,Unfurnished,Under Construction,2.3,3.21,6.77,57.92
+Bengaluru,2,709,Independent House,Unfurnished,Ready to Move,9.65,16.66,1.46,64.09
+Pune,3,1645,Apartment,Unfurnished,Under Construction,1.14,5.08,1.55,108.54
+Kolkata,1,435,Apartment,Semi-Furnished,Ready to Move,1.53,0.35,2.81,28.48
+Chennai,3,1617,Apartment,Semi-Furnished,Under Construction,3.49,2.01,4.2,111.39
+Chennai,1,551,Apartment,Fully Furnished,Ready to Move,3.93,2.91,3.98,46.26
+Mumbai,1,545,Apartment,Unfurnished,Under Construction,0.66,7.31,0.06,102.33
+Chennai,3,1314,Apartment,Semi-Furnished,Ready to Move,6.64,5.23,3.49,84.79
+Ahmedabad,2,833,Apartment,Fully Furnished,Ready to Move,5.05,1.84,1.8,47.03
+Chennai,1,428,Independent House,Fully Furnished,Under Construction,0.05,4.24,2.23,52.09
+Bengaluru,2,825,Independent House,Semi-Furnished,Ready to Move,0.34,3.44,2.47,125.8
+Chennai,2,1036,Apartment,Semi-Furnished,Ready to Move,1.71,0.54,3.95,73.85
+Mumbai,3,1785,Apartment,Fully Furnished,Under Construction,1.54,1.07,5.34,377.47
+Delhi NCR,2,851,Apartment,Semi-Furnished,Under Construction,3.08,1.67,3.12,90.96
+Kolkata,3,1430,Apartment,Unfurnished,Ready to Move,0.23,0.87,2.49,89.11
+Bengaluru,3,1637,Apartment,Fully Furnished,Ready to Move,2.59,0.65,1.4,182.14
+Ahmedabad,2,1082,Apartment,Semi-Furnished,Ready to Move,2.4,0.24,0.45,62.38
+Delhi NCR,3,1214,Apartment,Unfurnished,Ready to Move,0.67,8.26,9.55,131.51
+Bengaluru,2,1081,Apartment,Semi-Furnished,Under Construction,1.95,1.36,1.86,107.66
+Hyderabad,4,2698,Apartment,Semi-Furnished,Ready to Move,0.63,1.37,2.51,255.28
+Pune,1,474,Apartment,Fully Furnished,Ready to Move,0.4,0.92,4.17,47.57
+Hyderabad,2,865,Apartment,Unfurnished,Under Construction,2.13,2.58,0.21,71.93
+Chennai,2,888,Apartment,Fully Furnished,Ready to Move,9.48,2.89,5.79,71.35
+Delhi NCR,2,777,Apartment,Semi-Furnished,Ready to Move,0.68,0.93,4.78,80.57
+Chennai,2,789,Independent House,Semi-Furnished,Ready to Move,1.1,3.75,4.47,76.15
+Pune,3,1787,Independent House,Unfurnished,Ready to Move,0.74,5.13,0.07,173.13
+Bengaluru,1,420,Apartment,Semi-Furnished,Ready to Move,0.77,1.87,2.24,43.64
+Pune,1,453,Apartment,Fully Furnished,Ready to Move,1.29,3.52,0.17,38.99
+Mumbai,3,1283,Apartment,Semi-Furnished,Ready to Move,3.03,2.79,2.4,294.11
+Pune,2,1058,Apartment,Unfurnished,Ready to Move,0.1,0.87,3.8,87.08
+Mumbai,4,2626,Apartment,Semi-Furnished,Ready to Move,7.87,5.24,0.39,529.39
+Pune,3,1427,Apartment,Semi-Furnished,Ready to Move,0.12,6.47,3.56,114.06
+Kolkata,4,1978,Apartment,Unfurnished,Ready to Move,5.33,4.19,1.79,102.13
+Mumbai,3,1211,Apartment,Semi-Furnished,Ready to Move,5.62,1.57,5.01,242.32
+Delhi NCR,2,923,Apartment,Semi-Furnished,Ready to Move,1.86,10.46,2.29,94.43
+Chennai,1,613,Apartment,Semi-Furnished,Ready to Move,0.37,2.43,1.23,44.91
+Ahmedabad,3,1158,Apartment,Semi-Furnished,Ready to Move,2.08,1.24,1.21,64.84
+Chennai,2,1026,Apartment,Unfurnished,Ready to Move,2.48,2.1,6.83,73.75
+Hyderabad,1,536,Apartment,Semi-Furnished,Under Construction,4.88,4.71,1.81,45.47
+Chennai,2,808,Apartment,Semi-Furnished,Ready to Move,2.0,7.48,1.56,57.24
+Bengaluru,4,2468,Independent House,Semi-Furnished,Under Construction,1.32,1.76,0.12,318.89
+Kolkata,2,890,Independent House,Semi-Furnished,Under Construction,4.55,1.06,1.36,67.91
+Pune,2,899,Apartment,Unfurnished,Ready to Move,9.9,3.94,5.68,66.87
+Hyderabad,2,1011,Apartment,Fully Furnished,Ready to Move,2.59,10.16,4.29,87.93
+Bengaluru,1,645,Apartment,Semi-Furnished,Under Construction,5.19,0.81,0.75,64.02
+Bengaluru,2,895,Independent House,Semi-Furnished,Ready to Move,2.28,6.5,1.6,109.89
+Mumbai,2,734,Apartment,Semi-Furnished,Under Construction,2.93,2.59,0.66,154.99
+Chennai,1,522,Apartment,Semi-Furnished,Ready to Move,2.91,6.43,9.25,38.82
+Delhi NCR,3,1486,Independent House,Unfurnished,Ready to Move,3.05,2.82,2.73,158.46
+Ahmedabad,2,945,Apartment,Unfurnished,Ready to Move,0.97,1.89,4.21,55.94
+Delhi NCR,3,1336,Apartment,Unfurnished,Ready to Move,2.14,4.77,3.75,123.35
+Hyderabad,3,1715,Apartment,Semi-Furnished,Ready to Move,2.25,9.24,6.21,138.79
+Kolkata,1,406,Apartment,Unfurnished,Ready to Move,0.95,1.54,8.95,26.37
+Delhi NCR,2,982,Apartment,Unfurnished,Under Construction,1.08,2.47,0.1,102.48
+Pune,2,700,Apartment,Semi-Furnished,Under Construction,3.59,1.04,11.1,57.4
+Delhi NCR,3,1563,Apartment,Unfurnished,Ready to Move,2.19,0.81,6.13,179.04
+Hyderabad,1,629,Apartment,Semi-Furnished,Under Construction,0.4,6.02,1.45,63.74
+Ahmedabad,2,871,Independent House,Semi-Furnished,Under Construction,4.54,0.9,5.44,59.21
+Delhi NCR,2,786,Apartment,Unfurnished,Under Construction,5.37,6.31,4.0,73.58
+Pune,2,740,Apartment,Semi-Furnished,Ready to Move,1.57,2.24,4.73,61.98
+Mumbai,1,522,Independent House,Unfurnished,Under Construction,0.59,21.23,0.75,130.63
+Kolkata,2,1030,Independent House,Fully Furnished,Ready to Move,7.37,0.88,3.14,75.02
+Hyderabad,3,1397,Apartment,Semi-Furnished,Ready to Move,5.35,0.39,0.08,107.12
+Mumbai,2,1072,Independent House,Unfurnished,Under Construction,0.7,0.31,5.66,299.79
+Mumbai,2,877,Apartment,Unfurnished,Ready to Move,0.25,7.22,9.05,187.17
+Mumbai,2,762,Independent House,Semi-Furnished,Ready to Move,1.45,2.3,3.26,242.99
+Bengaluru,3,1583,Apartment,Unfurnished,Under Construction,2.82,0.01,2.16,147.58
+Kolkata,1,564,Apartment,Unfurnished,Ready to Move,0.48,8.31,3.88,35.94
+Ahmedabad,3,1798,Builder Floor,Semi-Furnished,Under Construction,1.8,8.38,1.19,108.18
+Chennai,2,1082,Apartment,Fully Furnished,Under Construction,1.39,6.57,2.95,88.0
+Kolkata,2,908,Apartment,Semi-Furnished,Ready to Move,5.53,1.14,3.81,52.92
+Bengaluru,1,626,Apartment,Semi-Furnished,Ready to Move,1.4,1.87,0.46,58.09
+Chennai,1,575,Apartment,Fully Furnished,Under Construction,1.91,5.46,0.45,39.8
+Kolkata,2,1088,Apartment,Unfurnished,Ready to Move,7.77,2.69,3.78,56.69
+Mumbai,2,747,Builder Floor,Fully Furnished,Under Construction,0.89,0.67,1.7,237.55
+Hyderabad,3,1323,Apartment,Semi-Furnished,Under Construction,0.85,1.11,6.6,114.08
+Chennai,1,402,Apartment,Semi-Furnished,Ready to Move,4.02,14.39,1.12,28.45
+Pune,2,1071,Builder Floor,Fully Furnished,Ready to Move,0.81,0.65,0.13,122.79
+Pune,2,874,Apartment,Unfurnished,Under Construction,4.46,5.18,3.15,55.39
+Delhi NCR,1,589,Apartment,Unfurnished,Ready to Move,0.25,2.6,3.46,63.63
+Chennai,1,498,Apartment,Semi-Furnished,Ready to Move,0.29,5.52,2.42,36.11
+Hyderabad,2,815,Apartment,Semi-Furnished,Under Construction,5.79,4.33,3.45,73.57
+Ahmedabad,2,969,Apartment,Semi-Furnished,Under Construction,1.95,2.31,2.23,54.02
+Bengaluru,2,1067,Builder Floor,Unfurnished,Ready to Move,3.17,1.75,3.54,113.56
+Mumbai,2,952,Apartment,Semi-Furnished,Ready to Move,0.64,5.62,0.13,244.29
+Delhi NCR,2,1016,Apartment,Semi-Furnished,Ready to Move,0.45,1.56,1.38,128.84
+Pune,1,558,Apartment,Semi-Furnished,Under Construction,4.5,6.2,0.71,41.16
+Bengaluru,2,794,Apartment,Fully Furnished,Under Construction,1.11,4.56,0.31,81.99
+Bengaluru,4,2691,Apartment,Semi-Furnished,Under Construction,1.52,3.45,0.8,289.36
+Mumbai,2,723,Apartment,Unfurnished,Ready to Move,0.07,1.84,0.64,142.52
+Ahmedabad,2,815,Apartment,Semi-Furnished,Under Construction,1.22,0.92,10.85,50.99
+Ahmedabad,2,850,Independent House,Semi-Furnished,Under Construction,3.68,4.96,1.01,57.16
+Chennai,3,1149,Apartment,Unfurnished,Ready to Move,4.3,0.38,0.79,84.47
+Pune,3,1601,Apartment,Unfurnished,Ready to Move,3.0,14.1,5.4,89.48
+Ahmedabad,2,905,Independent House,Fully Furnished,Under Construction,2.95,15.41,1.63,59.07
+Hyderabad,4,2902,Apartment,Fully Furnished,Ready to Move,1.76,0.56,1.64,266.58
+Ahmedabad,1,469,Apartment,Semi-Furnished,Ready to Move,1.93,0.44,1.76,25.02
+Bengaluru,1,426,Apartment,Unfurnished,Ready to Move,3.39,2.13,1.62,40.04
+Mumbai,3,1370,Apartment,Fully Furnished,Ready to Move,0.71,13.26,1.19,320.68
+Hyderabad,3,1661,Apartment,Fully Furnished,Ready to Move,0.66,2.05,1.01,155.64
+Chennai,1,435,Apartment,Semi-Furnished,Ready to Move,7.49,1.81,6.41,28.09
+Pune,2,946,Apartment,Fully Furnished,Under Construction,0.07,4.86,0.53,80.04
+Chennai,1,407,Apartment,Fully Furnished,Under Construction,0.38,0.79,0.6,38.41
+Bengaluru,2,778,Apartment,Fully Furnished,Under Construction,2.11,1.81,2.54,86.17
+Hyderabad,3,1486,Apartment,Fully Furnished,Ready to Move,3.35,1.38,1.26,150.39
+Hyderabad,2,889,Independent House,Semi-Furnished,Under Construction,1.93,3.68,1.64,117.91
+Hyderabad,2,746,Builder Floor,Semi-Furnished,Under Construction,1.1,0.71,4.93,86.33
+Bengaluru,2,1060,Independent House,Semi-Furnished,Ready to Move,9.54,3.18,7.02,108.84
+Bengaluru,1,497,Apartment,Semi-Furnished,Ready to Move,3.04,7.79,4.69,45.1
+Chennai,2,1051,Apartment,Semi-Furnished,Ready to Move,4.45,2.89,0.8,85.64
+Delhi NCR,2,888,Apartment,Fully Furnished,Under Construction,0.1,4.6,11.73,122.8
+Chennai,4,2552,Apartment,Semi-Furnished,Ready to Move,0.67,0.31,1.35,195.28
+Pune,3,1100,Apartment,Semi-Furnished,Under Construction,1.17,2.38,0.56,90.35
+Mumbai,1,433,Apartment,Semi-Furnished,Ready to Move,0.5,0.4,2.08,111.65
+Hyderabad,3,1545,Apartment,Semi-Furnished,Ready to Move,0.19,3.66,3.88,146.68
+Delhi NCR,3,1178,Apartment,Semi-Furnished,Under Construction,0.64,1.32,0.26,149.81
+Mumbai,3,1335,Builder Floor,Unfurnished,Ready to Move,1.91,1.35,3.02,351.33
+Delhi NCR,2,1033,Apartment,Semi-Furnished,Ready to Move,2.97,0.32,5.86,121.76
+Ahmedabad,2,1076,Apartment,Unfurnished,Under Construction,3.72,1.49,0.91,53.66
+Ahmedabad,2,1048,Apartment,Unfurnished,Under Construction,0.11,2.83,3.54,64.17
+Kolkata,1,497,Apartment,Semi-Furnished,Ready to Move,1.4,3.51,1.53,27.69
+Ahmedabad,1,481,Apartment,Unfurnished,Ready to Move,0.33,0.28,1.6,23.87
+Chennai,1,645,Apartment,Semi-Furnished,Ready to Move,1.41,4.22,0.99,45.88
+Ahmedabad,2,891,Apartment,Unfurnished,Under Construction,1.42,2.68,2.94,45.02
+Bengaluru,3,1649,Independent House,Unfurnished,Ready to Move,1.72,3.08,1.34,169.69
+Hyderabad,2,713,Independent House,Semi-Furnished,Ready to Move,5.58,7.15,5.33,58.92
+Chennai,1,535,Builder Floor,Semi-Furnished,Ready to Move,4.09,1.68,9.88,52.78
+Mumbai,4,2109,Independent House,Fully Furnished,Under Construction,2.53,0.76,8.2,653.39
+Kolkata,4,2185,Apartment,Semi-Furnished,Under Construction,5.42,3.21,0.53,124.01
+Kolkata,3,1308,Apartment,Unfurnished,Under Construction,2.84,11.6,0.04,69.95
+Kolkata,4,2773,Apartment,Semi-Furnished,Ready to Move,4.27,2.92,1.73,185.45
+Mumbai,2,788,Apartment,Semi-Furnished,Under Construction,2.07,7.13,3.92,170.22
+Mumbai,4,2917,Apartment,Semi-Furnished,Ready to Move,1.86,5.66,11.38,634.69
+Mumbai,1,492,Independent House,Fully Furnished,Ready to Move,3.22,2.92,4.59,140.03
+Mumbai,2,1039,Apartment,Semi-Furnished,Under Construction,0.05,4.17,2.61,255.25
+Kolkata,1,484,Apartment,Semi-Furnished,Ready to Move,2.93,2.09,0.08,29.92
+Kolkata,1,588,Apartment,Semi-Furnished,Ready to Move,6.81,3.03,5.24,38.63
+Delhi NCR,1,644,Builder Floor,Fully Furnished,Under Construction,3.13,2.83,0.58,95.67
+Chennai,2,721,Apartment,Semi-Furnished,Ready to Move,0.09,4.94,0.17,60.24
+Hyderabad,3,1390,Independent House,Unfurnished,Ready to Move,1.19,2.11,5.7,137.95
+Ahmedabad,2,971,Independent House,Semi-Furnished,Ready to Move,4.15,0.42,2.51,63.32
+Ahmedabad,1,449,Builder Floor,Semi-Furnished,Ready to Move,7.96,6.22,0.41,23.91
+Bengaluru,3,1733,Independent House,Fully Furnished,Under Construction,1.16,4.62,1.47,253.57
+Kolkata,2,827,Apartment,Semi-Furnished,Ready to Move,4.6,11.99,0.27,45.06
+Bengaluru,2,812,Apartment,Unfurnished,Under Construction,4.98,2.24,3.05,74.22
+Chennai,2,972,Apartment,Fully Furnished,Ready to Move,0.33,0.33,1.0,98.1
+Chennai,2,1035,Apartment,Fully Furnished,Ready to Move,4.67,0.52,6.03,76.66
+Bengaluru,2,829,Apartment,Unfurnished,Ready to Move,0.98,5.94,1.33,70.27
+Kolkata,3,1231,Builder Floor,Fully Furnished,Under Construction,2.25,0.28,2.05,101.94
+Bengaluru,2,784,Apartment,Semi-Furnished,Ready to Move,1.94,9.54,0.2,61.51
+Ahmedabad,2,1049,Independent House,Semi-Furnished,Under Construction,2.72,1.32,0.97,73.32
+Delhi NCR,3,1489,Apartment,Fully Furnished,Ready to Move,3.37,9.17,3.39,177.6
+Ahmedabad,3,1692,Apartment,Semi-Furnished,Under Construction,1.45,5.94,4.0,93.9
+Pune,1,630,Builder Floor,Unfurnished,Under Construction,5.48,8.2,0.83,44.75
+Kolkata,1,616,Apartment,Semi-Furnished,Under Construction,4.15,0.96,2.1,36.55
+Kolkata,1,468,Apartment,Semi-Furnished,Under Construction,3.85,3.62,5.1,28.08
+Hyderabad,2,768,Apartment,Unfurnished,Ready to Move,1.53,0.39,1.43,70.54
+Mumbai,2,847,Apartment,Semi-Furnished,Under Construction,0.1,0.9,0.43,219.55
+Pune,1,591,Apartment,Semi-Furnished,Ready to Move,1.69,1.48,1.7,48.29
+Chennai,4,2618,Apartment,Semi-Furnished,Ready to Move,5.72,5.4,2.75,171.37
+Kolkata,2,804,Apartment,Semi-Furnished,Ready to Move,0.53,0.1,0.02,56.97
+Bengaluru,1,564,Apartment,Fully Furnished,Ready to Move,10.13,9.34,1.29,50.71
+Pune,2,900,Apartment,Semi-Furnished,Ready to Move,4.12,0.29,2.81,77.09
+Hyderabad,2,896,Apartment,Semi-Furnished,Ready to Move,3.09,1.89,9.1,73.72
+Chennai,1,569,Apartment,Unfurnished,Ready to Move,2.83,0.34,1.58,45.28
+Mumbai,2,884,Independent House,Semi-Furnished,Ready to Move,2.21,5.86,0.53,244.2
+Mumbai,3,1364,Apartment,Fully Furnished,Ready to Move,3.19,0.61,2.29,284.64
+Hyderabad,2,1062,Apartment,Semi-Furnished,Under Construction,1.37,8.64,1.01,93.59
+Hyderabad,2,799,Apartment,Semi-Furnished,Under Construction,4.67,3.02,0.73,66.85
+Bengaluru,2,1041,Independent House,Semi-Furnished,Under Construction,2.98,11.86,2.68,123.88
+Kolkata,1,463,Apartment,Semi-Furnished,Ready to Move,3.69,1.37,7.43,33.6
+Mumbai,1,613,Apartment,Unfurnished,Ready to Move,3.93,2.42,5.41,120.54
+Chennai,2,977,Apartment,Fully Furnished,Under Construction,0.24,4.74,0.6,72.19
+Pune,1,561,Apartment,Unfurnished,Under Construction,0.14,7.13,4.36,46.54
+Chennai,1,582,Apartment,Semi-Furnished,Under Construction,4.04,2.19,0.78,36.09
+Delhi NCR,3,1256,Apartment,Semi-Furnished,Ready to Move,0.75,8.92,1.03,129.43
+Delhi NCR,4,2050,Apartment,Semi-Furnished,Ready to Move,2.18,0.5,7.58,239.34
+Hyderabad,3,1708,Builder Floor,Unfurnished,Under Construction,1.47,4.93,7.26,159.78
+Bengaluru,3,1629,Apartment,Semi-Furnished,Ready to Move,0.06,1.71,0.55,173.99
+Delhi NCR,1,470,Apartment,Unfurnished,Ready to Move,0.1,0.43,0.2,52.74
+Mumbai,4,2760,Apartment,Unfurnished,Under Construction,4.39,1.96,1.04,618.59
+Chennai,1,526,Independent House,Semi-Furnished,Under Construction,2.34,8.49,2.62,37.09
+Chennai,4,1896,Independent House,Semi-Furnished,Ready to Move,1.86,15.76,6.28,169.22
+Hyderabad,4,2312,Apartment,Unfurnished,Ready to Move,7.22,2.0,0.38,163.41
+Kolkata,3,1315,Apartment,Unfurnished,Under Construction,0.48,8.7,1.61,71.31
+Kolkata,4,2955,Apartment,Fully Furnished,Ready to Move,0.75,2.85,0.95,221.47
+Pune,2,959,Apartment,Fully Furnished,Under Construction,3.53,5.05,0.05,83.37
+Hyderabad,2,824,Apartment,Unfurnished,Under Construction,3.73,0.19,4.66,68.46
+Ahmedabad,2,781,Apartment,Semi-Furnished,Under Construction,1.3,3.26,5.03,40.35
+Pune,2,982,Apartment,Semi-Furnished,Under Construction,7.54,0.29,0.75,84.21
+Ahmedabad,1,570,Apartment,Semi-Furnished,Ready to Move,6.96,1.25,0.49,28.37
+Kolkata,2,758,Apartment,Fully Furnished,Ready to Move,0.03,3.35,0.47,60.56
+Hyderabad,4,1960,Apartment,Unfurnished,Ready to Move,0.47,6.58,1.87,150.52
+Ahmedabad,1,427,Apartment,Semi-Furnished,Ready to Move,4.29,3.29,0.85,24.53
+Hyderabad,3,1205,Apartment,Semi-Furnished,Ready to Move,1.02,11.01,2.15,102.81
+Hyderabad,3,1204,Apartment,Semi-Furnished,Ready to Move,0.25,6.65,1.46,91.66
+Kolkata,4,2027,Apartment,Semi-Furnished,Under Construction,3.84,0.68,0.71,121.72
+Pune,4,2117,Apartment,Fully Furnished,Ready to Move,1.52,1.97,4.17,220.43
+Pune,2,989,Apartment,Unfurnished,Ready to Move,1.7,4.42,0.49,78.98
+Hyderabad,4,2673,Apartment,Unfurnished,Ready to Move,0.52,11.15,4.81,204.87
+Delhi NCR,3,1571,Apartment,Unfurnished,Ready to Move,2.7,17.6,2.47,166.91
+Bengaluru,1,455,Apartment,Fully Furnished,Ready to Move,2.0,5.76,5.35,49.35
+Kolkata,2,812,Apartment,Semi-Furnished,Ready to Move,0.58,3.41,0.01,59.6
+Bengaluru,3,1112,Independent House,Semi-Furnished,Ready to Move,1.04,5.65,4.15,137.72
+Bengaluru,1,583,Apartment,Unfurnished,Under Construction,2.27,1.28,0.16,53.87
+Pune,2,717,Builder Floor,Fully Furnished,Under Construction,6.47,1.33,8.99,81.6
+Pune,2,881,Apartment,Fully Furnished,Under Construction,6.33,4.25,3.64,72.81
+Delhi NCR,1,604,Independent House,Semi-Furnished,Ready to Move,0.85,8.22,1.16,86.2
+Bengaluru,2,812,Apartment,Semi-Furnished,Ready to Move,3.33,14.0,1.16,68.59
+Bengaluru,3,1328,Apartment,Unfurnished,Ready to Move,3.73,1.67,5.93,131.65
+Hyderabad,2,870,Apartment,Semi-Furnished,Ready to Move,4.14,6.37,6.99,74.51
+Pune,1,438,Apartment,Semi-Furnished,Ready to Move,2.11,7.63,6.67,37.22
+Bengaluru,1,588,Independent House,Unfurnished,Ready to Move,0.03,3.9,4.96,63.44
+Chennai,2,778,Independent House,Semi-Furnished,Under Construction,3.59,1.71,5.13,64.97
+Delhi NCR,4,2457,Apartment,Unfurnished,Ready to Move,0.28,3.86,2.55,250.27
+Ahmedabad,1,550,Apartment,Semi-Furnished,Ready to Move,0.31,3.51,0.09,31.67
+Chennai,2,881,Apartment,Semi-Furnished,Ready to Move,2.33,3.73,0.27,58.35
+Chennai,1,642,Independent House,Unfurnished,Ready to Move,10.26,3.86,3.15,53.75
+Ahmedabad,2,985,Apartment,Semi-Furnished,Under Construction,0.69,7.51,1.54,52.5
+Kolkata,3,1170,Apartment,Semi-Furnished,Ready to Move,2.59,0.75,2.51,82.12
+Kolkata,3,1347,Apartment,Unfurnished,Ready to Move,0.9,1.83,0.79,95.61
+Delhi NCR,1,545,Independent House,Fully Furnished,Ready to Move,5.72,3.53,3.14,73.53
+Chennai,2,805,Apartment,Unfurnished,Ready to Move,2.25,1.33,0.83,53.61
+Bengaluru,1,406,Independent House,Semi-Furnished,Ready to Move,0.58,15.29,1.85,52.63
+Pune,2,995,Independent House,Unfurnished,Under Construction,0.76,1.22,1.95,100.12
+Delhi NCR,2,769,Apartment,Unfurnished,Under Construction,1.42,2.54,0.59,84.75
+Hyderabad,1,613,Apartment,Unfurnished,Under Construction,0.33,8.39,6.27,54.12
+Ahmedabad,2,892,Independent House,Unfurnished,Ready to Move,0.21,0.33,2.24,61.79
+Chennai,2,767,Apartment,Semi-Furnished,Ready to Move,2.85,6.87,6.05,49.17
+Delhi NCR,3,1593,Builder Floor,Unfurnished,Ready to Move,1.31,3.39,0.91,190.63
+Mumbai,4,1851,Apartment,Semi-Furnished,Under Construction,3.24,0.13,0.57,415.34
+Mumbai,1,513,Apartment,Unfurnished,Under Construction,0.29,9.33,0.05,102.42
+Kolkata,3,1462,Builder Floor,Unfurnished,Under Construction,2.35,0.16,0.3,116.95
+Ahmedabad,2,984,Apartment,Semi-Furnished,Ready to Move,1.46,2.9,0.48,62.86
+Pune,2,1033,Apartment,Fully Furnished,Ready to Move,0.15,0.2,0.25,111.14
+Bengaluru,3,1620,Independent House,Semi-Furnished,Ready to Move,1.97,0.3,6.82,199.23
+Pune,3,1530,Apartment,Semi-Furnished,Ready to Move,0.22,8.73,7.27,114.92
+Pune,4,2490,Apartment,Unfurnished,Ready to Move,4.4,5.81,8.31,145.41
+Pune,2,897,Apartment,Fully Furnished,Ready to Move,2.5,0.88,9.65,81.33
+Ahmedabad,2,827,Independent House,Unfurnished,Under Construction,2.04,3.88,2.03,57.31
+Pune,3,1631,Independent House,Unfurnished,Ready to Move,0.36,6.33,2.27,145.56
+Hyderabad,2,1027,Apartment,Semi-Furnished,Ready to Move,0.85,8.81,0.42,76.97
+Ahmedabad,2,764,Independent House,Semi-Furnished,Ready to Move,1.7,2.53,0.44,63.09
+Hyderabad,2,881,Independent House,Fully Furnished,Ready to Move,2.51,9.11,4.45,92.24
+Ahmedabad,2,940,Apartment,Unfurnished,Under Construction,0.51,2.84,5.81,50.81
+Kolkata,1,512,Apartment,Fully Furnished,Ready to Move,0.02,4.66,4.61,34.88
+Delhi NCR,1,423,Apartment,Semi-Furnished,Ready to Move,1.06,15.46,5.4,41.07
+Mumbai,3,1483,Apartment,Semi-Furnished,Under Construction,1.65,1.08,0.97,372.24
+Pune,1,574,Apartment,Unfurnished,Ready to Move,0.51,0.74,1.88,39.91
+Kolkata,2,782,Independent House,Unfurnished,Ready to Move,1.69,1.67,1.84,63.62
+Delhi NCR,1,613,Apartment,Fully Furnished,Under Construction,1.03,0.72,16.07,81.68
+Mumbai,1,462,Apartment,Semi-Furnished,Under Construction,1.52,1.34,8.94,105.84
+Chennai,1,584,Apartment,Semi-Furnished,Ready to Move,1.07,5.43,2.74,42.88
+Bengaluru,1,582,Apartment,Fully Furnished,Ready to Move,2.48,2.6,0.45,65.85
+Hyderabad,3,1710,Apartment,Unfurnished,Ready to Move,0.11,1.88,0.9,140.62
+Chennai,2,761,Apartment,Semi-Furnished,Under Construction,0.47,1.84,1.36,61.43
+Ahmedabad,4,2085,Apartment,Semi-Furnished,Ready to Move,1.42,0.87,6.2,114.31
+Mumbai,2,721,Apartment,Unfurnished,Under Construction,1.1,2.37,0.56,129.09
+Chennai,2,911,Independent House,Unfurnished,Under Construction,1.24,3.92,0.74,84.17
+Bengaluru,2,825,Apartment,Semi-Furnished,Under Construction,4.07,0.6,1.29,97.01
+Kolkata,2,741,Apartment,Semi-Furnished,Ready to Move,5.44,14.42,7.85,41.83
+Mumbai,3,1709,Apartment,Semi-Furnished,Ready to Move,0.71,2.34,2.1,401.66
+Chennai,2,730,Apartment,Unfurnished,Ready to Move,4.53,11.82,3.12,43.01
+Hyderabad,2,857,Apartment,Fully Furnished,Under Construction,1.53,0.58,1.47,83.52
+Hyderabad,3,1211,Apartment,Unfurnished,Ready to Move,0.8,5.83,0.63,95.09
+Delhi NCR,4,2201,Independent House,Semi-Furnished,Ready to Move,10.58,3.85,0.76,288.59
+Chennai,3,1221,Apartment,Semi-Furnished,Ready to Move,4.35,6.86,4.87,66.36
+Pune,2,972,Apartment,Unfurnished,Ready to Move,12.9,3.67,6.72,53.5
+Chennai,3,1393,Builder Floor,Unfurnished,Ready to Move,0.46,13.17,2.04,122.99
+Kolkata,2,1097,Independent House,Semi-Furnished,Ready to Move,0.39,3.94,1.32,87.38
+Mumbai,2,906,Apartment,Fully Furnished,Ready to Move,1.75,6.14,4.95,199.49
+Mumbai,1,509,Builder Floor,Unfurnished,Ready to Move,2.54,8.4,3.35,113.01
+Kolkata,2,977,Apartment,Semi-Furnished,Ready to Move,0.47,5.02,0.13,59.51
+Chennai,1,594,Apartment,Semi-Furnished,Under Construction,4.92,2.97,1.3,40.1
+Kolkata,2,755,Independent House,Unfurnished,Under Construction,1.9,1.27,3.44,62.75
+Bengaluru,3,1668,Apartment,Semi-Furnished,Ready to Move,1.32,7.71,2.56,146.9
+Ahmedabad,1,571,Apartment,Fully Furnished,Ready to Move,2.3,2.62,11.46,37.38
+Kolkata,1,625,Apartment,Semi-Furnished,Under Construction,2.52,3.88,6.03,40.16
+Hyderabad,1,434,Apartment,Fully Furnished,Ready to Move,0.11,0.33,0.18,44.47
+Kolkata,4,2937,Apartment,Unfurnished,Ready to Move,22.85,2.75,3.88,168.11
+Mumbai,2,1080,Apartment,Semi-Furnished,Ready to Move,1.13,4.79,1.23,253.07
+Hyderabad,2,1084,Builder Floor,Semi-Furnished,Ready to Move,0.16,3.51,3.44,111.73
+Mumbai,3,1576,Builder Floor,Semi-Furnished,Ready to Move,4.78,2.38,2.88,397.95
+Delhi NCR,3,1420,Independent House,Semi-Furnished,Under Construction,12.41,1.01,2.1,196.53
+Pune,2,878,Apartment,Unfurnished,Under Construction,4.24,1.48,5.75,60.89
+Mumbai,2,1084,Apartment,Semi-Furnished,Ready to Move,4.77,4.82,3.7,233.09
+Hyderabad,3,1318,Builder Floor,Semi-Furnished,Ready to Move,2.46,1.02,6.61,160.76
+Delhi NCR,2,976,Independent House,Unfurnished,Ready to Move,6.39,3.89,0.99,116.32
+Mumbai,1,580,Apartment,Fully Furnished,Ready to Move,0.09,3.56,1.28,142.29
+Bengaluru,3,1627,Apartment,Semi-Furnished,Ready to Move,3.64,14.08,2.92,137.89
+Kolkata,2,1078,Apartment,Semi-Furnished,Ready to Move,2.78,0.25,10.19,66.85
+Pune,2,760,Apartment,Unfurnished,Under Construction,0.13,0.46,1.39,60.04
+Mumbai,2,753,Apartment,Unfurnished,Ready to Move,1.96,2.82,0.1,169.38
+Delhi NCR,1,567,Independent House,Semi-Furnished,Under Construction,1.81,3.0,1.77,76.87
+Bengaluru,1,425,Apartment,Semi-Furnished,Ready to Move,2.94,0.16,2.36,42.7
+Chennai,3,1164,Apartment,Semi-Furnished,Ready to Move,0.2,6.99,4.84,92.89
+Delhi NCR,1,499,Apartment,Semi-Furnished,Ready to Move,4.09,2.73,3.91,52.24
+Kolkata,2,773,Apartment,Unfurnished,Ready to Move,0.38,1.7,10.03,45.97
+Delhi NCR,2,891,Apartment,Semi-Furnished,Under Construction,1.36,1.54,4.58,111.74
+Bengaluru,1,570,Apartment,Semi-Furnished,Ready to Move,5.33,7.9,1.06,53.9
+Delhi NCR,4,2334,Apartment,Semi-Furnished,Ready to Move,2.06,0.88,3.08,271.94
+Bengaluru,1,534,Apartment,Unfurnished,Ready to Move,1.19,0.7,3.35,59.23
+Mumbai,2,880,Apartment,Unfurnished,Ready to Move,0.12,0.96,18.67,200.95
+Ahmedabad,2,1026,Apartment,Semi-Furnished,Ready to Move,2.79,3.92,0.45,60.16
+Bengaluru,1,507,Apartment,Unfurnished,Ready to Move,10.77,6.66,0.64,47.85
+Bengaluru,1,478,Independent House,Unfurnished,Under Construction,6.07,1.61,0.51,49.75
+Pune,3,1261,Apartment,Unfurnished,Under Construction,3.16,0.76,2.67,91.41
+Bengaluru,4,2613,Independent House,Semi-Furnished,Ready to Move,0.28,0.94,0.44,374.56
+Bengaluru,1,636,Apartment,Semi-Furnished,Ready to Move,0.68,3.86,3.2,64.64
+Chennai,2,905,Independent House,Semi-Furnished,Ready to Move,0.52,1.13,4.89,83.88
+Ahmedabad,3,1689,Independent House,Unfurnished,Ready to Move,1.1,8.39,1.7,103.16
+Mumbai,3,1115,Apartment,Semi-Furnished,Under Construction,0.67,0.44,2.47,238.99
+Kolkata,2,1026,Apartment,Unfurnished,Under Construction,0.7,0.13,7.32,64.1
+Pune,2,795,Apartment,Fully Furnished,Ready to Move,2.4,0.37,2.53,73.66
+Chennai,2,846,Independent House,Semi-Furnished,Ready to Move,0.96,7.47,0.7,84.09
+Hyderabad,3,1101,Apartment,Semi-Furnished,Under Construction,2.83,4.21,1.26,102.21
+Ahmedabad,3,1109,Apartment,Unfurnished,Under Construction,7.39,12.66,2.26,48.64
+Mumbai,1,577,Apartment,Unfurnished,Ready to Move,2.54,1.64,0.5,141.91
+Mumbai,2,824,Independent House,Semi-Furnished,Ready to Move,3.48,0.96,2.84,210.7
+Hyderabad,3,1180,Apartment,Semi-Furnished,Ready to Move,3.48,3.3,21.57,88.41
+Kolkata,3,1584,Apartment,Unfurnished,Under Construction,1.0,3.09,3.17,85.14
+Bengaluru,4,2451,Apartment,Fully Furnished,Ready to Move,0.04,3.58,1.4,254.8
+Chennai,3,1249,Apartment,Fully Furnished,Under Construction,0.14,1.71,1.21,116.32
+Delhi NCR,2,987,Apartment,Semi-Furnished,Ready to Move,0.83,0.02,8.05,135.49
+Pune,2,1060,Apartment,Fully Furnished,Ready to Move,2.92,0.14,6.16,109.19
+Delhi NCR,2,1039,Apartment,Unfurnished,Ready to Move,5.93,4.36,1.92,83.75
+Hyderabad,1,528,Independent House,Unfurnished,Under Construction,7.97,2.96,1.31,53.1
+Mumbai,2,938,Apartment,Unfurnished,Ready to Move,0.07,6.88,3.72,220.67
+Kolkata,3,1600,Apartment,Semi-Furnished,Under Construction,11.53,1.43,1.13,102.49
+Mumbai,1,457,Apartment,Unfurnished,Ready to Move,0.97,6.76,0.38,88.99
+Pune,3,1297,Apartment,Fully Furnished,Under Construction,4.63,2.22,1.11,110.68
+Mumbai,2,910,Apartment,Unfurnished,Under Construction,0.5,0.41,1.71,188.99
+Mumbai,4,2701,Apartment,Semi-Furnished,Ready to Move,0.16,15.25,0.88,637.27
+Pune,1,444,Apartment,Fully Furnished,Under Construction,1.19,2.87,0.73,35.82
+Chennai,2,796,Apartment,Unfurnished,Ready to Move,4.9,3.97,0.02,53.58
+Chennai,2,978,Apartment,Unfurnished,Ready to Move,0.62,4.44,2.99,65.57
+Pune,2,722,Builder Floor,Semi-Furnished,Ready to Move,0.42,1.8,2.86,80.22
+Kolkata,3,1509,Apartment,Unfurnished,Under Construction,6.01,5.51,0.62,76.68
+Hyderabad,3,1560,Independent House,Unfurnished,Under Construction,6.97,8.17,8.63,132.57
+Ahmedabad,1,534,Apartment,Unfurnished,Ready to Move,0.03,1.96,1.58,32.05
+Mumbai,2,1034,Apartment,Semi-Furnished,Under Construction,3.25,4.28,0.08,249.98
+Kolkata,2,743,Apartment,Fully Furnished,Ready to Move,0.92,5.66,0.74,47.23
+Mumbai,2,726,Independent House,Fully Furnished,Under Construction,1.17,0.84,3.53,239.12
+Ahmedabad,4,2593,Apartment,Unfurnished,Ready to Move,1.58,1.62,0.68,127.67
+Hyderabad,3,1196,Apartment,Semi-Furnished,Ready to Move,1.39,0.46,0.17,106.37
+Chennai,2,735,Apartment,Semi-Furnished,Ready to Move,1.81,3.69,2.88,52.05
+Kolkata,3,1720,Apartment,Fully Furnished,Ready to Move,2.18,6.46,2.19,101.09
+Bengaluru,2,754,Apartment,Unfurnished,Ready to Move,1.57,3.78,4.3,76.31
+Bengaluru,4,2503,Apartment,Semi-Furnished,Ready to Move,3.02,0.79,4.44,254.58
+Ahmedabad,2,918,Apartment,Semi-Furnished,Ready to Move,3.17,3.16,9.65,48.1
+Bengaluru,3,1284,Independent House,Fully Furnished,Under Construction,1.45,7.21,0.18,168.65
+Chennai,3,1168,Apartment,Unfurnished,Ready to Move,0.38,1.44,0.12,94.99
+Ahmedabad,2,1016,Apartment,Unfurnished,Under Construction,2.56,7.15,13.07,53.73
+Chennai,3,1229,Apartment,Unfurnished,Ready to Move,3.71,6.14,3.11,82.16
+Hyderabad,1,454,Independent House,Unfurnished,Ready to Move,2.54,0.09,3.77,44.83
+Mumbai,2,1077,Builder Floor,Semi-Furnished,Ready to Move,2.22,1.09,0.3,313.63
+Hyderabad,2,796,Builder Floor,Semi-Furnished,Under Construction,0.65,3.13,0.22,82.63
+Hyderabad,4,2647,Apartment,Semi-Furnished,Under Construction,2.59,5.06,0.52,221.85
+Chennai,3,1698,Independent House,Unfurnished,Ready to Move,1.02,8.5,1.67,153.71
+Ahmedabad,3,1730,Apartment,Unfurnished,Ready to Move,6.3,4.1,0.35,90.07
+Ahmedabad,3,1433,Apartment,Unfurnished,Ready to Move,2.65,1.91,1.77,71.07
+Bengaluru,2,853,Apartment,Unfurnished,Ready to Move,0.81,0.82,2.47,89.77
+Delhi NCR,4,1878,Apartment,Semi-Furnished,Under Construction,1.6,5.71,0.0,217.84
+Mumbai,2,766,Builder Floor,Unfurnished,Ready to Move,4.69,0.93,0.36,188.53
+Chennai,2,1042,Apartment,Unfurnished,Ready to Move,1.02,4.76,1.41,77.38
+Bengaluru,1,556,Apartment,Semi-Furnished,Under Construction,1.86,0.8,0.16,63.42
+Kolkata,3,1645,Independent House,Semi-Furnished,Under Construction,2.85,0.38,0.43,139.8
+Delhi NCR,3,1708,Independent House,Semi-Furnished,Ready to Move,3.51,1.16,0.79,218.02
+Delhi NCR,2,868,Apartment,Fully Furnished,Ready to Move,0.48,1.34,1.68,111.36
+Chennai,1,568,Apartment,Unfurnished,Ready to Move,2.08,4.17,3.76,40.27
+Pune,3,1762,Independent House,Semi-Furnished,Ready to Move,6.08,0.7,0.43,160.52
+Mumbai,1,470,Apartment,Semi-Furnished,Ready to Move,8.63,10.65,4.02,102.76
+Delhi NCR,3,1614,Apartment,Semi-Furnished,Under Construction,2.67,3.23,5.79,183.56
+Chennai,4,1831,Apartment,Fully Furnished,Under Construction,10.29,2.7,3.16,134.86
+Chennai,2,986,Apartment,Unfurnished,Ready to Move,2.11,2.28,0.13,66.5
+Bengaluru,1,481,Independent House,Semi-Furnished,Ready to Move,1.46,3.34,1.74,57.7
+Kolkata,3,1142,Apartment,Unfurnished,Ready to Move,2.01,0.09,3.24,72.89
+Pune,3,1716,Apartment,Semi-Furnished,Ready to Move,0.31,18.46,11.52,146.48
+Mumbai,2,700,Apartment,Semi-Furnished,Ready to Move,1.28,3.26,9.1,152.39
+Ahmedabad,4,2069,Apartment,Fully Furnished,Ready to Move,1.53,0.14,1.51,150.03
+Hyderabad,1,579,Apartment,Fully Furnished,Ready to Move,4.72,3.57,2.87,49.81
+Kolkata,2,923,Apartment,Semi-Furnished,Ready to Move,3.55,2.3,6.64,52.68
+Kolkata,3,1617,Apartment,Unfurnished,Ready to Move,2.3,0.1,5.33,100.68
+Bengaluru,3,1202,Apartment,Semi-Furnished,Ready to Move,1.07,10.33,1.96,104.96
+Ahmedabad,1,409,Apartment,Semi-Furnished,Ready to Move,0.52,0.04,0.91,22.2
+Delhi NCR,3,1682,Apartment,Unfurnished,Ready to Move,1.07,3.45,0.44,165.87
+Delhi NCR,2,789,Apartment,Semi-Furnished,Ready to Move,2.85,13.06,2.01,76.51
+Bengaluru,2,925,Apartment,Fully Furnished,Ready to Move,0.76,1.09,3.85,113.92
+Chennai,1,557,Builder Floor,Semi-Furnished,Ready to Move,1.39,1.17,10.5,48.96
+Delhi NCR,3,1225,Apartment,Semi-Furnished,Under Construction,1.22,0.0,5.94,151.19
+Pune,1,587,Apartment,Fully Furnished,Ready to Move,3.63,0.27,0.69,55.6
+Mumbai,2,908,Apartment,Unfurnished,Ready to Move,5.38,0.18,3.82,203.72
+Kolkata,2,796,Builder Floor,Unfurnished,Ready to Move,3.0,6.92,1.02,51.43
+Kolkata,3,1173,Apartment,Semi-Furnished,Ready to Move,1.04,7.25,3.45,69.22
+Pune,2,814,Independent House,Semi-Furnished,Under Construction,1.42,5.19,3.29,95.49
+Ahmedabad,3,1290,Apartment,Semi-Furnished,Under Construction,0.39,1.74,0.95,85.61
+Delhi NCR,2,869,Builder Floor,Unfurnished,Ready to Move,0.46,6.89,0.8,110.23
+Kolkata,2,1006,Independent House,Unfurnished,Ready to Move,0.45,3.1,0.33,83.06
+Hyderabad,2,903,Apartment,Unfurnished,Ready to Move,0.35,1.45,0.16,79.79
+Ahmedabad,3,1155,Apartment,Fully Furnished,Ready to Move,0.49,2.3,5.87,74.97
+Mumbai,3,1652,Apartment,Semi-Furnished,Ready to Move,0.57,0.27,0.15,480.74
+Mumbai,1,431,Apartment,Semi-Furnished,Ready to Move,0.3,11.6,0.28,103.82
+Kolkata,2,714,Apartment,Unfurnished,Ready to Move,2.56,3.86,0.82,46.65
+Bengaluru,1,461,Apartment,Unfurnished,Ready to Move,11.62,5.26,6.56,35.13
+Ahmedabad,2,854,Apartment,Semi-Furnished,Under Construction,5.28,4.52,1.21,49.95
+Kolkata,2,983,Apartment,Unfurnished,Ready to Move,0.12,4.41,0.64,58.25
+Bengaluru,2,908,Apartment,Semi-Furnished,Ready to Move,1.38,0.07,3.77,95.0
+Kolkata,2,1019,Apartment,Semi-Furnished,Ready to Move,4.9,2.98,1.15,61.18
+Hyderabad,2,886,Apartment,Semi-Furnished,Ready to Move,0.36,6.9,1.22,80.58
+Ahmedabad,2,829,Builder Floor,Semi-Furnished,Under Construction,4.7,0.18,4.03,61.51
+Chennai,3,1738,Apartment,Semi-Furnished,Ready to Move,2.25,12.51,0.87,130.53
+Mumbai,2,991,Independent House,Unfurnished,Under Construction,6.69,2.21,6.81,229.68
+Kolkata,1,513,Apartment,Semi-Furnished,Ready to Move,5.22,1.37,2.47,28.03
+Hyderabad,3,1298,Apartment,Semi-Furnished,Under Construction,2.83,3.04,2.32,110.11
+Bengaluru,2,712,Apartment,Unfurnished,Under Construction,2.68,6.46,0.92,62.17
+Bengaluru,2,970,Apartment,Fully Furnished,Ready to Move,0.6,2.58,5.41,111.89
+Mumbai,2,788,Independent House,Unfurnished,Ready to Move,0.31,4.14,2.55,235.75
+Pune,2,914,Apartment,Unfurnished,Under Construction,1.34,2.77,0.51,71.64
+Kolkata,1,587,Apartment,Unfurnished,Ready to Move,0.52,3.99,0.69,42.46
+Ahmedabad,2,977,Builder Floor,Fully Furnished,Ready to Move,0.27,0.59,1.89,90.66
+Delhi NCR,4,2246,Apartment,Semi-Furnished,Ready to Move,0.9,0.16,4.54,264.31
+Bengaluru,2,902,Builder Floor,Semi-Furnished,Ready to Move,4.92,0.59,8.41,93.07
+Ahmedabad,2,773,Builder Floor,Unfurnished,Ready to Move,0.04,1.35,3.27,64.66
+Ahmedabad,2,724,Apartment,Semi-Furnished,Ready to Move,0.87,1.17,2.12,42.18
+Chennai,1,500,Apartment,Semi-Furnished,Ready to Move,1.38,3.82,0.87,40.77
+Ahmedabad,2,875,Apartment,Fully Furnished,Ready to Move,1.79,2.43,3.35,51.89
+Ahmedabad,3,1526,Apartment,Unfurnished,Under Construction,0.5,0.16,12.09,97.02
+Chennai,1,516,Apartment,Unfurnished,Ready to Move,8.33,0.14,1.94,36.96
+Bengaluru,2,865,Builder Floor,Unfurnished,Under Construction,2.16,0.38,0.53,94.73
+Ahmedabad,2,740,Apartment,Fully Furnished,Under Construction,1.85,1.74,0.33,39.39
+Pune,2,1043,Apartment,Semi-Furnished,Under Construction,0.02,0.02,0.94,94.32
+Pune,4,2165,Apartment,Semi-Furnished,Under Construction,1.66,2.72,2.53,186.38
+Hyderabad,1,519,Apartment,Semi-Furnished,Under Construction,4.55,1.79,8.8,46.07
+Chennai,2,796,Apartment,Fully Furnished,Under Construction,0.62,3.24,1.07,63.57
+Hyderabad,1,544,Independent House,Fully Furnished,Ready to Move,1.08,5.1,1.09,61.86
+Chennai,4,2527,Apartment,Semi-Furnished,Ready to Move,0.05,1.16,1.97,173.89
+Kolkata,1,628,Apartment,Unfurnished,Under Construction,9.42,0.68,7.52,33.31
+Kolkata,2,1012,Apartment,Unfurnished,Ready to Move,0.17,1.3,1.63,54.79
+Ahmedabad,3,1229,Apartment,Fully Furnished,Under Construction,5.71,0.01,0.76,68.92
+Delhi NCR,3,1451,Apartment,Semi-Furnished,Under Construction,0.94,0.51,0.53,178.63
+Kolkata,2,1076,Independent House,Unfurnished,Ready to Move,2.21,5.56,1.83,77.23
+Delhi NCR,2,1017,Apartment,Semi-Furnished,Under Construction,2.84,1.01,4.84,109.39
+Kolkata,2,836,Independent House,Fully Furnished,Ready to Move,0.38,20.67,1.03,71.73
+Mumbai,2,1023,Apartment,Semi-Furnished,Ready to Move,1.47,0.73,2.16,270.19
+Kolkata,1,480,Apartment,Semi-Furnished,Ready to Move,0.98,6.22,2.77,29.08
+Hyderabad,2,972,Independent House,Fully Furnished,Ready to Move,0.15,4.88,1.8,107.41
+Bengaluru,2,816,Apartment,Semi-Furnished,Ready to Move,4.48,1.56,0.64,83.34
+Ahmedabad,2,1005,Apartment,Unfurnished,Ready to Move,0.12,1.61,7.64,61.09
+Hyderabad,2,1067,Apartment,Fully Furnished,Ready to Move,2.65,3.32,2.5,94.93
+Bengaluru,4,2917,Independent House,Fully Furnished,Under Construction,0.94,7.65,3.92,366.55
+Pune,2,867,Builder Floor,Fully Furnished,Ready to Move,0.53,1.95,3.03,85.66
+Hyderabad,1,585,Apartment,Semi-Furnished,Ready to Move,2.75,0.25,18.72,50.42
+Pune,1,602,Apartment,Unfurnished,Ready to Move,2.14,1.88,1.83,42.68
+Delhi NCR,4,2460,Independent House,Fully Furnished,Under Construction,0.95,0.93,1.66,352.04
+Delhi NCR,2,882,Apartment,Unfurnished,Under Construction,1.8,11.2,1.34,84.46
+Mumbai,1,556,Builder Floor,Fully Furnished,Ready to Move,0.71,4.78,1.35,173.68
+Kolkata,2,851,Apartment,Fully Furnished,Ready to Move,4.98,0.21,0.97,55.26
+Hyderabad,2,773,Builder Floor,Semi-Furnished,Under Construction,0.94,1.39,11.83,86.88
+Pune,2,1064,Apartment,Fully Furnished,Ready to Move,0.7,0.21,6.14,114.07
+Bengaluru,2,973,Independent House,Semi-Furnished,Ready to Move,3.48,7.09,1.14,114.05
+Delhi NCR,1,441,Apartment,Unfurnished,Ready to Move,0.04,9.47,1.09,47.97
+Kolkata,4,2295,Apartment,Semi-Furnished,Ready to Move,0.78,0.48,0.33,175.85
+Delhi NCR,2,911,Apartment,Unfurnished,Under Construction,1.18,2.32,6.29,106.14
+Bengaluru,2,800,Apartment,Semi-Furnished,Ready to Move,5.35,10.75,1.39,67.61
+Kolkata,3,1656,Apartment,Unfurnished,Ready to Move,7.51,0.63,2.55,78.32
+Kolkata,2,781,Apartment,Semi-Furnished,Ready to Move,3.15,1.38,6.92,47.26
+Pune,2,716,Independent House,Fully Furnished,Under Construction,1.7,1.45,1.57,91.76
+Pune,2,772,Apartment,Fully Furnished,Under Construction,2.56,0.12,4.93,76.08
+Hyderabad,2,713,Apartment,Semi-Furnished,Under Construction,1.34,0.15,1.69,64.22
+Hyderabad,3,1532,Apartment,Semi-Furnished,Ready to Move,0.89,12.21,3.62,129.28
+Chennai,4,1956,Apartment,Semi-Furnished,Ready to Move,7.52,3.39,1.69,136.9
+Ahmedabad,1,622,Apartment,Fully Furnished,Under Construction,0.31,1.46,1.5,38.9
+Chennai,1,531,Apartment,Semi-Furnished,Ready to Move,1.06,1.9,14.04,39.77
+Mumbai,4,2818,Independent House,Semi-Furnished,Under Construction,5.73,5.02,2.84,678.25
+Delhi NCR,3,1503,Apartment,Fully Furnished,Ready to Move,3.21,1.83,1.37,190.17
+Hyderabad,3,1475,Apartment,Semi-Furnished,Ready to Move,0.07,1.03,0.89,127.86
+Pune,1,519,Apartment,Fully Furnished,Ready to Move,0.06,0.43,0.12,56.02
+Bengaluru,2,746,Apartment,Fully Furnished,Under Construction,1.82,5.22,3.68,80.04
+Pune,3,1206,Apartment,Fully Furnished,Under Construction,1.66,0.8,1.4,101.87
+Delhi NCR,2,807,Apartment,Unfurnished,Ready to Move,1.46,0.29,5.17,96.03
+Chennai,2,964,Apartment,Semi-Furnished,Ready to Move,0.9,2.23,1.36,84.63
+Pune,1,604,Independent House,Fully Furnished,Under Construction,10.79,0.16,1.4,80.98
+Ahmedabad,2,778,Apartment,Semi-Furnished,Ready to Move,0.79,13.41,4.53,47.26
+Mumbai,2,854,Apartment,Semi-Furnished,Under Construction,1.68,3.95,2.02,179.15
+Delhi NCR,2,970,Apartment,Unfurnished,Ready to Move,1.3,0.66,6.49,108.39
+Chennai,4,2787,Apartment,Unfurnished,Ready to Move,0.47,0.76,2.68,250.2
+Ahmedabad,2,946,Apartment,Semi-Furnished,Ready to Move,0.57,3.37,0.83,51.84
+Bengaluru,3,1630,Independent House,Semi-Furnished,Ready to Move,6.26,1.76,2.52,172.96
+Chennai,1,489,Apartment,Semi-Furnished,Ready to Move,4.88,5.95,0.01,31.75
+Kolkata,2,725,Builder Floor,Semi-Furnished,Ready to Move,0.55,3.16,1.12,54.23
+Ahmedabad,4,2528,Independent House,Semi-Furnished,Ready to Move,5.21,2.27,0.7,158.67
+Ahmedabad,1,553,Apartment,Semi-Furnished,Ready to Move,0.59,13.19,3.19,28.82
+Mumbai,1,553,Independent House,Semi-Furnished,Ready to Move,2.46,1.98,0.44,165.73
+Delhi NCR,2,873,Apartment,Semi-Furnished,Under Construction,0.21,2.05,1.03,93.77
+Bengaluru,1,491,Apartment,Semi-Furnished,Ready to Move,5.31,4.38,1.21,45.19
+Mumbai,3,1532,Builder Floor,Unfurnished,Ready to Move,0.13,6.63,0.01,377.53
+Chennai,3,1437,Apartment,Semi-Furnished,Ready to Move,2.02,3.94,0.14,111.83
+Mumbai,2,880,Apartment,Semi-Furnished,Ready to Move,3.78,4.8,1.12,195.32
+Ahmedabad,2,830,Apartment,Semi-Furnished,Under Construction,0.31,1.87,0.75,53.27
+Delhi NCR,2,997,Apartment,Semi-Furnished,Ready to Move,1.3,2.61,0.37,123.75
+Hyderabad,3,1372,Builder Floor,Semi-Furnished,Under Construction,0.11,0.88,0.5,154.45
+Mumbai,1,635,Apartment,Unfurnished,Ready to Move,2.87,4.56,5.42,127.46
+Kolkata,2,775,Apartment,Fully Furnished,Ready to Move,0.92,1.0,3.45,62.72
+Mumbai,2,876,Apartment,Unfurnished,Ready to Move,2.05,0.01,1.99,197.27
+Chennai,2,883,Apartment,Fully Furnished,Under Construction,6.75,10.86,7.19,66.95
+Chennai,1,462,Apartment,Semi-Furnished,Under Construction,0.91,1.46,0.09,32.99
+Bengaluru,3,1742,Apartment,Semi-Furnished,Ready to Move,0.12,0.88,1.27,203.01
+Chennai,1,506,Apartment,Unfurnished,Under Construction,2.81,1.25,5.2,30.08
+Pune,1,448,Apartment,Unfurnished,Ready to Move,3.86,1.6,2.97,28.89
+Delhi NCR,3,1666,Builder Floor,Unfurnished,Under Construction,7.92,2.57,12.0,188.11
+Delhi NCR,3,1765,Apartment,Unfurnished,Ready to Move,0.43,0.29,8.67,205.77
+Hyderabad,1,498,Independent House,Semi-Furnished,Ready to Move,1.24,0.22,0.56,60.62
+Hyderabad,1,599,Independent House,Semi-Furnished,Ready to Move,4.65,1.39,10.73,58.72
+Delhi NCR,1,451,Independent House,Semi-Furnished,Under Construction,4.11,1.4,8.73,52.19
+Kolkata,2,1055,Independent House,Unfurnished,Under Construction,2.45,0.5,1.4,84.38
+Hyderabad,1,516,Apartment,Fully Furnished,Under Construction,0.78,2.08,12.2,54.24
+Bengaluru,1,517,Apartment,Semi-Furnished,Under Construction,0.84,1.34,0.11,56.58
+Chennai,2,962,Apartment,Unfurnished,Ready to Move,0.33,0.11,3.24,83.83
+Delhi NCR,3,1145,Apartment,Semi-Furnished,Under Construction,6.37,8.68,0.93,112.63
+Ahmedabad,2,1001,Apartment,Unfurnished,Under Construction,0.47,8.69,0.42,47.11
+Hyderabad,2,1055,Apartment,Unfurnished,Ready to Move,2.13,0.94,2.58,97.39
+Delhi NCR,1,543,Independent House,Semi-Furnished,Ready to Move,2.19,0.71,1.1,76.18
+Pune,4,2207,Apartment,Semi-Furnished,Ready to Move,1.15,3.17,3.3,182.5
+Mumbai,3,1288,Builder Floor,Fully Furnished,Under Construction,1.09,3.99,2.33,385.37
+Chennai,3,1228,Apartment,Semi-Furnished,Under Construction,2.76,12.64,1.5,79.27
+Delhi NCR,3,1660,Apartment,Fully Furnished,Under Construction,1.23,1.9,0.6,205.2
+Mumbai,4,2941,Apartment,Fully Furnished,Under Construction,0.74,3.85,2.76,833.82
+Hyderabad,2,843,Independent House,Fully Furnished,Under Construction,1.27,8.42,5.3,88.52
+Mumbai,1,585,Apartment,Semi-Furnished,Under Construction,4.12,2.39,2.75,137.1
+Chennai,2,899,Builder Floor,Unfurnished,Under Construction,8.49,0.52,2.83,63.9
+Delhi NCR,3,1256,Builder Floor,Unfurnished,Ready to Move,2.53,1.9,2.15,185.79
+Pune,3,1586,Independent House,Semi-Furnished,Ready to Move,3.81,0.59,1.47,181.39
+Kolkata,2,1047,Apartment,Semi-Furnished,Ready to Move,1.9,0.07,1.83,62.91
+Hyderabad,1,533,Independent House,Unfurnished,Under Construction,2.45,5.57,13.68,52.23
+Delhi NCR,2,1099,Independent House,Semi-Furnished,Ready to Move,11.08,1.09,4.15,154.96
+Chennai,4,1947,Apartment,Unfurnished,Ready to Move,1.44,0.01,1.69,136.37
+Hyderabad,2,1035,Apartment,Semi-Furnished,Ready to Move,0.17,8.24,1.83,103.08
+Bengaluru,2,770,Apartment,Unfurnished,Ready to Move,7.87,2.35,2.08,66.94
+Mumbai,2,932,Apartment,Semi-Furnished,Ready to Move,3.94,1.09,3.23,197.16
+Kolkata,2,1033,Apartment,Semi-Furnished,Ready to Move,1.27,1.22,1.88,68.12
+Chennai,3,1765,Builder Floor,Unfurnished,Ready to Move,10.1,1.1,3.48,137.47
+Bengaluru,2,789,Apartment,Semi-Furnished,Ready to Move,1.06,0.87,1.2,83.66
+Ahmedabad,3,1433,Apartment,Semi-Furnished,Ready to Move,1.16,7.36,1.59,75.52
+Delhi NCR,2,898,Builder Floor,Unfurnished,Ready to Move,2.35,0.75,5.99,112.56
+Pune,2,860,Apartment,Unfurnished,Ready to Move,0.8,3.3,1.2,71.15
+Hyderabad,1,425,Independent House,Semi-Furnished,Ready to Move,3.0,0.32,10.01,40.81
+Mumbai,3,1220,Apartment,Semi-Furnished,Ready to Move,0.41,11.94,0.57,307.88
+Hyderabad,2,1000,Apartment,Semi-Furnished,Ready to Move,0.29,3.7,0.83,92.84
+Kolkata,2,911,Apartment,Unfurnished,Under Construction,1.91,9.34,1.87,57.13
+Delhi NCR,2,762,Apartment,Semi-Furnished,Ready to Move,2.03,2.03,4.79,94.02
+Hyderabad,4,2762,Apartment,Unfurnished,Ready to Move,0.28,6.66,3.95,200.46
+Mumbai,1,579,Independent House,Fully Furnished,Ready to Move,8.32,7.69,0.58,155.31
+Delhi NCR,3,1167,Apartment,Semi-Furnished,Ready to Move,2.13,4.86,0.81,110.08
+Hyderabad,2,952,Independent House,Fully Furnished,Ready to Move,0.41,0.39,2.57,114.15
+Pune,2,701,Apartment,Semi-Furnished,Ready to Move,0.93,0.06,1.05,60.41
+Chennai,1,541,Apartment,Semi-Furnished,Ready to Move,4.03,0.74,1.65,37.64
+Delhi NCR,2,807,Apartment,Semi-Furnished,Ready to Move,1.85,0.5,2.0,91.07
+Chennai,2,985,Apartment,Semi-Furnished,Ready to Move,0.52,5.17,2.71,71.11
+Ahmedabad,1,448,Independent House,Semi-Furnished,Under Construction,0.27,3.26,0.87,38.9
+Delhi NCR,2,839,Builder Floor,Semi-Furnished,Ready to Move,1.41,2.99,0.53,121.72
+Pune,4,2529,Independent House,Semi-Furnished,Under Construction,1.03,1.17,1.53,284.61
+Chennai,1,443,Apartment,Semi-Furnished,Ready to Move,2.67,0.67,0.26,33.73
+Bengaluru,3,1689,Apartment,Semi-Furnished,Ready to Move,6.48,0.93,2.24,165.76
+Mumbai,2,915,Apartment,Fully Furnished,Ready to Move,0.71,2.05,5.49,197.78
+Bengaluru,2,1081,Independent House,Semi-Furnished,Under Construction,4.83,5.39,0.38,138.21
+Hyderabad,2,797,Apartment,Semi-Furnished,Ready to Move,6.33,1.17,0.36,62.59
+Pune,1,635,Apartment,Semi-Furnished,Ready to Move,5.81,4.8,0.25,51.0
+Bengaluru,1,425,Apartment,Semi-Furnished,Ready to Move,7.6,2.71,5.65,43.39
+Delhi NCR,1,548,Apartment,Fully Furnished,Ready to Move,4.61,8.67,0.25,50.41
+Hyderabad,1,555,Apartment,Fully Furnished,Under Construction,2.25,1.06,12.31,54.64
+Hyderabad,2,1003,Apartment,Semi-Furnished,Ready to Move,1.32,2.4,1.33,93.5
+Bengaluru,3,1677,Independent House,Semi-Furnished,Ready to Move,1.69,0.41,1.2,221.65
+Ahmedabad,3,1556,Builder Floor,Semi-Furnished,Ready to Move,5.15,1.63,0.29,103.55
+Bengaluru,2,786,Apartment,Semi-Furnished,Ready to Move,0.9,2.83,2.64,78.69
+Ahmedabad,1,478,Apartment,Fully Furnished,Ready to Move,0.43,5.28,2.64,28.19
+Pune,2,904,Apartment,Unfurnished,Ready to Move,0.38,0.88,2.04,79.37
+Mumbai,2,978,Builder Floor,Unfurnished,Ready to Move,4.39,0.98,1.12,255.12
+Bengaluru,1,480,Builder Floor,Unfurnished,Under Construction,3.58,3.99,1.38,53.72
+Kolkata,2,953,Builder Floor,Semi-Furnished,Ready to Move,1.72,1.93,1.16,66.71
+Ahmedabad,2,1003,Independent House,Fully Furnished,Under Construction,0.8,2.63,1.67,78.68
+Bengaluru,2,1079,Apartment,Unfurnished,Ready to Move,2.83,7.23,1.25,92.52
+Chennai,2,829,Independent House,Semi-Furnished,Ready to Move,0.1,2.77,3.38,87.82
+Delhi NCR,3,1695,Apartment,Semi-Furnished,Ready to Move,2.1,4.23,1.05,162.12
+Kolkata,3,1375,Apartment,Semi-Furnished,Under Construction,1.27,4.28,1.3,79.1
+Kolkata,2,886,Apartment,Semi-Furnished,Ready to Move,9.53,6.51,1.72,55.95
+Ahmedabad,3,1657,Apartment,Fully Furnished,Ready to Move,1.77,4.07,0.01,95.21
+Chennai,4,2698,Apartment,Unfurnished,Ready to Move,2.01,0.27,2.03,166.26
+Chennai,2,882,Apartment,Semi-Furnished,Under Construction,3.12,1.68,0.89,62.12
+Hyderabad,2,967,Apartment,Unfurnished,Ready to Move,1.66,18.16,0.17,69.74
+Ahmedabad,2,995,Independent House,Semi-Furnished,Ready to Move,0.64,0.88,7.26,78.71
+Mumbai,4,1877,Apartment,Fully Furnished,Ready to Move,1.93,3.53,1.17,485.74
+Delhi NCR,3,1438,Apartment,Unfurnished,Under Construction,7.22,7.4,1.67,120.46
+Pune,1,561,Apartment,Unfurnished,Under Construction,1.32,3.53,5.27,41.63
+Kolkata,2,743,Apartment,Semi-Furnished,Ready to Move,2.85,1.86,0.55,48.4
+Pune,2,937,Apartment,Semi-Furnished,Ready to Move,9.55,0.33,5.7,76.69
+Bengaluru,2,833,Apartment,Semi-Furnished,Under Construction,4.43,1.8,0.83,73.28
+Bengaluru,1,604,Apartment,Unfurnished,Under Construction,2.69,0.8,2.67,52.68
+Pune,3,1291,Independent House,Unfurnished,Ready to Move,3.33,12.96,3.47,128.8
+Bengaluru,2,1055,Builder Floor,Semi-Furnished,Under Construction,6.89,5.02,7.06,116.56
+Mumbai,3,1377,Apartment,Unfurnished,Ready to Move,8.03,5.54,2.81,287.71
+Chennai,3,1117,Apartment,Fully Furnished,Ready to Move,8.68,2.29,1.81,87.43
+Bengaluru,3,1623,Apartment,Unfurnished,Under Construction,2.46,0.47,2.55,167.92
+Hyderabad,2,879,Independent House,Semi-Furnished,Ready to Move,1.21,1.24,0.68,105.98
+Bengaluru,2,822,Apartment,Unfurnished,Under Construction,0.36,1.2,3.5,82.74
+Delhi NCR,1,645,Independent House,Unfurnished,Ready to Move,1.22,2.67,0.62,87.7
+Mumbai,2,921,Independent House,Semi-Furnished,Ready to Move,7.16,2.47,2.44,218.31
+Delhi NCR,1,516,Builder Floor,Semi-Furnished,Under Construction,5.51,2.27,3.13,67.17
+Delhi NCR,2,750,Builder Floor,Unfurnished,Ready to Move,1.85,2.74,6.87,94.87
+Hyderabad,1,631,Apartment,Unfurnished,Ready to Move,1.93,17.38,1.79,46.97
+Mumbai,1,470,Apartment,Unfurnished,Under Construction,0.92,1.42,4.48,100.25
+Mumbai,1,623,Builder Floor,Semi-Furnished,Ready to Move,1.52,3.82,0.55,178.98
+Ahmedabad,1,447,Apartment,Semi-Furnished,Ready to Move,3.13,1.1,0.51,26.48
+Mumbai,3,1118,Apartment,Unfurnished,Under Construction,1.29,2.51,2.23,237.57
+Mumbai,3,1183,Apartment,Semi-Furnished,Ready to Move,0.52,0.89,2.72,307.21
+Mumbai,2,854,Apartment,Semi-Furnished,Under Construction,1.95,3.27,3.0,186.57
+Hyderabad,1,452,Independent House,Fully Furnished,Under Construction,0.64,1.23,4.11,57.91
+Bengaluru,1,506,Apartment,Fully Furnished,Ready to Move,9.15,0.15,1.05,64.17
+Ahmedabad,1,500,Apartment,Semi-Furnished,Ready to Move,1.24,6.76,2.92,24.85
+Delhi NCR,1,447,Builder Floor,Unfurnished,Under Construction,6.01,0.55,0.63,54.02
+Mumbai,3,1746,Independent House,Unfurnished,Ready to Move,0.64,1.84,0.74,410.78
+Kolkata,1,586,Apartment,Semi-Furnished,Ready to Move,0.52,2.59,0.21,39.17
+Bengaluru,2,768,Apartment,Fully Furnished,Ready to Move,2.4,2.27,4.12,84.5
+Bengaluru,1,410,Apartment,Semi-Furnished,Ready to Move,3.78,5.17,2.12,38.61
+Delhi NCR,1,542,Apartment,Semi-Furnished,Ready to Move,2.09,3.63,0.82,56.31
+Hyderabad,2,891,Apartment,Semi-Furnished,Under Construction,0.65,1.4,2.44,77.77
+Pune,2,1086,Apartment,Semi-Furnished,Under Construction,0.1,0.21,1.31,96.77
+Pune,1,521,Apartment,Unfurnished,Ready to Move,2.41,5.84,5.45,33.37
+Bengaluru,1,468,Apartment,Semi-Furnished,Ready to Move,0.35,1.74,2.25,53.39
+Chennai,2,722,Apartment,Unfurnished,Ready to Move,1.05,8.82,0.09,43.06
+Chennai,1,580,Apartment,Unfurnished,Ready to Move,2.82,2.01,12.62,39.72
+Delhi NCR,1,436,Apartment,Semi-Furnished,Under Construction,0.26,5.06,0.23,48.52
+Pune,4,2832,Independent House,Unfurnished,Under Construction,0.34,11.22,3.57,251.78
+Bengaluru,2,970,Apartment,Unfurnished,Under Construction,0.16,4.21,1.72,81.3
+Hyderabad,2,1086,Apartment,Unfurnished,Ready to Move,13.85,2.13,0.86,82.42
+Pune,2,792,Apartment,Fully Furnished,Ready to Move,1.22,3.35,3.39,64.93
+Bengaluru,2,716,Builder Floor,Semi-Furnished,Ready to Move,5.91,3.14,0.4,83.9
+Bengaluru,2,853,Apartment,Unfurnished,Ready to Move,0.87,3.52,5.86,76.34
+Mumbai,2,1027,Apartment,Semi-Furnished,Ready to Move,3.5,0.64,0.87,229.75
+Hyderabad,3,1248,Apartment,Unfurnished,Under Construction,0.62,4.8,1.35,88.1
+Mumbai,1,520,Independent House,Semi-Furnished,Under Construction,1.72,0.63,3.0,163.91
+Delhi NCR,2,966,Apartment,Semi-Furnished,Under Construction,4.35,0.06,0.0,116.29
+Mumbai,2,1027,Apartment,Fully Furnished,Under Construction,4.24,3.92,1.92,226.01
+Kolkata,3,1717,Apartment,Semi-Furnished,Ready to Move,3.95,0.5,6.74,129.84
+Mumbai,2,1080,Apartment,Fully Furnished,Ready to Move,4.34,5.89,3.42,255.87
+Kolkata,2,734,Independent House,Fully Furnished,Ready to Move,0.59,8.04,1.47,60.03
+Pune,1,518,Apartment,Fully Furnished,Ready to Move,1.65,11.58,3.24,42.01
+Chennai,2,713,Apartment,Semi-Furnished,Ready to Move,1.66,4.37,8.27,50.01
+Ahmedabad,1,646,Apartment,Semi-Furnished,Under Construction,5.53,2.63,0.62,32.32
+Ahmedabad,2,713,Apartment,Semi-Furnished,Ready to Move,0.88,1.74,2.28,41.82
+Bengaluru,1,409,Apartment,Unfurnished,Ready to Move,6.7,2.7,0.8,35.2
+Ahmedabad,2,839,Apartment,Unfurnished,Ready to Move,1.5,0.84,5.78,40.63
+Kolkata,1,437,Apartment,Semi-Furnished,Ready to Move,2.77,1.71,3.83,30.37
+Hyderabad,2,1063,Apartment,Semi-Furnished,Ready to Move,0.78,5.06,4.84,100.0
+Mumbai,3,1218,Apartment,Fully Furnished,Ready to Move,1.32,0.98,8.59,360.98
+Kolkata,1,637,Builder Floor,Unfurnished,Ready to Move,3.09,1.23,0.79,47.49
+Hyderabad,2,733,Independent House,Unfurnished,Under Construction,1.8,5.53,0.15,78.76
+Chennai,2,868,Builder Floor,Semi-Furnished,Ready to Move,6.67,0.78,1.03,70.13
+Ahmedabad,1,409,Apartment,Semi-Furnished,Ready to Move,3.34,1.13,1.53,24.02
+Chennai,3,1733,Builder Floor,Unfurnished,Ready to Move,2.08,0.07,2.94,134.34
+Ahmedabad,1,544,Apartment,Fully Furnished,Under Construction,5.44,5.09,4.79,27.8
+Mumbai,2,844,Apartment,Semi-Furnished,Ready to Move,2.74,3.85,1.29,222.59
+Delhi NCR,2,922,Independent House,Semi-Furnished,Under Construction,2.61,4.74,1.92,122.02
+Mumbai,2,1070,Apartment,Fully Furnished,Under Construction,0.71,0.96,4.62,280.09
+Pune,2,956,Apartment,Semi-Furnished,Under Construction,1.26,4.65,0.77,82.39
+Kolkata,2,967,Apartment,Semi-Furnished,Ready to Move,2.87,3.63,0.73,58.79
+Bengaluru,1,502,Apartment,Fully Furnished,Ready to Move,5.56,1.82,2.67,47.55
+Delhi NCR,3,1615,Apartment,Unfurnished,Ready to Move,0.95,2.3,1.72,161.45
+Mumbai,2,1096,Apartment,Semi-Furnished,Ready to Move,0.61,3.36,8.92,272.36
+Hyderabad,3,1205,Independent House,Unfurnished,Ready to Move,2.25,2.72,1.32,125.41
+Delhi NCR,3,1184,Apartment,Unfurnished,Under Construction,0.17,4.11,4.28,136.8
+Kolkata,3,1313,Apartment,Fully Furnished,Under Construction,3.13,0.8,2.62,94.42
+Ahmedabad,2,820,Apartment,Semi-Furnished,Ready to Move,3.04,3.11,0.17,45.34
+Delhi NCR,2,831,Apartment,Semi-Furnished,Ready to Move,1.1,2.39,0.26,97.12
+Ahmedabad,3,1296,Builder Floor,Fully Furnished,Under Construction,5.58,2.47,0.68,93.88
+Kolkata,2,718,Apartment,Fully Furnished,Ready to Move,1.74,2.53,0.46,48.53
+Mumbai,1,529,Apartment,Fully Furnished,Ready to Move,2.59,8.53,1.2,117.09
+Kolkata,3,1111,Apartment,Semi-Furnished,Ready to Move,0.59,6.83,2.6,71.75
+Delhi NCR,3,1180,Apartment,Semi-Furnished,Under Construction,1.35,3.97,2.77,149.65
+Hyderabad,2,1029,Apartment,Unfurnished,Ready to Move,4.96,5.04,2.66,65.22
+Chennai,1,497,Apartment,Semi-Furnished,Under Construction,0.6,0.17,0.38,47.92
+Delhi NCR,2,961,Apartment,Semi-Furnished,Ready to Move,1.24,5.45,2.75,113.48
+Kolkata,3,1491,Apartment,Semi-Furnished,Ready to Move,0.96,2.66,1.58,100.09
+Chennai,3,1736,Apartment,Semi-Furnished,Ready to Move,0.41,1.53,7.0,127.7
+Kolkata,1,450,Apartment,Fully Furnished,Ready to Move,0.86,0.6,7.29,30.93
+Hyderabad,1,410,Apartment,Semi-Furnished,Ready to Move,0.66,0.31,4.39,40.5
+Kolkata,3,1546,Apartment,Semi-Furnished,Ready to Move,6.43,0.18,3.64,95.15
+Mumbai,2,1082,Independent House,Semi-Furnished,Under Construction,3.38,0.71,0.37,272.99
+Bengaluru,2,839,Apartment,Unfurnished,Ready to Move,0.95,0.12,0.27,77.47
+Ahmedabad,4,2640,Apartment,Unfurnished,Under Construction,3.6,5.28,5.51,121.02
+Ahmedabad,1,401,Apartment,Semi-Furnished,Under Construction,0.06,1.14,1.67,22.77
+Delhi NCR,2,707,Apartment,Unfurnished,Under Construction,1.87,1.84,1.8,77.12
+Bengaluru,1,649,Apartment,Semi-Furnished,Under Construction,0.72,6.92,5.65,58.92
+Kolkata,2,838,Apartment,Semi-Furnished,Ready to Move,0.3,0.49,2.91,60.27
+Hyderabad,3,1735,Apartment,Unfurnished,Ready to Move,5.38,7.22,0.59,108.27
+Delhi NCR,2,1008,Apartment,Unfurnished,Under Construction,0.56,4.08,0.71,116.58
+Kolkata,4,2539,Apartment,Semi-Furnished,Under Construction,4.32,1.67,0.02,190.35
+Chennai,2,709,Apartment,Semi-Furnished,Under Construction,1.33,0.5,3.72,59.67
+Pune,2,911,Apartment,Semi-Furnished,Ready to Move,0.04,0.38,1.99,77.26
+Kolkata,1,511,Apartment,Semi-Furnished,Ready to Move,3.3,1.63,8.99,30.37
+Bengaluru,2,707,Apartment,Semi-Furnished,Ready to Move,2.27,0.6,3.76,66.32
+Delhi NCR,2,991,Apartment,Fully Furnished,Under Construction,1.05,1.25,0.33,139.45
+Bengaluru,1,620,Independent House,Semi-Furnished,Ready to Move,0.83,0.22,0.53,84.24
+Delhi NCR,2,1061,Independent House,Fully Furnished,Ready to Move,0.19,3.62,2.09,145.76
+Kolkata,2,952,Apartment,Unfurnished,Ready to Move,7.09,0.63,7.77,46.72
+Mumbai,3,1625,Apartment,Semi-Furnished,Ready to Move,1.7,5.65,0.85,307.94
+Chennai,2,939,Apartment,Semi-Furnished,Ready to Move,0.22,0.98,5.24,80.61
+Kolkata,3,1537,Independent House,Unfurnished,Under Construction,5.08,6.4,1.12,90.48
+Ahmedabad,1,641,Apartment,Unfurnished,Under Construction,0.82,0.84,0.94,37.93
+Bengaluru,1,612,Apartment,Semi-Furnished,Ready to Move,0.57,5.11,6.95,59.42
+Pune,2,1041,Apartment,Unfurnished,Ready to Move,0.82,1.62,0.15,87.86
+Pune,2,848,Apartment,Unfurnished,Under Construction,2.08,3.5,3.24,62.36
+Hyderabad,1,635,Apartment,Fully Furnished,Ready to Move,0.19,0.16,0.13,71.22
+Delhi NCR,3,1405,Apartment,Fully Furnished,Under Construction,1.64,2.73,4.84,164.89
+Bengaluru,3,1577,Apartment,Semi-Furnished,Ready to Move,5.65,0.64,5.31,142.4
+Hyderabad,2,866,Apartment,Semi-Furnished,Ready to Move,0.52,2.66,6.71,76.62
+Bengaluru,1,419,Independent House,Fully Furnished,Ready to Move,1.01,0.61,0.62,64.9
+Ahmedabad,3,1315,Apartment,Semi-Furnished,Under Construction,1.26,2.3,0.4,69.92
+Delhi NCR,2,1042,Apartment,Unfurnished,Ready to Move,2.21,0.47,2.1,107.05
+Kolkata,3,1234,Apartment,Fully Furnished,Ready to Move,6.29,0.99,0.95,78.85
+Kolkata,3,1228,Apartment,Semi-Furnished,Ready to Move,1.25,3.62,2.8,80.62
+Pune,3,1509,Apartment,Semi-Furnished,Ready to Move,0.18,15.03,2.16,117.41
+Kolkata,2,993,Apartment,Semi-Furnished,Ready to Move,1.07,2.39,0.47,67.43
+Kolkata,1,645,Apartment,Semi-Furnished,Ready to Move,0.53,4.65,4.03,38.78
+Ahmedabad,2,888,Apartment,Fully Furnished,Ready to Move,2.64,3.1,4.89,58.23
+Mumbai,2,743,Apartment,Semi-Furnished,Ready to Move,0.07,2.76,9.89,187.88
+Pune,3,1185,Apartment,Fully Furnished,Ready to Move,0.86,0.27,1.51,107.55
+Hyderabad,1,443,Apartment,Fully Furnished,Ready to Move,1.97,0.62,1.24,46.5
+Chennai,1,473,Apartment,Semi-Furnished,Ready to Move,0.81,8.58,0.64,31.49
+Mumbai,3,1474,Apartment,Semi-Furnished,Ready to Move,2.0,2.11,0.6,342.02
+Hyderabad,3,1545,Apartment,Semi-Furnished,Ready to Move,0.3,3.81,1.16,131.73
+Delhi NCR,3,1477,Apartment,Unfurnished,Ready to Move,7.15,3.01,12.02,146.46
+Mumbai,3,1489,Apartment,Unfurnished,Ready to Move,0.86,1.9,0.29,321.41
+Ahmedabad,2,844,Apartment,Semi-Furnished,Ready to Move,6.41,1.96,0.9,42.02
+Hyderabad,2,750,Apartment,Semi-Furnished,Ready to Move,0.99,3.24,0.27,59.07
+Delhi NCR,3,1341,Apartment,Unfurnished,Ready to Move,3.81,0.61,0.96,135.98
+Pune,2,993,Independent House,Unfurnished,Ready to Move,0.71,1.96,0.29,107.76
+Chennai,2,750,Apartment,Fully Furnished,Under Construction,2.77,2.37,2.13,62.53
+Delhi NCR,1,409,Apartment,Semi-Furnished,Under Construction,0.98,16.83,1.73,38.98
+Kolkata,2,819,Apartment,Fully Furnished,Ready to Move,1.78,1.73,0.57,56.46
+Bengaluru,3,1347,Apartment,Semi-Furnished,Ready to Move,2.8,4.14,0.58,143.24
+Delhi NCR,2,769,Apartment,Semi-Furnished,Under Construction,2.22,0.59,2.95,87.08
+Delhi NCR,1,484,Apartment,Unfurnished,Under Construction,2.15,0.27,1.47,48.26
+Chennai,2,756,Apartment,Semi-Furnished,Ready to Move,0.17,8.21,0.17,63.93
+Bengaluru,1,525,Apartment,Semi-Furnished,Ready to Move,0.72,5.25,7.58,48.47
+Kolkata,1,438,Apartment,Unfurnished,Ready to Move,2.12,1.53,1.56,25.45
+Hyderabad,2,988,Apartment,Semi-Furnished,Ready to Move,0.05,2.81,2.68,87.09
+Hyderabad,3,1542,Apartment,Semi-Furnished,Ready to Move,0.72,0.58,6.5,152.07
+Delhi NCR,2,717,Apartment,Semi-Furnished,Ready to Move,0.65,4.91,1.54,85.18
+Ahmedabad,1,583,Independent House,Semi-Furnished,Under Construction,0.72,0.29,5.16,40.9
+Ahmedabad,1,619,Apartment,Semi-Furnished,Ready to Move,1.92,5.66,7.39,32.02
+Bengaluru,2,1012,Apartment,Semi-Furnished,Ready to Move,2.18,3.17,0.57,102.29
+Bengaluru,2,943,Apartment,Fully Furnished,Ready to Move,5.99,1.31,6.69,99.66
+Kolkata,3,1451,Apartment,Fully Furnished,Ready to Move,1.22,7.94,0.38,93.65
+Chennai,2,1003,Independent House,Fully Furnished,Ready to Move,6.53,17.1,0.97,86.58
+Pune,3,1397,Independent House,Semi-Furnished,Ready to Move,2.64,1.17,4.95,129.69
+Hyderabad,2,982,Apartment,Semi-Furnished,Ready to Move,6.09,6.56,6.93,87.07
+Chennai,2,773,Independent House,Semi-Furnished,Ready to Move,4.48,5.55,3.46,69.26
+Mumbai,2,809,Apartment,Unfurnished,Under Construction,2.91,5.5,0.33,160.29
+Hyderabad,4,2816,Apartment,Fully Furnished,Ready to Move,1.1,12.61,2.22,280.11
+Chennai,2,879,Builder Floor,Semi-Furnished,Ready to Move,0.69,2.67,2.55,84.69
+Hyderabad,2,731,Independent House,Unfurnished,Ready to Move,0.63,4.49,0.99,70.78
+Pune,2,933,Apartment,Unfurnished,Ready to Move,7.6,6.95,14.23,63.31
+Mumbai,1,425,Independent House,Fully Furnished,Ready to Move,7.96,2.61,1.23,123.32
+Ahmedabad,2,724,Builder Floor,Unfurnished,Ready to Move,3.23,2.63,0.71,52.38
+Ahmedabad,1,474,Independent House,Unfurnished,Ready to Move,5.38,1.53,0.35,27.53
+Pune,2,978,Independent House,Semi-Furnished,Ready to Move,6.28,6.07,1.43,81.5
+Kolkata,2,925,Independent House,Unfurnished,Under Construction,1.79,4.64,3.54,77.44
+Mumbai,2,756,Apartment,Fully Furnished,Ready to Move,2.48,2.4,0.79,203.85
+Delhi NCR,3,1279,Independent House,Semi-Furnished,Ready to Move,1.36,2.17,4.4,195.43
+Chennai,3,1331,Apartment,Semi-Furnished,Ready to Move,1.36,0.3,0.44,99.85
+Mumbai,3,1442,Independent House,Fully Furnished,Under Construction,0.1,0.03,1.74,501.1
+Kolkata,1,620,Apartment,Semi-Furnished,Ready to Move,1.42,3.01,3.64,35.5
+Kolkata,1,430,Apartment,Semi-Furnished,Ready to Move,2.8,2.16,0.44,25.69
+Pune,2,763,Apartment,Semi-Furnished,Under Construction,1.37,6.36,2.73,55.06
+Hyderabad,2,931,Apartment,Semi-Furnished,Ready to Move,5.15,3.13,4.81,70.98
+Mumbai,2,988,Apartment,Semi-Furnished,Ready to Move,1.01,11.04,2.72,194.56
+Chennai,1,612,Builder Floor,Semi-Furnished,Ready to Move,0.36,0.87,2.15,65.21
+Mumbai,2,957,Builder Floor,Fully Furnished,Under Construction,4.17,18.48,5.47,297.65
+Bengaluru,1,417,Apartment,Semi-Furnished,Under Construction,2.8,1.41,12.68,45.25
+Hyderabad,3,1786,Builder Floor,Fully Furnished,Under Construction,0.69,4.11,0.6,232.13
+Chennai,1,560,Independent House,Semi-Furnished,Under Construction,1.92,2.79,3.53,51.67
+Ahmedabad,2,928,Apartment,Semi-Furnished,Under Construction,1.28,1.78,0.25,55.18
+Chennai,1,625,Apartment,Fully Furnished,Ready to Move,6.99,0.6,0.13,44.94
+Delhi NCR,2,783,Builder Floor,Unfurnished,Under Construction,2.34,0.58,0.99,94.02
+Pune,2,990,Apartment,Semi-Furnished,Ready to Move,0.43,4.97,10.61,72.63
+Delhi NCR,3,1534,Independent House,Semi-Furnished,Ready to Move,1.74,1.9,2.41,200.03
+Chennai,3,1501,Independent House,Semi-Furnished,Ready to Move,4.96,13.01,0.94,128.42
+Hyderabad,2,809,Independent House,Unfurnished,Ready to Move,2.78,1.58,0.43,87.57
+Mumbai,3,1187,Apartment,Semi-Furnished,Under Construction,4.62,16.42,7.58,216.55
+Ahmedabad,4,2383,Apartment,Semi-Furnished,Ready to Move,0.72,0.92,1.35,146.34
+Mumbai,3,1641,Apartment,Semi-Furnished,Ready to Move,5.48,0.43,1.1,387.69
+Hyderabad,3,1783,Apartment,Fully Furnished,Ready to Move,3.52,1.5,5.86,166.13
+Chennai,1,452,Apartment,Fully Furnished,Under Construction,3.26,8.67,2.78,31.67
+Kolkata,2,1093,Apartment,Semi-Furnished,Ready to Move,1.06,2.95,0.55,68.12
+Mumbai,1,486,Apartment,Fully Furnished,Ready to Move,5.47,0.58,1.64,127.85
+Kolkata,1,579,Independent House,Semi-Furnished,Ready to Move,2.54,0.91,7.9,45.87
+Mumbai,4,1976,Apartment,Semi-Furnished,Ready to Move,4.77,1.49,6.94,496.79
+Mumbai,2,838,Apartment,Semi-Furnished,Ready to Move,1.12,3.57,0.22,182.4
+Ahmedabad,3,1293,Apartment,Semi-Furnished,Ready to Move,0.39,1.62,0.94,74.4
+Pune,3,1285,Apartment,Unfurnished,Under Construction,1.01,5.5,0.5,85.79
+Pune,3,1317,Apartment,Semi-Furnished,Ready to Move,1.52,3.83,2.29,117.14
+Bengaluru,4,2987,Apartment,Semi-Furnished,Ready to Move,1.91,8.28,4.16,284.13
+Delhi NCR,1,560,Apartment,Semi-Furnished,Ready to Move,1.79,2.78,1.05,59.33
+Hyderabad,1,574,Apartment,Fully Furnished,Ready to Move,1.97,1.61,4.26,54.65
+Hyderabad,2,712,Apartment,Semi-Furnished,Ready to Move,4.61,22.37,3.31,56.57
+Hyderabad,1,439,Independent House,Unfurnished,Ready to Move,0.47,1.76,3.91,44.1
+Bengaluru,1,488,Independent House,Semi-Furnished,Ready to Move,0.95,2.24,8.88,65.4
+Pune,2,1023,Builder Floor,Semi-Furnished,Under Construction,5.49,6.62,1.66,98.22
+Chennai,3,1141,Independent House,Semi-Furnished,Ready to Move,2.06,0.37,1.26,107.3
+Kolkata,2,909,Builder Floor,Unfurnished,Ready to Move,2.19,1.95,3.45,56.82
+Ahmedabad,2,928,Independent House,Semi-Furnished,Ready to Move,1.63,0.36,4.94,67.05
+Kolkata,2,1049,Apartment,Fully Furnished,Ready to Move,1.99,0.6,0.64,71.35
+Chennai,1,418,Apartment,Semi-Furnished,Ready to Move,0.55,0.02,5.63,30.56
+Ahmedabad,1,585,Apartment,Fully Furnished,Ready to Move,1.98,0.04,0.18,39.35
+Bengaluru,3,1378,Apartment,Fully Furnished,Under Construction,14.67,1.91,0.02,149.07
+Chennai,2,950,Apartment,Unfurnished,Ready to Move,2.09,6.63,0.52,64.25
+Hyderabad,3,1409,Apartment,Semi-Furnished,Ready to Move,0.11,3.54,11.54,124.79
+Delhi NCR,1,607,Independent House,Semi-Furnished,Under Construction,3.98,4.03,2.22,81.27
+Mumbai,3,1239,Builder Floor,Unfurnished,Ready to Move,1.26,2.93,0.14,314.03
+Kolkata,2,979,Apartment,Semi-Furnished,Under Construction,0.42,6.85,17.61,64.39
+Pune,2,733,Apartment,Semi-Furnished,Ready to Move,4.96,8.49,4.1,49.71
+Pune,2,1008,Builder Floor,Unfurnished,Ready to Move,0.55,7.58,5.46,91.47
+Bengaluru,3,1629,Apartment,Fully Furnished,Ready to Move,6.34,6.69,0.72,154.68
+Ahmedabad,2,756,Independent House,Semi-Furnished,Under Construction,1.46,0.81,0.33,70.33
+Pune,2,811,Apartment,Fully Furnished,Under Construction,3.39,3.6,2.17,63.66
+Hyderabad,4,1804,Apartment,Semi-Furnished,Ready to Move,1.98,3.49,4.44,152.02
+Kolkata,3,1509,Apartment,Fully Furnished,Ready to Move,0.74,3.0,3.05,93.36
+Chennai,2,881,Independent House,Semi-Furnished,Ready to Move,2.78,2.62,2.99,83.54
+Hyderabad,3,1112,Apartment,Unfurnished,Ready to Move,7.92,0.37,4.25,98.76
+Bengaluru,2,1038,Apartment,Semi-Furnished,Ready to Move,3.67,0.43,0.77,101.55
+Hyderabad,1,428,Apartment,Semi-Furnished,Ready to Move,2.32,9.3,3.25,33.16
+Chennai,2,958,Apartment,Semi-Furnished,Ready to Move,11.68,3.98,1.49,65.5
+Delhi NCR,4,1889,Builder Floor,Semi-Furnished,Ready to Move,0.77,1.22,0.22,305.32
+Bengaluru,4,2415,Independent House,Unfurnished,Ready to Move,0.16,1.31,0.68,334.04
+Delhi NCR,2,1078,Apartment,Semi-Furnished,Under Construction,0.08,3.77,4.74,116.27
+Mumbai,2,885,Apartment,Semi-Furnished,Under Construction,3.1,2.09,6.79,207.48
+Delhi NCR,1,649,Apartment,Semi-Furnished,Ready to Move,4.43,2.33,1.0,68.96
+Mumbai,4,2697,Apartment,Semi-Furnished,Under Construction,2.52,0.25,0.63,696.29
+Mumbai,4,2770,Independent House,Fully Furnished,Ready to Move,5.89,0.6,0.08,967.1
+Delhi NCR,2,807,Apartment,Semi-Furnished,Under Construction,2.99,2.0,8.85,103.37
+Bengaluru,3,1767,Apartment,Semi-Furnished,Ready to Move,1.16,4.81,3.45,163.55
+Ahmedabad,3,1693,Apartment,Fully Furnished,Ready to Move,0.5,0.2,9.44,104.98
+Chennai,2,776,Builder Floor,Semi-Furnished,Under Construction,6.46,1.63,5.98,78.2
+Hyderabad,1,628,Builder Floor,Unfurnished,Ready to Move,0.27,4.75,1.25,64.88
+Hyderabad,2,957,Independent House,Unfurnished,Under Construction,1.96,6.28,0.36,87.78
+Chennai,2,826,Apartment,Semi-Furnished,Under Construction,0.94,0.84,2.07,58.62
+Kolkata,2,1090,Apartment,Unfurnished,Under Construction,0.79,5.26,0.08,64.33
+Kolkata,2,981,Independent House,Semi-Furnished,Ready to Move,2.59,12.44,0.49,68.66
+Mumbai,4,2785,Apartment,Unfurnished,Ready to Move,0.66,9.49,0.8,584.26
+Mumbai,1,487,Apartment,Unfurnished,Ready to Move,6.2,6.23,3.29,91.36
+Bengaluru,2,903,Apartment,Semi-Furnished,Under Construction,1.3,4.98,2.14,81.44
+Pune,2,715,Independent House,Fully Furnished,Ready to Move,2.83,1.07,1.08,74.9
+Delhi NCR,2,850,Apartment,Semi-Furnished,Ready to Move,3.25,4.02,2.5,98.83
+Mumbai,2,953,Apartment,Fully Furnished,Ready to Move,2.87,4.12,0.4,245.9
+Hyderabad,2,887,Apartment,Fully Furnished,Ready to Move,5.84,2.09,4.23,77.39
+Bengaluru,1,472,Apartment,Unfurnished,Ready to Move,0.66,2.72,3.73,46.31
+Delhi NCR,2,731,Apartment,Semi-Furnished,Ready to Move,0.22,4.74,0.73,77.66
+Bengaluru,2,970,Independent House,Semi-Furnished,Under Construction,0.14,12.15,2.8,119.52
+Delhi NCR,1,628,Independent House,Fully Furnished,Ready to Move,5.26,1.4,2.1,99.72
+Delhi NCR,3,1496,Apartment,Semi-Furnished,Under Construction,9.06,1.13,0.19,181.8
+Chennai,2,704,Independent House,Fully Furnished,Ready to Move,0.9,3.68,0.98,73.26
+Mumbai,2,1029,Independent House,Unfurnished,Ready to Move,2.96,0.56,22.7,264.71
+Ahmedabad,3,1268,Apartment,Unfurnished,Ready to Move,0.02,3.49,0.31,61.46
+Bengaluru,1,580,Apartment,Semi-Furnished,Ready to Move,0.52,0.37,2.12,59.59
+Ahmedabad,1,509,Builder Floor,Semi-Furnished,Ready to Move,2.92,2.7,5.68,35.12
+Bengaluru,3,1277,Apartment,Unfurnished,Under Construction,0.17,3.87,1.07,121.57
+Chennai,2,842,Apartment,Semi-Furnished,Ready to Move,1.58,0.29,0.91,63.45
+Hyderabad,2,1061,Builder Floor,Unfurnished,Ready to Move,2.72,0.93,6.64,119.39
+Ahmedabad,3,1738,Apartment,Semi-Furnished,Ready to Move,3.63,1.63,1.09,99.19
+Hyderabad,3,1139,Apartment,Fully Furnished,Under Construction,1.51,1.84,3.16,111.13
+Kolkata,4,2723,Apartment,Fully Furnished,Ready to Move,2.49,4.51,4.04,191.07
+Mumbai,2,1054,Apartment,Semi-Furnished,Ready to Move,1.94,3.01,4.66,238.55
+Mumbai,2,954,Independent House,Semi-Furnished,Ready to Move,0.13,1.93,15.75,322.42
+Pune,2,842,Apartment,Semi-Furnished,Under Construction,3.39,2.4,4.88,62.67
+Chennai,1,639,Apartment,Unfurnished,Ready to Move,0.47,0.05,3.21,49.39
+Hyderabad,2,927,Apartment,Semi-Furnished,Ready to Move,0.08,5.89,6.77,68.59
+Delhi NCR,2,1040,Apartment,Unfurnished,Ready to Move,1.5,0.17,7.09,110.84
+Bengaluru,4,2509,Apartment,Fully Furnished,Under Construction,5.02,7.07,10.85,243.07
+Mumbai,2,764,Apartment,Fully Furnished,Ready to Move,0.41,3.11,4.49,191.47
+Ahmedabad,2,1087,Independent House,Semi-Furnished,Under Construction,0.03,3.0,0.65,73.69
+Bengaluru,2,710,Apartment,Semi-Furnished,Ready to Move,0.29,4.88,3.71,68.83
+Bengaluru,1,507,Apartment,Unfurnished,Ready to Move,1.13,7.85,0.23,41.71
+Pune,1,425,Apartment,Semi-Furnished,Ready to Move,2.17,11.43,1.15,32.06
+Hyderabad,2,850,Apartment,Semi-Furnished,Under Construction,0.54,3.14,0.37,82.41
+Mumbai,1,620,Apartment,Semi-Furnished,Ready to Move,4.05,0.65,8.98,133.44
+Bengaluru,2,1040,Apartment,Unfurnished,Under Construction,3.5,8.44,1.24,99.53
+Mumbai,3,1595,Independent House,Fully Furnished,Ready to Move,2.98,0.17,3.75,508.0
+Delhi NCR,3,1336,Apartment,Semi-Furnished,Under Construction,1.67,6.59,2.54,121.72
+Pune,2,936,Apartment,Fully Furnished,Ready to Move,1.14,4.56,0.34,86.04
+Delhi NCR,1,640,Apartment,Fully Furnished,Ready to Move,1.18,9.4,2.47,75.45
+Mumbai,3,1318,Builder Floor,Fully Furnished,Ready to Move,1.75,9.11,3.25,426.37
+Kolkata,3,1586,Apartment,Unfurnished,Ready to Move,0.2,0.22,6.4,99.84
+Ahmedabad,1,567,Apartment,Unfurnished,Ready to Move,2.87,3.76,0.22,28.19
+Mumbai,3,1560,Apartment,Semi-Furnished,Ready to Move,1.08,0.53,1.05,434.75
+Hyderabad,2,850,Apartment,Unfurnished,Ready to Move,0.64,0.33,3.54,61.64
+Bengaluru,3,1734,Apartment,Semi-Furnished,Ready to Move,0.82,2.38,0.1,176.24
+Bengaluru,4,2967,Builder Floor,Semi-Furnished,Ready to Move,0.5,0.41,0.68,408.68
+Delhi NCR,1,621,Apartment,Semi-Furnished,Ready to Move,5.8,5.21,0.74,60.88
+Ahmedabad,3,1288,Apartment,Unfurnished,Ready to Move,0.46,13.89,3.32,54.79
+Pune,2,954,Apartment,Fully Furnished,Ready to Move,5.36,3.37,1.01,80.78
+Kolkata,4,1867,Apartment,Unfurnished,Ready to Move,2.12,1.07,2.75,107.05
+Chennai,2,803,Apartment,Semi-Furnished,Ready to Move,5.05,7.41,10.09,51.92
+Ahmedabad,3,1435,Apartment,Semi-Furnished,Under Construction,1.61,7.67,4.73,84.95
+Bengaluru,1,558,Apartment,Semi-Furnished,Under Construction,6.57,5.28,1.21,51.4
+Hyderabad,2,1008,Apartment,Semi-Furnished,Ready to Move,0.59,3.82,1.92,86.55
+Ahmedabad,1,505,Apartment,Unfurnished,Ready to Move,2.02,8.09,0.67,25.54
+Delhi NCR,4,2099,Apartment,Semi-Furnished,Ready to Move,0.34,0.71,0.05,246.2
+Delhi NCR,3,1701,Independent House,Unfurnished,Ready to Move,1.48,10.73,1.03,206.43
+Chennai,3,1456,Apartment,Unfurnished,Ready to Move,2.11,11.77,1.38,100.69
+Hyderabad,4,2055,Apartment,Semi-Furnished,Ready to Move,2.33,8.22,2.49,159.19
+Pune,1,639,Builder Floor,Semi-Furnished,Ready to Move,1.14,1.15,8.65,71.4
+Ahmedabad,2,1052,Apartment,Semi-Furnished,Ready to Move,0.2,7.81,8.86,57.56
+Hyderabad,1,619,Independent House,Semi-Furnished,Ready to Move,2.66,2.75,0.22,64.48
+Pune,1,408,Builder Floor,Fully Furnished,Ready to Move,1.68,3.61,2.86,43.75
+Hyderabad,1,411,Independent House,Fully Furnished,Ready to Move,0.37,7.35,0.13,46.35
+Hyderabad,2,1024,Independent House,Semi-Furnished,Ready to Move,6.87,0.12,3.13,108.98
+Mumbai,2,943,Apartment,Unfurnished,Ready to Move,7.79,1.8,0.38,181.45
+Delhi NCR,1,581,Apartment,Semi-Furnished,Under Construction,4.86,6.76,8.78,64.09
+Ahmedabad,1,427,Apartment,Unfurnished,Under Construction,4.64,6.73,5.99,18.38
+Hyderabad,1,455,Apartment,Semi-Furnished,Ready to Move,0.26,7.55,0.07,41.24
+Ahmedabad,4,1898,Apartment,Semi-Furnished,Ready to Move,12.56,0.74,4.57,111.64
+Chennai,3,1296,Independent House,Semi-Furnished,Ready to Move,1.28,4.9,3.03,138.4
+Hyderabad,4,2281,Apartment,Semi-Furnished,Ready to Move,0.45,0.63,2.05,201.08
+Bengaluru,2,1065,Builder Floor,Unfurnished,Ready to Move,4.18,6.15,2.77,121.26
+Delhi NCR,2,925,Independent House,Semi-Furnished,Ready to Move,0.64,1.12,3.4,140.97
+Bengaluru,3,1714,Independent House,Semi-Furnished,Ready to Move,1.87,5.35,6.47,227.52
+Ahmedabad,2,805,Independent House,Semi-Furnished,Ready to Move,0.34,2.43,4.37,56.74
+Ahmedabad,2,1064,Independent House,Semi-Furnished,Under Construction,1.61,17.15,2.57,70.55
+Delhi NCR,1,511,Independent House,Semi-Furnished,Under Construction,2.04,3.47,5.22,69.73
+Ahmedabad,1,457,Apartment,Semi-Furnished,Ready to Move,1.48,4.0,13.01,24.95
+Bengaluru,2,777,Apartment,Semi-Furnished,Ready to Move,0.18,1.84,1.07,83.32
+Hyderabad,2,774,Independent House,Unfurnished,Ready to Move,1.66,5.3,0.38,92.67
+Hyderabad,2,741,Independent House,Unfurnished,Under Construction,1.58,2.73,3.94,80.71
+Mumbai,1,565,Apartment,Semi-Furnished,Under Construction,0.76,0.07,11.53,133.03
+Chennai,1,467,Apartment,Unfurnished,Under Construction,6.36,3.75,0.37,29.11
+Ahmedabad,3,1280,Apartment,Semi-Furnished,Ready to Move,1.35,7.1,1.7,73.0
+Bengaluru,1,432,Apartment,Semi-Furnished,Under Construction,4.99,1.08,0.19,40.6
+Ahmedabad,2,770,Builder Floor,Fully Furnished,Ready to Move,0.29,1.0,4.5,62.77
+Ahmedabad,3,1667,Builder Floor,Fully Furnished,Under Construction,0.96,3.76,8.91,119.46
+Pune,1,504,Apartment,Unfurnished,Under Construction,0.48,6.81,2.07,37.64
+Mumbai,1,599,Apartment,Fully Furnished,Ready to Move,1.31,1.15,1.58,123.2
+Bengaluru,2,800,Apartment,Semi-Furnished,Ready to Move,0.3,10.77,7.15,67.71
+Bengaluru,2,955,Apartment,Semi-Furnished,Under Construction,1.45,10.49,0.43,88.74
+Ahmedabad,2,1006,Apartment,Unfurnished,Ready to Move,1.09,0.9,6.67,58.33
+Mumbai,3,1685,Apartment,Fully Furnished,Ready to Move,0.63,1.22,1.49,498.09
+Hyderabad,1,570,Apartment,Unfurnished,Ready to Move,2.57,4.82,2.46,46.15
+Bengaluru,2,1076,Apartment,Fully Furnished,Ready to Move,7.54,12.12,2.25,105.92
+Hyderabad,2,842,Apartment,Unfurnished,Ready to Move,0.58,4.95,2.87,70.08
+Mumbai,1,565,Apartment,Semi-Furnished,Ready to Move,3.11,2.35,8.55,133.78
+Hyderabad,2,1098,Apartment,Semi-Furnished,Ready to Move,3.39,0.74,9.06,97.7
+Delhi NCR,2,960,Apartment,Unfurnished,Ready to Move,1.72,2.47,5.34,105.11
+Pune,2,920,Apartment,Unfurnished,Ready to Move,5.7,3.73,0.64,55.67
+Kolkata,1,482,Independent House,Semi-Furnished,Ready to Move,8.48,1.61,1.22,36.4
+Bengaluru,2,881,Independent House,Unfurnished,Ready to Move,1.12,2.86,2.01,105.34
+Chennai,2,1006,Independent House,Semi-Furnished,Ready to Move,2.63,0.56,7.08,93.17
+Pune,3,1621,Builder Floor,Semi-Furnished,Ready to Move,2.71,2.41,2.21,159.45
+Kolkata,1,539,Apartment,Fully Furnished,Under Construction,1.29,0.38,11.37,34.82
+Hyderabad,2,703,Apartment,Semi-Furnished,Ready to Move,0.95,0.2,12.38,68.66
+Bengaluru,2,1050,Apartment,Unfurnished,Under Construction,6.79,7.79,2.74,85.85
+Hyderabad,3,1380,Independent House,Semi-Furnished,Ready to Move,3.9,0.92,6.3,149.39
+Delhi NCR,2,914,Builder Floor,Unfurnished,Under Construction,0.3,3.42,21.48,126.68
+Mumbai,2,797,Apartment,Fully Furnished,Ready to Move,0.32,0.65,5.69,190.61
+Bengaluru,3,1519,Apartment,Fully Furnished,Ready to Move,6.4,1.22,3.21,180.26
+Kolkata,3,1200,Apartment,Semi-Furnished,Ready to Move,0.21,1.79,5.6,86.19
+Kolkata,2,708,Independent House,Unfurnished,Ready to Move,2.92,0.62,0.26,54.49
+Delhi NCR,2,760,Apartment,Fully Furnished,Ready to Move,0.64,0.19,3.02,112.69
+Delhi NCR,3,1408,Apartment,Fully Furnished,Ready to Move,0.09,8.39,0.73,174.45
+Ahmedabad,4,2457,Apartment,Fully Furnished,Ready to Move,0.15,0.05,0.37,161.28
+Bengaluru,3,1609,Apartment,Fully Furnished,Under Construction,1.17,0.25,6.7,191.1
+Hyderabad,2,762,Independent House,Semi-Furnished,Ready to Move,0.2,6.54,3.06,94.21
+Chennai,1,520,Apartment,Unfurnished,Ready to Move,2.27,1.33,0.84,34.24
+Kolkata,2,925,Independent House,Semi-Furnished,Ready to Move,2.61,5.13,1.47,78.04
+Kolkata,3,1204,Apartment,Semi-Furnished,Ready to Move,1.17,0.63,10.87,71.05
+Delhi NCR,2,959,Independent House,Semi-Furnished,Under Construction,3.4,1.08,5.95,139.93
+Pune,2,1048,Independent House,Semi-Furnished,Under Construction,1.68,3.4,0.05,116.15
+Delhi NCR,3,1524,Apartment,Unfurnished,Under Construction,1.41,17.91,11.71,159.76
+Chennai,2,954,Apartment,Semi-Furnished,Under Construction,1.31,0.31,1.38,82.15
+Hyderabad,3,1528,Apartment,Semi-Furnished,Ready to Move,1.41,2.05,3.57,136.86
+Hyderabad,2,906,Apartment,Unfurnished,Ready to Move,8.6,0.18,3.74,63.64
+Pune,2,727,Independent House,Semi-Furnished,Ready to Move,2.86,0.89,7.28,80.97
+Kolkata,2,869,Apartment,Fully Furnished,Under Construction,0.95,9.52,6.49,66.0
+Delhi NCR,3,1435,Independent House,Fully Furnished,Under Construction,3.31,0.41,0.99,218.92
+Ahmedabad,1,475,Apartment,Semi-Furnished,Ready to Move,1.0,7.78,3.09,27.35
+Hyderabad,1,515,Apartment,Semi-Furnished,Ready to Move,0.34,0.78,1.5,45.38
+Chennai,4,2892,Apartment,Unfurnished,Under Construction,1.61,7.92,2.24,177.57
+Bengaluru,1,497,Apartment,Semi-Furnished,Ready to Move,3.48,3.09,2.43,48.47
+Mumbai,2,933,Apartment,Semi-Furnished,Under Construction,1.19,8.42,1.51,190.34
+Mumbai,2,700,Independent House,Semi-Furnished,Ready to Move,5.08,0.66,1.87,190.28
+Mumbai,2,866,Apartment,Fully Furnished,Ready to Move,1.22,5.74,0.7,262.19
+Ahmedabad,2,1051,Independent House,Semi-Furnished,Ready to Move,1.08,4.57,2.81,70.43
+Kolkata,1,617,Apartment,Unfurnished,Ready to Move,15.86,3.13,4.27,34.01
+Delhi NCR,2,972,Apartment,Unfurnished,Ready to Move,1.65,6.66,1.68,84.24
+Pune,2,1067,Builder Floor,Semi-Furnished,Ready to Move,4.09,4.18,11.41,105.8
+Ahmedabad,2,950,Builder Floor,Semi-Furnished,Under Construction,4.09,8.38,0.18,55.94
+Ahmedabad,1,490,Apartment,Fully Furnished,Ready to Move,6.52,1.92,2.67,29.06
+Hyderabad,2,1043,Builder Floor,Semi-Furnished,Under Construction,0.22,3.57,2.63,121.78
+Bengaluru,1,562,Apartment,Semi-Furnished,Ready to Move,0.79,8.18,0.11,55.3
+Ahmedabad,2,873,Apartment,Semi-Furnished,Under Construction,3.65,0.97,0.76,44.93
+Chennai,1,569,Apartment,Semi-Furnished,Ready to Move,2.07,2.66,7.08,42.09
+Bengaluru,1,645,Builder Floor,Semi-Furnished,Ready to Move,2.05,12.95,2.36,77.25
+Chennai,3,1189,Apartment,Semi-Furnished,Ready to Move,0.45,2.57,1.72,92.02
+Kolkata,2,748,Apartment,Semi-Furnished,Ready to Move,0.83,1.17,1.61,55.15
+Delhi NCR,4,2093,Apartment,Unfurnished,Under Construction,1.84,1.73,6.57,224.68
+Mumbai,4,2718,Apartment,Fully Furnished,Ready to Move,0.81,8.65,1.37,598.25
+Ahmedabad,2,849,Apartment,Semi-Furnished,Ready to Move,0.59,12.39,5.88,48.33
+Delhi NCR,1,531,Apartment,Unfurnished,Under Construction,0.23,11.99,1.11,43.93
+Kolkata,2,758,Apartment,Unfurnished,Ready to Move,0.42,4.8,2.27,51.98
+Pune,3,1298,Apartment,Unfurnished,Under Construction,3.66,2.85,0.47,81.3
+Pune,2,914,Apartment,Semi-Furnished,Ready to Move,3.17,0.81,5.23,79.96
+Kolkata,1,529,Apartment,Unfurnished,Under Construction,0.12,0.53,4.0,35.26
+Chennai,2,748,Apartment,Unfurnished,Ready to Move,0.57,0.25,2.27,50.99
+Hyderabad,3,1571,Apartment,Semi-Furnished,Under Construction,2.06,0.07,0.08,149.79
+Hyderabad,3,1346,Independent House,Semi-Furnished,Ready to Move,0.97,8.42,1.97,134.71
+Chennai,1,525,Apartment,Unfurnished,Ready to Move,4.33,6.62,0.77,32.35
+Pune,2,938,Apartment,Semi-Furnished,Ready to Move,3.84,3.36,1.6,75.46
+Pune,1,558,Apartment,Semi-Furnished,Ready to Move,5.55,26.65,5.82,39.02
+Ahmedabad,1,510,Independent House,Fully Furnished,Ready to Move,2.07,12.23,4.4,33.88
+Pune,3,1267,Independent House,Semi-Furnished,Ready to Move,1.08,4.26,0.83,134.78
+Delhi NCR,1,447,Apartment,Unfurnished,Ready to Move,2.33,2.5,12.59,45.99
+Pune,2,750,Apartment,Semi-Furnished,Under Construction,0.23,0.66,7.01,65.4
+Bengaluru,1,442,Apartment,Semi-Furnished,Ready to Move,0.02,2.9,2.26,46.62
+Ahmedabad,3,1709,Apartment,Unfurnished,Under Construction,0.04,0.69,2.27,86.37
+Mumbai,3,1788,Apartment,Fully Furnished,Ready to Move,1.31,2.03,6.95,414.82
+Pune,2,1079,Apartment,Semi-Furnished,Ready to Move,0.65,11.43,3.03,81.59
+Chennai,3,1573,Independent House,Fully Furnished,Under Construction,0.43,1.67,2.31,177.14
+Mumbai,1,479,Apartment,Semi-Furnished,Under Construction,2.39,0.66,4.15,102.44
+Delhi NCR,2,884,Apartment,Semi-Furnished,Ready to Move,13.29,3.49,0.8,100.47
+Chennai,2,1066,Apartment,Semi-Furnished,Ready to Move,0.49,3.69,6.32,84.23
+Mumbai,1,604,Apartment,Semi-Furnished,Ready to Move,1.98,0.86,2.27,144.73
+Chennai,2,1098,Apartment,Semi-Furnished,Ready to Move,0.32,0.88,2.78,86.38
+Delhi NCR,4,2759,Apartment,Fully Furnished,Ready to Move,6.8,18.24,0.28,255.59
+Ahmedabad,1,621,Apartment,Semi-Furnished,Ready to Move,0.86,1.12,1.11,38.62
+Bengaluru,2,894,Apartment,Fully Furnished,Ready to Move,5.27,7.29,1.67,80.36
+Delhi NCR,1,613,Apartment,Fully Furnished,Ready to Move,0.83,2.54,1.6,69.2
+Delhi NCR,1,512,Apartment,Fully Furnished,Under Construction,4.1,2.28,4.52,56.47
+Chennai,3,1213,Apartment,Semi-Furnished,Under Construction,0.59,1.4,1.0,96.17
+Ahmedabad,2,941,Apartment,Semi-Furnished,Ready to Move,0.87,5.95,0.6,42.76
+Kolkata,2,823,Apartment,Unfurnished,Ready to Move,0.53,8.5,2.62,45.41
+Hyderabad,3,1687,Apartment,Semi-Furnished,Ready to Move,0.77,1.21,2.86,169.35
+Pune,1,454,Apartment,Unfurnished,Under Construction,4.5,0.4,0.39,33.4
+Pune,2,1011,Apartment,Unfurnished,Ready to Move,2.55,0.59,0.01,85.32
+Bengaluru,2,895,Apartment,Unfurnished,Ready to Move,1.3,6.3,7.49,78.75
+Bengaluru,2,1050,Apartment,Fully Furnished,Ready to Move,8.9,2.29,0.25,117.54
+Pune,4,2867,Apartment,Fully Furnished,Ready to Move,1.56,0.57,6.84,238.43
+Hyderabad,3,1514,Builder Floor,Semi-Furnished,Ready to Move,8.75,1.66,1.53,164.2
+Pune,2,885,Apartment,Semi-Furnished,Under Construction,0.55,2.89,3.18,74.53
+Kolkata,3,1345,Apartment,Semi-Furnished,Ready to Move,5.88,7.64,0.62,80.94
+Hyderabad,1,580,Apartment,Semi-Furnished,Ready to Move,0.03,4.11,5.21,51.2
+Bengaluru,1,483,Apartment,Semi-Furnished,Ready to Move,1.97,0.77,0.6,45.84
+Mumbai,1,606,Independent House,Semi-Furnished,Ready to Move,1.38,0.69,1.47,186.67
+Chennai,2,850,Apartment,Semi-Furnished,Ready to Move,1.86,2.13,0.82,73.7
+Kolkata,2,855,Builder Floor,Semi-Furnished,Ready to Move,2.02,0.31,5.45,70.84
+Kolkata,2,715,Apartment,Semi-Furnished,Ready to Move,1.23,5.64,5.86,44.19
+Ahmedabad,3,1264,Apartment,Semi-Furnished,Under Construction,15.8,2.05,1.4,60.41
+Bengaluru,2,844,Independent House,Fully Furnished,Under Construction,9.38,1.68,1.1,117.29
+Bengaluru,2,736,Apartment,Unfurnished,Ready to Move,8.16,2.85,4.46,63.17
+Delhi NCR,1,476,Apartment,Semi-Furnished,Under Construction,9.67,4.94,6.32,51.1
+Kolkata,1,546,Apartment,Semi-Furnished,Under Construction,3.94,3.37,2.93,32.98
+Delhi NCR,2,744,Apartment,Unfurnished,Ready to Move,11.18,6.49,7.87,79.65
+Delhi NCR,2,905,Apartment,Semi-Furnished,Ready to Move,5.57,3.97,1.45,89.12
+Chennai,3,1161,Apartment,Unfurnished,Ready to Move,1.34,6.2,0.49,75.89
+Delhi NCR,1,563,Apartment,Semi-Furnished,Ready to Move,3.84,4.77,0.59,64.09
+Hyderabad,1,499,Independent House,Semi-Furnished,Under Construction,6.08,0.86,3.32,56.54
+Pune,2,1007,Builder Floor,Semi-Furnished,Ready to Move,3.12,0.22,1.57,112.53
+Mumbai,1,418,Apartment,Semi-Furnished,Ready to Move,1.37,9.35,0.51,90.02
+Bengaluru,1,508,Apartment,Unfurnished,Ready to Move,0.17,11.65,1.04,47.3
+Hyderabad,3,1399,Apartment,Semi-Furnished,Ready to Move,4.15,5.19,2.27,100.75
+Mumbai,1,406,Apartment,Unfurnished,Ready to Move,7.63,5.15,0.39,75.22
+Kolkata,2,948,Builder Floor,Fully Furnished,Ready to Move,1.13,1.26,0.01,86.98
+Kolkata,2,816,Apartment,Fully Furnished,Ready to Move,0.41,3.13,7.48,59.58
+Kolkata,1,467,Apartment,Semi-Furnished,Under Construction,0.99,19.43,1.09,26.54
+Hyderabad,2,733,Independent House,Fully Furnished,Under Construction,2.18,7.76,0.75,75.11
+Hyderabad,3,1424,Independent House,Semi-Furnished,Under Construction,0.95,1.45,3.6,177.85
+Bengaluru,2,754,Apartment,Fully Furnished,Under Construction,2.36,1.43,5.76,89.78
+Pune,3,1141,Apartment,Semi-Furnished,Under Construction,8.52,2.64,3.0,84.93
+Ahmedabad,1,440,Apartment,Unfurnished,Ready to Move,2.78,2.07,0.88,24.77
+Delhi NCR,3,1330,Builder Floor,Fully Furnished,Ready to Move,1.13,1.86,5.93,229.35
+Kolkata,1,596,Apartment,Unfurnished,Ready to Move,6.86,3.94,2.14,27.37
+Chennai,2,1077,Apartment,Unfurnished,Ready to Move,2.08,0.05,1.44,77.34
+Pune,2,1093,Apartment,Unfurnished,Ready to Move,0.34,5.76,2.78,92.29
+Chennai,4,2951,Apartment,Semi-Furnished,Under Construction,1.73,5.39,3.62,189.8
+Bengaluru,2,878,Apartment,Semi-Furnished,Ready to Move,2.65,7.1,2.7,72.69
+Bengaluru,1,548,Builder Floor,Semi-Furnished,Ready to Move,4.55,7.37,7.59,63.58
+Bengaluru,1,535,Independent House,Fully Furnished,Ready to Move,6.89,3.34,2.97,74.53
+Mumbai,3,1292,Builder Floor,Unfurnished,Ready to Move,0.95,6.06,6.33,326.99
+Chennai,2,791,Apartment,Fully Furnished,Under Construction,0.42,2.71,2.65,65.58
+Pune,3,1177,Independent House,Fully Furnished,Ready to Move,0.19,12.11,1.2,111.58
+Ahmedabad,1,484,Independent House,Unfurnished,Ready to Move,3.35,0.85,2.28,30.74
+Pune,2,729,Apartment,Semi-Furnished,Ready to Move,3.96,9.89,0.27,46.56
+Hyderabad,1,612,Apartment,Fully Furnished,Under Construction,1.32,1.2,0.78,59.55
+Hyderabad,4,1848,Apartment,Semi-Furnished,Ready to Move,1.26,0.43,4.36,189.21
+Kolkata,2,964,Independent House,Semi-Furnished,Ready to Move,7.71,2.31,3.25,63.31
+Ahmedabad,4,2968,Apartment,Semi-Furnished,Under Construction,6.21,3.82,0.55,150.2
+Hyderabad,2,768,Builder Floor,Semi-Furnished,Ready to Move,0.66,1.05,1.73,95.76
+Bengaluru,2,757,Apartment,Unfurnished,Ready to Move,3.79,3.25,0.46,62.91
+Pune,2,884,Apartment,Semi-Furnished,Ready to Move,2.44,6.6,5.81,70.35
+Chennai,2,761,Apartment,Unfurnished,Under Construction,0.42,1.19,0.35,60.27
+Bengaluru,3,1578,Apartment,Semi-Furnished,Ready to Move,1.1,3.47,3.19,162.57
+Mumbai,4,2619,Apartment,Fully Furnished,Ready to Move,0.49,1.66,2.8,689.86
+Hyderabad,3,1544,Builder Floor,Semi-Furnished,Ready to Move,0.87,3.02,1.92,159.52
+Bengaluru,3,1395,Apartment,Fully Furnished,Ready to Move,2.39,4.4,0.98,144.35
+Bengaluru,2,865,Apartment,Semi-Furnished,Ready to Move,1.18,1.73,1.55,91.5
+Mumbai,2,870,Apartment,Semi-Furnished,Ready to Move,1.25,20.8,4.93,159.53
+Delhi NCR,4,1946,Apartment,Semi-Furnished,Ready to Move,1.94,3.32,4.3,180.29
+Pune,1,627,Apartment,Fully Furnished,Ready to Move,0.23,6.96,4.03,55.04
+Chennai,3,1405,Apartment,Semi-Furnished,Ready to Move,3.36,5.17,4.16,102.4
+Kolkata,3,1772,Independent House,Unfurnished,Ready to Move,1.28,7.66,0.47,124.55
+Delhi NCR,2,840,Apartment,Fully Furnished,Ready to Move,1.64,0.76,0.31,93.9
+Hyderabad,4,2815,Apartment,Semi-Furnished,Ready to Move,9.15,1.01,5.93,255.89
+Bengaluru,2,796,Apartment,Unfurnished,Ready to Move,1.06,2.67,5.45,76.93
+Ahmedabad,2,920,Apartment,Semi-Furnished,Under Construction,2.61,7.65,3.43,51.89
+Mumbai,1,442,Builder Floor,Fully Furnished,Ready to Move,1.25,0.88,2.79,135.78
+Mumbai,2,991,Apartment,Semi-Furnished,Ready to Move,5.62,14.17,1.37,196.73
+Ahmedabad,2,1077,Builder Floor,Semi-Furnished,Ready to Move,4.69,0.55,0.76,76.4
+Pune,2,807,Apartment,Fully Furnished,Ready to Move,0.69,0.77,3.3,82.77
+Delhi NCR,3,1365,Apartment,Semi-Furnished,Under Construction,2.94,0.73,7.33,166.78
+Kolkata,4,1894,Independent House,Semi-Furnished,Ready to Move,0.17,3.53,1.72,145.02
+Pune,1,405,Apartment,Unfurnished,Ready to Move,8.25,9.98,1.08,26.08
+Ahmedabad,2,1012,Apartment,Unfurnished,Ready to Move,1.07,1.18,0.95,53.24
+Bengaluru,4,2696,Apartment,Semi-Furnished,Ready to Move,4.46,3.22,0.07,256.31
+Ahmedabad,1,470,Independent House,Fully Furnished,Ready to Move,0.96,0.77,2.2,33.95
+Pune,1,585,Apartment,Unfurnished,Ready to Move,2.5,3.99,13.33,37.67
+Chennai,1,618,Apartment,Semi-Furnished,Under Construction,10.27,0.53,5.07,53.03
+Mumbai,2,720,Apartment,Unfurnished,Under Construction,5.23,2.7,6.83,161.56
+Mumbai,1,491,Apartment,Semi-Furnished,Ready to Move,0.44,4.26,2.91,124.48
+Hyderabad,4,1926,Builder Floor,Unfurnished,Ready to Move,1.98,3.46,1.97,202.83
+Hyderabad,2,779,Apartment,Unfurnished,Under Construction,1.07,0.6,13.96,71.17
+Ahmedabad,2,1011,Apartment,Unfurnished,Ready to Move,1.42,0.7,1.78,58.81
+Kolkata,1,637,Independent House,Semi-Furnished,Ready to Move,1.02,4.45,7.46,57.1
+Bengaluru,2,1071,Apartment,Semi-Furnished,Under Construction,1.02,6.62,4.3,101.34
+Chennai,2,881,Apartment,Unfurnished,Ready to Move,1.96,9.55,1.21,54.18
+Delhi NCR,3,1124,Apartment,Fully Furnished,Ready to Move,0.53,6.72,2.1,137.5
+Pune,3,1255,Apartment,Unfurnished,Ready to Move,1.93,14.59,1.46,93.33
+Kolkata,2,704,Apartment,Semi-Furnished,Ready to Move,0.82,2.1,0.44,45.21
+Bengaluru,3,1731,Apartment,Fully Furnished,Under Construction,0.85,1.61,1.32,190.6
+Hyderabad,3,1629,Apartment,Semi-Furnished,Ready to Move,3.36,0.11,6.59,160.32
+Ahmedabad,3,1156,Apartment,Semi-Furnished,Under Construction,0.08,2.39,4.19,64.57
+Pune,1,492,Apartment,Unfurnished,Ready to Move,1.2,4.21,0.98,41.84
+Hyderabad,1,418,Apartment,Semi-Furnished,Ready to Move,1.31,6.76,1.38,38.44
+Ahmedabad,1,527,Apartment,Semi-Furnished,Ready to Move,1.66,1.24,2.87,35.48
+Pune,2,1052,Builder Floor,Fully Furnished,Ready to Move,2.76,2.88,1.61,135.54
+Delhi NCR,2,892,Apartment,Unfurnished,Ready to Move,1.15,4.34,2.1,96.74
+Bengaluru,2,936,Apartment,Semi-Furnished,Ready to Move,0.6,3.21,3.59,113.54
+Pune,3,1486,Apartment,Semi-Furnished,Under Construction,5.4,1.28,1.89,119.47
