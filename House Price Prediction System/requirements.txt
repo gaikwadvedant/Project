@@ -1,9 +1,7 @@
 streamlit
-streamlit-folium
-folium
 pandas
 numpy
 scikit-learn
 xgboost
-geopy
-joblib
+folium
+streamlit-folium
