@@ -6,3 +6,4 @@ xgboost
 folium
 streamlit-folium
 geopy
+ollama
