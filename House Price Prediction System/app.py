@@ -114,8 +114,9 @@ st.markdown(
 with st.sidebar:
     st.title("⚙️ Engine Controls")
     # Updated sidebar selector to feature Google's Cloud Models
+    # Updated sidebar selector to feature Google's Cloud Models
     selected_ai_model = st.selectbox(
-        "Cloud AI Engine", options=["gemini-1.5-flash", "gemini-1.5-pro"], index=0
+        "Cloud AI Engine", options=["gemini-3.8-flash", "gemini-3.5-flash-lite"], index=0
     )
     enable_ai = st.toggle("Generate AI Strategic Report", value=True)
     st.divider()
