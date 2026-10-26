@@ -464,8 +464,7 @@ with tab_ai:
                 except Exception as e:
                     yield f"⚠️ Could not connect to Gemini API. Details: {e}"
 
-            # FIX: Added () to actually execute the generator function!
-            st.write_stream(stream_gemini()) 
+            st.write_stream(stream_gemini())
         else:
             st.info(
                 "Enable the 'Generate AI Strategic Report' toggle in the sidebar to stream analysis."
