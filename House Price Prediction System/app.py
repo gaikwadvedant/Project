@@ -115,8 +115,9 @@ with st.sidebar:
     st.title("⚙️ Engine Controls")
     # Updated sidebar selector to feature Google's Cloud Models
     # Updated sidebar selector to feature Google's Cloud Models
+   # Change it to look like this:
     selected_ai_model = st.selectbox(
-        "Cloud AI Engine", options=["gemini-3.8-flash", "gemini-3.5-flash-lite"], index=0
+        "Cloud AI Engine", options=["gemini-3.8-flash", "gemini-2.5-flash", "gemini-flash-latest"], index=0
     )
     enable_ai = st.toggle("Generate AI Strategic Report", value=True)
     st.divider()
@@ -463,7 +464,8 @@ if st.session_state["has_calculated"]:
                 except Exception as e:
                     yield f"⚠️ Could not connect to Gemini API. Ensure you added GEMINI_API_KEY in Streamlit Secrets. Details: {e}"
 
-            st.write_stream(stream_gemini)
+      # Change it from st.write_stream(stream_gemini) to this:
+            st.write_stream(stream_gemini())
         else:
             st.info(
                 "Enable the 'Generate AI Strategic Report' toggle in the sidebar to stream analysis."
