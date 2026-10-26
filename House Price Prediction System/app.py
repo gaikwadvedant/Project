@@ -5,7 +5,7 @@ from jinja2 import Template
 import numpy as np
 import streamlit as st
 from streamlit_folium import st_folium
-import google.generativeai as genai  # Replaced ollama with Google Generative AI
+import google.generativeai as genai
 
 BASE_DIR = Path(__file__).resolve().parent
 TEMPLATE_PATH = BASE_DIR / "templates" / "index.html"
@@ -113,9 +113,6 @@ st.markdown(
 
 with st.sidebar:
     st.title("⚙️ Engine Controls")
-    # Updated sidebar selector to feature Google's Cloud Models
-    # Updated sidebar selector to feature Google's Cloud Models
-   # Change it to look like this:
     selected_ai_model = st.selectbox(
         "Cloud AI Engine", options=["gemini-3.8-flash", "gemini-2.5-flash", "gemini-flash-latest"], index=0
     )
@@ -144,7 +141,6 @@ if location_query:
             if "India" not in location_query
             else location_query
         )
-        # Added timeout=10 to give the server up to 10 seconds to respond
         location_info = geolocator.geocode(query_str, timeout=10)
     except Exception as e:
         st.error(f"Geocoding service error: {e}")
@@ -216,7 +212,7 @@ if st.session_state["selected_prop_type"] in ["Bungalow / Villa", "Independent H
     with v_col2:
         parking_spaces = st.selectbox(
             "Private Parking / Garage Capacity",
-            ["1 Private Car Park", "2 Private Car Parks", "3+ Private slots / Covered Garage"],
+            ["1 Private Car Park", "2 Private Car Parks", "3+ Private Slots / Covered Garage"],
             index=1,
             key="villa_parking",
         )
@@ -435,7 +431,7 @@ if st.session_state["has_calculated"]:
                 unsafe_allow_html=True,
             )
 
-with tab_ai:
+    with tab_ai:
         if enable_ai:
             ai_prompt = f"""
             You are a senior real estate analyst. Provide a professional evaluation report for:
