@@ -435,7 +435,7 @@ if st.session_state["has_calculated"]:
                 unsafe_allow_html=True,
             )
 
-    with tab_ai:
+with tab_ai:
         if enable_ai:
             ai_prompt = f"""
             You are a senior real estate analyst. Provide a professional evaluation report for:
@@ -462,10 +462,10 @@ if st.session_state["has_calculated"]:
                         if chunk.text:
                             yield chunk.text
                 except Exception as e:
-                    yield f"⚠️ Could not connect to Gemini API. Ensure you added GEMINI_API_KEY in Streamlit Secrets. Details: {e}"
+                    yield f"⚠️ Could not connect to Gemini API. Details: {e}"
 
-      # Change it from st.write_stream(stream_gemini) to this:
-            st.write_stream(stream_gemini())
+            # FIX: Added () to actually execute the generator function!
+            st.write_stream(stream_gemini()) 
         else:
             st.info(
                 "Enable the 'Generate AI Strategic Report' toggle in the sidebar to stream analysis."
