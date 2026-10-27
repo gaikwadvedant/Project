@@ -127,26 +127,31 @@ with col_search:
         placeholder="Type any place name in India...",
     )
 
-location_info = None
-if location_query:
+# 1. Create a cached function so Streamlit remembers the coordinates
+@st.cache_data(ttl=86400, show_spinner=False) # Caches results for 24 hours
+def get_coordinates(query):
     try:
-        query_str = (
-            f"{location_query}, India"
-            if "India" not in location_query
-            else location_query
-        )
-        location_info = geolocator.geocode(query_str, timeout=10)
+        query_str = f"{query}, India" if "India" not in query else query
+        # Adding timeout=10 to prevent ReadTimeoutErrors
+        loc = geolocator.geocode(query_str, timeout=10)
+        if loc:
+            return loc.latitude, loc.longitude, loc.address
     except Exception as e:
-        st.error(f"Geocoding service error: {e}")
+        st.error(f"Geocoding error: {e}")
+    return None
 
-if location_info:
-    lat, lon = location_info.latitude, location_info.longitude
-    formatted_address = location_info.address
-    with col_info:
-        st.info(f"**GPS Coordinates:** `{lat:.4f}, {lon:.4f}`")
-else:
-    lat, lon = 19.2437, 73.1355
-    formatted_address = location_query
+# 2. Use the cached function
+if location_query:
+    result = get_coordinates(location_query)
+    
+    if result:
+        lat, lon, formatted_address = result
+        with col_info:
+            st.info(f"**GPS Coordinates:** `{lat:.4f}, {lon:.4f}`")
+    else:
+        # Fallback coordinates if location not found or API fails
+        lat, lon = 19.2437, 73.1355
+        formatted_address = location_query
 
 st.subheader("📋 Select Property Category")
 
