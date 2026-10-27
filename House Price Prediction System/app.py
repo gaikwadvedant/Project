@@ -1,7 +1,7 @@
 from pathlib import Path
 import folium
-from geopy.geocoders import Nominatim
-from jinja2 import Template 
+from geopy.geocoders import ArcGIS
+from jinja2 import Template
 import numpy as np
 import ollama
 import streamlit as st
@@ -11,7 +11,7 @@ BASE_DIR = Path(__file__).resolve().parent
 TEMPLATE_PATH = BASE_DIR / "templates" / "index.html"
 
 st.set_page_config(
-    page_title="BhumiPulse  | House Price Prediction ",
+    page_title="BhumiPulse | House Price Prediction",
     page_icon="⚡",
     layout="wide",
     initial_sidebar_state="expanded",
@@ -93,7 +93,8 @@ if "calc_results" not in st.session_state:
 if "chat_messages" not in st.session_state:
     st.session_state["chat_messages"] = []
 
-geolocator = Nominatim(user_agent="vedant_project_v1")
+# Switched to ArcGIS to prevent rate limit and timeout errors
+geolocator = ArcGIS()
 
 st.markdown(
     """
@@ -127,12 +128,11 @@ with col_search:
         placeholder="Type any place name in India...",
     )
 
-# 1. Create a cached function so Streamlit remembers the coordinates
-@st.cache_data(ttl=86400, show_spinner=False) # Caches results for 24 hours
+# Cached function to remember coordinates
+@st.cache_data(ttl=86400, show_spinner=False)
 def get_coordinates(query):
     try:
         query_str = f"{query}, India" if "India" not in query else query
-        # Adding timeout=10 to prevent ReadTimeoutErrors
         loc = geolocator.geocode(query_str, timeout=10)
         if loc:
             return loc.latitude, loc.longitude, loc.address
@@ -140,7 +140,6 @@ def get_coordinates(query):
         st.error(f"Geocoding error: {e}")
     return None
 
-# 2. Use the cached function
 if location_query:
     result = get_coordinates(location_query)
     
