@@ -93,7 +93,7 @@ if "calc_results" not in st.session_state:
 if "chat_messages" not in st.session_state:
     st.session_state["chat_messages"] = []
 
-geolocator = Nominatim(user_agent="bhumipulse_ai_engine")
+geolocator = Nominatim(user_agent="vedant_project_v1")
 
 st.markdown(
     """
