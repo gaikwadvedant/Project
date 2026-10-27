@@ -3,9 +3,9 @@ import folium
 from geopy.geocoders import Nominatim
 from jinja2 import Template 
 import numpy as np
+import ollama
 import streamlit as st
 from streamlit_folium import st_folium
-import google.generativeai as genai
 
 BASE_DIR = Path(__file__).resolve().parent
 TEMPLATE_PATH = BASE_DIR / "templates" / "index.html"
@@ -16,12 +16,6 @@ st.set_page_config(
     layout="wide",
     initial_sidebar_state="expanded",
 )
-
-# Securely load the API key from Streamlit Cloud Secrets
-try:
-    genai.configure(api_key=st.secrets["GEMINI_API_KEY"])
-except Exception as e:
-    st.sidebar.error("⚠️ GEMINI_API_KEY not found in Streamlit Secrets. Please add it in your App Settings.")
 
 st.markdown(
     """
@@ -114,7 +108,7 @@ st.markdown(
 with st.sidebar:
     st.title("⚙️ Engine Controls")
     selected_ai_model = st.selectbox(
-        "Cloud AI Engine", options=["gemini-3.8-flash", "gemini-2.5-flash", "gemini-flash-latest"], index=0
+        "Local LLM Engine", options=["llama3.2:3b", "llama3:latest"], index=0
     )
     enable_ai = st.toggle("Generate AI Strategic Report", value=True)
     st.divider()
@@ -141,7 +135,7 @@ if location_query:
             if "India" not in location_query
             else location_query
         )
-        location_info = geolocator.geocode(query_str, timeout=10)
+        location_info = geolocator.geocode(query_str)
     except Exception as e:
         st.error(f"Geocoding service error: {e}")
 
@@ -449,18 +443,20 @@ if st.session_state["has_calculated"]:
             Keep formatting clean and professional.
             """
 
-            def stream_gemini():
+            def stream_ollama():
                 try:
-                    # Streamlit uses the selected Gemini model here
-                    model = genai.GenerativeModel(selected_ai_model)
-                    response = model.generate_content(ai_prompt, stream=True)
+                    response = ollama.chat(
+                        model=selected_ai_model,
+                        messages=[{"role": "user", "content": ai_prompt}],
+                        stream=True,
+                        keep_alive="2m",
+                    )
                     for chunk in response:
-                        if chunk.text:
-                            yield chunk.text
+                        yield chunk["message"]["content"]
                 except Exception as e:
-                    yield f"⚠️ Could not connect to Gemini API. Details: {e}"
+                    yield f"⚠️ Could not connect to local Ollama. Ensure `ollama serve` is active. Details: {e}"
 
-            st.write_stream(stream_gemini())
+            st.write_stream(stream_ollama)
         else:
             st.info(
                 "Enable the 'Generate AI Strategic Report' toggle in the sidebar to stream analysis."
@@ -487,47 +483,34 @@ if st.session_state["has_calculated"]:
         "I am strictly configured to answer questions about the BhumiPulse real estate project, current property valuation metrics, and financial calculations."
         """
 
-        # Display previous chat messages
         for msg in st.session_state["chat_messages"]:
             with st.chat_message(msg["role"]):
                 st.markdown(msg["content"])
 
         if user_query := st.chat_input("Ask a question about this valuation, loan parameters, or project architecture..."):
-            
-            # Append user query to UI state
             st.session_state["chat_messages"].append({"role": "user", "content": user_query})
             with st.chat_message("user"):
                 st.markdown(user_query)
 
-            # Convert Streamlit chat history to Gemini's required format
-            gemini_history = []
-            for msg in st.session_state["chat_messages"][:-1]:  # Exclude the current query we just added
-                role = "user" if msg["role"] == "user" else "model"
-                gemini_history.append({"role": role, "parts": [msg["content"]]})
+            messages_payload = [{"role": "system", "content": system_instruction}]
+            for msg in st.session_state["chat_messages"]:
+                messages_payload.append({"role": msg["role"], "content": msg["content"]})
 
             with st.chat_message("assistant"):
                 message_placeholder = st.empty()
                 full_response = ""
                 try:
-                    # Initialize Gemini model with System Instructions and Chat History
-                    chat_model = genai.GenerativeModel(
-                        model_name=selected_ai_model,
-                        system_instruction=system_instruction
+                    response = ollama.chat(
+                        model=selected_ai_model,
+                        messages=messages_payload,
+                        stream=True,
                     )
-                    chat_session = chat_model.start_chat(history=gemini_history)
-                    
-                    # Stream the response
-                    response = chat_session.send_message(user_query, stream=True)
-                    
                     for chunk in response:
-                        if chunk.text:
-                            full_response += chunk.text
-                            message_placeholder.markdown(full_response + "▌")
+                        full_response += chunk["message"]["content"]
+                        message_placeholder.markdown(full_response + "▌")
                     message_placeholder.markdown(full_response)
-                    
                 except Exception as e:
-                    full_response = f"⚠️ Could not generate response. Ensure API Key is correct. Details: {e}"
+                    full_response = f"⚠️ Could not generate response. Ensure `ollama serve` is running. Details: {e}"
                     message_placeholder.markdown(full_response)
 
-            # Save the final AI response to state
             st.session_state["chat_messages"].append({"role": "assistant", "content": full_response})
