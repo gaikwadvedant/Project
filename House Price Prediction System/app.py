@@ -135,7 +135,7 @@ if location_query:
             if "India" not in location_query
             else location_query
         )
-        location_info = geolocator.geocode(query_str)
+        location_info = geolocator.geocode(query_str, timeout=10)
     except Exception as e:
         st.error(f"Geocoding service error: {e}")
 
